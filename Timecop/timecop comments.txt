@@ -1,0 +1,53 @@
+I'm going to let the game speak for itself, for the most part. The only extra trick I'll refer to as the "glitch jump." This involves pressing jump on a certain frame during the end of cutscene transitions, and the actions will occur during the "opening" for the following stage. Saves a very minor amount of time with the exception of the one before Sky High, which would actually move you up an additional level.
+
+FBI GET ON IT
+I missed the glitch jump at the start, but that tends to screw things up more often than not. I need to finish with exactly 3:11 on the clock to influence the platforms in the next stage.
+
+Floormaster
+Hit a great elevator pattern, although not perfect. Normally I'll be pushed away from the ledge when I land on that second level, but it didn't this time which allowed me to keep up with the cycle.
+
+Roundabout
+Just a really long stage. I didn't get as many of the sentry jumps as I would have liked, but otherwise the stage went by pretty well. Skipping the clocks save time at the end where time counts down.
+
+TIMECAR
+Great stage. I wasn't knocked back at all and things went as expected.
+
+Octopus Parade
+Some really silly mechanics in this stage, but for the most part it went fine. I recovered HP when I needed it without turning around. Skipped the clock again. Some periods of bad lag hurt this stage, but I think only by a second at most.
+
+Reverse Touhou
+Nothing to see here, move along.
+
+Gangsta Paradise
+I have several strategies for this stage depending on how well I'm able to go with my strategy, but everything went pretty well this time. This is a very difficult level since all of lower window gunmen are very difficult to get around.
+
+Low Rider
+This stage is much easier than the last since all of the enemies are in the upper parts of buildings and there are less of them. No issues.
+
+ATM
+No big issues here. Got caught on a couple of the wandering guys, but otherwise fine.
+
+GERMAN
+Managed to get the glitch jump. The stage itself went fine although getting hit by the tank mortar costs some time.
+
+Brainblast
+To be honest, I don't have a strategy for this stage. I just run and pray. It works out most of the time though. I got hit back once, but otherwise the stage was fine.
+
+Timecar's Revenge
+I also don't have a strategy for this stage, but it's more consistent than the previous one. Got hit back a couple of times, but some lucky big heart drops kept me healthy up to the end.
+
+Super Scroll
+This is the major RNG stage of the run. The conveyor belts switch whenever the RNG hits 256 (changes on every frame) and I can't really predict it. Ideally I would be able to move past the scrolling for both platforms since they don't spawn yet, but I was only able to get the second one which is more important.
+
+Corner Trap
+I have a pretty good route for this stage and it went well. Could have been slightly better, but 2:31 is an above average time for the stage.
+
+Sky High
+Didn't get the glitch jump at the start which saves 2 seconds from skipping a platform. Otherwise I reduce the lag where possible and the rest goes well.
+
+Jetpack Hug
+Setting up the hug was a little sloppy, but ended fine.
+
+That's Timecop. I probably won't revisit it, but I imagine with perfect luck and some other optimizations another 15-20 seconds can be saved. I'm satisfied with this run, though, and I hope you all enjoy watching it.
+
+~Omnigamer

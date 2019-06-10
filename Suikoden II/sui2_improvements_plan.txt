@@ -1,0 +1,95 @@
+PLAN:
+
+-Play through Sui2 again with savestates at every major menu point
++Look up other formations that might get to good exp points early on - NOPE
+-Remove Nanami, add Luc on way to Fitcher? Then add runes to him when recruiting Adlai... Currently takes 35 sec to sell, give runes at TR
+-Maybe don't buy spare Jizos before TR?
+-Try out soldier skips at TR
+-Think of other arrangements of party members for Kiba battle
+-Figure out party organization when Gilbert not recruited
+-Figure out new money route based on later revisit to SW rune shop
+-Test more Kiba positioning shenanigans
+-Minor changes to S&C, using Eilie + Flik for supplemental damage?
+-Look into slightly different Pest Rat, where Luc can die in 2T but use his Bolt of Wrath item to finish Rat. Or maybe even just attacks.
+
+-Where do I buy 2x Escape Talismans now?
+
+-Consideration: include Chaco in initial party to Banner, do equipment swapping then (Viki Mag Ring, Karate, etc) then replace him with Freed in War Room.
+
+-In war battles where units "disappear", units are reassigned only when talking to Apple. If don't talk, they will reappear with units! Also, talking to Apple randomly distributes that missing member's group + others to fill slots.
+
+-Need 12.6k potch as things stand. Have around 16k with perfect Tai Ho, otherwise can lose twice for 12k. Can sell Spark (or Hazy, if available) after Double Head for quick 2k to account for remaining amount. If 5x MW at Sindar, then should have enough regardless. Can also defeat rabbits during Border leveling (post-deaths) for 300 potch per.
+
+
+Get saves at:
++Just before Mist monster (equips and others)
++Ryube Forest (to get equips or not?)
++Sindar Ruins (after placing triangle)
++Highland border (after talking to guard)
++Pre-muse battle (for Gilbert)
++South Window, pre-sales
++Just after getting Kahn, before SDS
++Pre-TR, in SW (before rune shop)
++Just before fights in Greenhill
++Best opportunity to change units (pre-Kiba, after Radat? maybe earlier?)
++After scenes with Sheena! For party setup
++in Banner, before buying/equipmenting
++After Gregminster, before removing Kasumi's equips
++After Ridley battle, prior to Luca Battle and rearranging units
++Selecting units for Luca battle
+-Just before battle at Muse Peace (encounter skip)
+-First arrival in Tinto
+-After first Neclord escape (for party setup)
+-Greenhill liberation party selection, equipmenting
+-Post-Greenhill Liberation rune swapping
+-Pre-Rockaxe battle (arrange?)
+-Nanami death scene
+-L'Ren party selection
+-Post S&C changes
+
+
+AT THE END:
+
+Need Templton, Chaco on Flik
+Need Cavalry units on:
+-Viktor
+-Kasumi
+-Ridley
+Gilbert needs high defense (?)
+-Give Apple, Shu
+
+Cavalry units:
+-Klaus - get after Kiba...
+-Miklotov - after Matilda
+-Camus - after Matilda
+-Chaco - after TR
+
+Arrange points:
+-Before Kiba (necessary)
+--Do before investigating Radat?
+-Before Luca
+-Before Rockaxe
+
+pre-Kiba:
+-Luc with Shu, Miklotov
+-Flik with Tsai
+-Gilbert w/ Chaco, Adlai
+
+IF NO GILBERT:
+-Teresa w/ 
+
+Leave same for Luca battle
+
+Opportunities to get Templton + Arrange:
+-After returning from Tinto (before Lucia)
+
+CURRENT NEEDS:
+-Figure out better/best place to pick up 2x Talisman, 1x Jizo
+--Can buy on any trip through Lakewest
++Figure out optimal war battle setup (can I get away with 2x instead of 3x?)
+-Can money route work to get 2x Talismans in first Muse trip?
+-Need to optimize for battle commands...
+-Redo some equipment sections to remove unnecessary stuff (Bolts of Wrath)
+-Look for points to Best on characters to clear out inventory
+--Viki, Kasumi especially
+-Redo without Gilbert to see if any changes to WB strategies/troops

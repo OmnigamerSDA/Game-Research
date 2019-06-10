@@ -1,0 +1,53 @@
+Skyblazer improvements:
+
+-Shirol: other zip setup. Quicker boss strat? One-frame climb after lava skip!
+-Zips: wallcling vs not for other situations?
+-Ice: Manipulate extra magic somewhere?
+
+7124
+8454
+
+
+9166 - start
+9771 - dboost 1
+9796 - no dboost
+9780 - dboost 2
+
+
+9828 - start
+10654 - dboost
+10665 - old strat
+
+10692 start
+10858 - ground zip
+10944 - old strat
+
+
+1912 - kill all
+1966 - bad
+
+20277 - new
+20279 - jump
+
+
+32167 - comets
+32270 - no comets
+
+
+33754 - start
+34489 - old strat
+34209 - comet
+
+36510
+
+62977 - use all mag
+63157 - save 2 mag
+63300 - save 4 mag
+
+
+60959 - start
+61436 - old strat
+61383 - skip refill
+
+65335 - all comets
+65390 - lava zip

@@ -1,0 +1,64 @@
+King's Road - 8 sec, lightning
+Pale Palace - 15 sec, ???
+Shredding - 6 sec, Wind
+Shining Light - 6.5 sec, Shield
+
+100ish damage from cross slice.
+
+39:50 - 42:37. 2:45
+
+39:48 - 41:27. 1:30
+	41:34 if fighting 3 zombie groups.
+
+Dragon Fireball attack does ~384 damage. Just enough for Violence at level 49. Flame Breath does ~260. 
+
+Required (27):
+
+1. Riou
+2. Nanami
+3. Gengen
+4. Kinnison
+5. Shiro
+6. Apple
+7. Hanna
+8. Tsai
+9. Tuta
+10. Bolgan
+11. Eilie
+12. Rina
+13. Flik
+14. Viktor
+15. Freed Y
+16. Shu
+17. Barbara
+18. Huan
+19. Leona
+20. Luc
+21. Amada
+22. Chaco
+23. Fitcher
+24. Ridley
+25. Teresa
+26. Nina
+27. Shin
+
+Optional (need 5):
+-Mukumuku
+-Rikimaru
+-Gilbert*
+-Oulan
+-Richmond
+-Yoshino
++Alex
++Hilda
++Adlai
+-Taki
++Hans
+-Emilia*
++Zamza
+
+00145BA0 - Sum of your party's level.
+00145BA2 - Sum of enemy levels.
+
+10:46 +-30
+9:02 +-30

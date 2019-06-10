@@ -1,0 +1,9 @@
+OMNIGAMER'S GAME RESEARCH FILES
+
+This project lists all of the various notes, files, and scripts I've compiled over the years for various games. The contents of most files are *NOT* tidy or organized. Many of them are also years old - if you absolutely must understand and make sense of some of the files, ask me, but I cannot guarantee that I will remember or that the details will still be relevant.
+
+It's possible that not every file in here is my own creation. If somebody else's files got mixed in, my apologies; let me know and I can credit you or remove them.
+
+The various hitbox scripts are built for specific major revisions of BizHawk, and occasionally snes9x. As such, they may need to be modified slightly to make sure the syntax and functions match up with your emulator of choice. Most often these are the readmemory functions, but also some functions that draw to the UI may not work correctly in other versions.
+
+Instances of code and data are offered under GPLv3 license. My notes and other types of files are offered under MIT license. 

@@ -1,0 +1,40 @@
+
+
+Beach-1
+-Immediately jump and get a glide boost just after the first ridge. Single jump at first dune. Double jump at top of next dune, double jump then glide boost just after landing. Double jump land on tree and double jump again to get over cliff.
+-Keep running. At end of long slope, dj to cloud, j, j, double jump and vertical glide. Hold it until just before you see the ground and then go horizontal. If done right, should get to end of level.
+
+Beach-2
+-Do double jump right before tree, boost into slope. On top of the large dune, dj, j, dj high and use the glide. Wait for a bit then glide right. Should land on outcropping, j, dj and glide. Shift the glide just before reaching the ground; should clear the eels. dj in remaining pools, dj at next dune, then dj again. Should land on tree; dj, land on far tree, dj again and glide. Break glide to clear enemy and get to finish.
+
+Cave-1
+-dj at base of first slope to kill mushroom and land on platform, then reverse and jump to next platform to left. Then do very quick dj to get up to next platform and dj on the plant. At the top jump on to the platform, dj at the flute, should land on the edge of the nest. j to next nest, j again. If timed right will land on other side of mushroom, but even if hit not a major loss of time. dj up to next main plane, dj and dive. dj on plant, then on next plant. dj from platform and dive, continue to finish.
+
+Cave-2
+-dj up to platform, dj off of plant to left and 2nd plant. Take 2nd plant boost up to checkpoint on right, then dj to plant on left and continue left. double wall jump up side. Head right and up; at top, do glide boost for a bit of extra speed. Continue right jumping when necessary. At end, jump up to left then across one pit, then dj up to slime slopes. dj up all to top. Can do dj to glide to make it up to ledge, but risky and can get knocked off. Easier to just go right up the platform then dj and glide over mushrooms on slope. Immediately jump up and run forward to the multilevel and dj over enemy. Should start shooting, but can sometimes avoid trigger. Jump up, dj up to platform, dj up to small ledge on right, dj to other ledge on right, then to last small ledge and up. Run right, dj and glide through the setup. Keep holding right to maintain speed. Go up left side and wall jump up the rest of the well, then glide boost left. j up and continue right to golems. 3 nunchaku each will take them out; can do in any way.
+
+Lava-1
+Run forward for a bit then dj at first pillar in bg over guy and glide boost. Run until second rumble, jump over lava pit (use lumpy pillar in back as guide), then dj on to platform. dj at very end to clear enemy, then dj on each platform after until wall. Do glide around wall, get as high as possible. Jump up to top platform and use shuriken to kill enemy, then run right on other platforms. On last platform, do a long dj to reach next platform, then do another, then another until platform with checkpoint. Start glide there then around; on other side, go as high as possible and do another glide. Transition at the third shuriken on the way down; very narrow window for success. More frames if further to the left (8ish vs 5). Maintain to clear lava. At other end, ready a dj into glideboost on other side. Jump when shurikens appear then again then dj. For boss, can do nunchaku underneath and will force him to switch sides. Do nunchaku, then immediately  do short jump and dive to other side. Rinse and repeat. Alternatively, faster to toss heavy shurikens instead. Do diagonal, then straight, rinse and repeat. Way faster. Best strat is to start with diagonal, ready a diagonal for each jump and if he switches sides do a straight shuriken as he lands. 10 HP, dies at 0 instead of -1.
+
+Lava-2
+Dj towards guy but pause, then glideboost under him and dj, then dj again. For buckets, start going up right side, go to left then immediately right, climb set of 3 with dj, then go back left and dj up to the ledge. Wait for first guy, then go under second and dj into the wind area while holding up. Just rapidly press b to release. At the end, go to the egde of the first cliff and do a high dj into glide, transition as you pass the second ledge (right). Should glide to end; do tumble and then do another glide down and right. In second wind tunnel hold down until second wave of enemies, then hold up to get through with maybe one hit (or hold down towards end to not get hit by miner). Jump over miner, then dj to rope. dj up the next two ropes, then do dives for the rest.
+...Ugh. Firebug has 30 HP. Hit him with nunchaku when possible?
+
+Water-1
+Go to the top while holding forward and up. Rev it a bit to maybe get to 1600 speed. Look for small tree below you to know when to jump twice, then whirlpool below for next jump. EZ. 1600 speed saves ~30 frames.
+
+Water-2
+Same as before. Jump at first small log below (also with a rock). Then look for angled whirlpools to know when to jump. Then jump over one more whirlpool in a small group. Done. 1600 speed will save ~40 frames.
+
+Tree-1
+Go immediately up using the vines; should be three branches before door on right. Go through, do dj to get to door on other side. Break bridge, go down and right, break another and go down and right. At the opening on the right side, dj to get to vine. dj 
+
+Tree-2
+At the beginning, dj and toss some shurikens up to kill the platform guy. Just before the Dive Test 9, you can wall jump to get up to a higher branch and skip it completely.
+
+Factory-2
+Do dives across the bottom part. On other end, dj up to roller, then dj up another set. Now go right as far as possible, do a neutral dj, then fall and slide and get rolled. Will respawn at the trolley. Run forward, do a right spring at the 2nd to last tile and hold it until the second major bounce is done then dj/wing it. Bosses should be simple.
+
+Factory-3
+For Jacques, start with a diagonal power shuriken, wait and jump over axe. Then run over to right where green girder is. Just keep him in a nunchaku loop; should be inside girder mostly, but slightly out of left side.
+Factory-3

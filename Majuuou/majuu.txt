@@ -1,0 +1,35 @@
+748,y - X table?
+7e8,y or 770? - Y table?
+
+6f8, 6d0,y - hitbox tables?
+
+a9 - damage countdown
+
+
+888 - facing left or right. 40 = left
+
+480,x - ... does something. happens a lot
+
+
+Stage 2:
+
+Red Start - 162690
+Worm Spawn - 16529?0
+Worm Dead - 167369
+Eyeball Door - 168952
+Eyeball Dead (1) - 172509
+Gem Appear - 173677
+
+Green Start - 163221
+Worm Spawn - 166724
+Worm Dead - 167662
+Eyeball Door - 169334
+Eyeball Dead (3) - 172266 (no disappear?)
+Gem Appear - 173543
+
+Blue Start - 163472
+Worm Spawn - 165814
+Worm Dead - 166949
+Eyeball Door - 168251
+Eyeball Dead (1) - 171495
+Gem Appear - 172727

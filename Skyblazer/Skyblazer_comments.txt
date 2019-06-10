@@ -1,0 +1,68 @@
+After a few years, here's an improvement to Skyblazer! A fair number of new things helped bring the time lower, and this run is still not yet perfect (but it's still pretty good). The biggest new stuff involves using the ground zips in a few locations. I definitely want to shout out DarkLightBoco and Le_hulk for helping to push the time lower and get me back into doing attempts.
+
+A few extra artifacts to go along with this run! Beyond the video itself, I have a graph of my heartrate over the course of the run. You can find it here: http://imgur.com/jwFKlQC . Red lines indicate splits, so you can consider them the points of defeating each boss.
+
+Additionally, this may be the first run ever to have a full recorded set of inputs. These inputs were recorded via a special setup and program that monitors the data in my controller. These inputs can be played back on an accurate emulator such as BizHawk or on console. The software to record it or play it back can be found here: https://sourceforge.net/projects/inputcontrol/
+
+The actual input recording file is located here, if you'd like to try it yourself: https://www.dropbox.com/s/03j2crkeg5pk6xm/Skyblazer_Nov22.txt?dl=0
+
+Finally, below I've listed a stage-by-stage breakdown of where I lost time in the run.
+
+Opening
+-Pretty standard, just take damage and finish out. Usually not more variance than a tenth of a second.
+
+Faltine's Woods
+-A very minorly different route through the forest than before. In my testing it saved a few frames over the old route.
+
+Temple Infernus
+-New path through much of the stage, finishing out with a ground zip! Saved a few seconds over the old route by itself, but a fair bit different. I stay back during Genie and get much better positioning at the end too.
+
+Cliffs of Peril
+-Swapped my strategy to just kill everything rather than various side goals. There is some non-trivial lag in this stage, particularly from the elephant riders. Overall not too different from before though.
+
+Tower of Tarolisk
+-Strategy is the same as before, but I am less concerned with a perfect climb now. I miss 2 zips, but the rest of the stage is fine. Thus I lost about 1-1.5 seconds.
+
+Petrolith Castle
+-Still the same strategy here. A minor mistake in the first room lost me half a second, but otherwise no major screwups. Unfortunately there's still no known way to skip an extra cycle in the crusher, but that should be a prime target for reducing the time in the future.
+
+Falls of Torment
+-Nothing much to say, same as normal.
+
+Lair of Kharyon
+-Jump slightly earlier in the first room to save some frames. Otherwise, the only new saver is better position at the end of the boss battle, which saves about a second.
+
+Sand Rivers of Shirol
+-Same as always. I miss the zip twice, losing about a second in the process.
+
+Fortress Shirol
+-I go here early at the cost of half a second to try to get magic. I didn't get magic.
+
+Gateway of Eternal Storms
+-Since I didn't get magic, I had to take a slightly slower route at the beginning. Otherwise all went as expected.
+
+Storm Fortress of Kh'lar
+-New route throughout much of the stage to abuse the wind currents better. Also a brand new boss strategy. Stage went just about perfectly.
+
+Caverns of Shirol
+-Lots of minor changes among a few major ones. The biggest changes are the ground zip leading into the secret room followed by the lava zip. This stage went pretty much perfect, which is a huge time save overall.
+
+Dragonhill Forest
+-Same as always.
+
+Great Tower
+-Different strategy in the first room that saves a small amount of time. Missing the zip a couple times cost a little bit of time. There's a chance of getting a large magic drop in the crusher room, which lets me take a much faster route in the bowling ball room. I didn't get the magic though, so chalk it up to losing ~4 seconds to luck. The rest of the stage goes fine, aside from some errors on the final zip. I pulled off a 9-cycle Dragon and get good positioning, so that's all good.
+
+Raglan's Citadel
+-All of the initial bosses go as planned, and I get the hallway comets just fine. Minor mistake in Kharyon refight didn't end up costing me anything. Ashura also went through without issue. I messed up the attack on the first Heal cycle of Raglan, however. This let him rise up too far as I had to adjust my attack timing, and thus he was able to start throwing his fist again and mess with my positioning. This whole set of mistakes probably cost 2-3 seconds.
+
+Time Losses:
+Zip re-tries - 4-5 seconds
+No Fortress Shirol Magic - 1 second
+No Great Tower Magic - 4 seconds
+Bad Raglan - 2-3 seconds
+Misc losses - 1-2
+TOTAL - 12-15 seconds lost
+
+Thanks for watching!
+~Omni

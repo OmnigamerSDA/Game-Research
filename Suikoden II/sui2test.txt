@@ -1,0 +1,183 @@
+Don't need to push box all the way into corner
+
+After Mist:
+
+Jowy lvl 4 200 XP
+
+~30 sec longer to do Fort Pilika Counter vs Toto Innkeep
+
+Powering weapon up to 5 in Cornet takes ~1 min
+
+Use Jizo as a safety net during fire lizards, muse battle
+
+JP run gets item in right-most area of ruins... for selling later?
+JP run also uses my strat for power levelling... gets there 6 min faster. Sells stuff in Muse before going to Jowston... why? Chinchirorin?
+Sooooo much slop in JP run... many wrong menu choices.
+
+Flik:
+90 HP
+Lvl 8 w/ 
+31 def - 47, 52
+50 def - 31, 35
+49 atk - 20, 46*, 22, 23, 34*, 38*, 21, 20, 
+40 def - 46, 
+41 def - 41, 45
+42 def - 43, 43
+
+Solution:
+-Don't take feathered hat in Pass, or take gauntlet etc in Forest. Load up to ~41 def and hope. Can get by with only level 3 equipment, probably
+
+- ~15 sec to get water rune in sindar ruins
+
+2 2 1 3 1 2 2 1 2 2
+
+In Muse: soldier groups for Nanami, groups of 2, 3, 4. Useful to get Nanami up early, but not required (don't look for them). Can then use Tai Ho cutscene skip.
+
+Violence Early: ~50 sec
+
+Hans recruit: ~20 sec
+Taki: ~25 sec
+Oulan: ~1 min
+Templton (walking): ~1:30
+
+Once Highlands appear, can't pass with Talisman
+
+Kindness Early: 4:30 w/doremi, 4:30 again, 3:50 with no doremi (decent encounter luck). Saves 20 sec vs walking down to trigger position
+
+Tai Ho rate: 1 0 1 1 0 0 1 0 1 1
+
+Flik joins briefly in SW, can take his Lightning then. Freed has on weapon, but can't remove
+
+SDS: Nanami triggered Violence in turn 2, destroyed. Would have been 3 rd otherwise.
+Abom: 2 turn without Violence; magic did 1600 + 1200
+
+20 sec to get luc, freed y in party on the way to amada
+
+Zamza: 30 sec
+Hilda & Alex: ~45 sec
+Yoshino: ~40 sec
+
+Thoughts: Use just Unite glitch for Tinto? Think about setups and issues
+
+Costs to get lvl2:
+30+45+20+25+20+Gilbert. Stallion costs: 2:45. Gains?
+
+15s to heal in L'Ren
+Luca battle can be better optimized w/ magic. Figure out required levelling?
+Stallion also as uniter in L'Ren?
+dual 35s problems?
+
+To get Adlai and back: 2:50-3:00
+To get to Tai Ho: ~:30. Savings at most 1:30
+
+Pest Rat: 1:12. 
+Per cycle: 10, 10, 13.5, 11.5, 11, 13
+
+Rina @ Two River: 38 during soldier battles... 22->38 in 3p battle
+
+In Greenhill: 26 seconds for 2nd option during Nina scene
+Greenhill rune shop open during time there...
+
+Greenhill battles: x5, x5, x4, x4, x5, x5, x4, x4
+Just enough mp on riou if have fire rune... may not need luc at all
+
+Tetsu: 25 sec to recruit, not including time to buy, use tacos. 40 sec total?
+
+To get Stallion: 2:30-2:45
+
+Stallion:
+Castle -> Lakwest :06
+Lakewest -> Two River :05
+Two River -> Matilda Forest :13
+Rockaxe -> Border :15-:18 (1-2 encs not included)
+Border -> Muse :17-:20 (1-2 encs not included)
+100
+
+enc = ~5 sec
+
+No Stallion:
+Castle -> Lakewest :11
+Lakewest -> Two River 9.5
+Two River -> Forest :35 (3 encs included)
+Rockaxe -> Border 33.5 (2 encs included)
+Border -> Muse 35.5 (2 encs included)
+193.5 total
+
+Muse: soldiersx5 (lvl 36)
+
+Radat, no cutscene: 30 sec
+Radat, cutscene: 15 sec
+Gregminster trip: 45 sec (from outside)
+
+Castle becomes Level 2 after Ridley war battle, regardless of trigger
+Templton: 1:15 to recruit
+"Back Route" to Kuskus for Culgan doesn't work. No triggers set.
+
+Nanami 14: SDS-> 16, Abom-> 18, Pest Rat-> 22, Soldiers-> 38
+Nanami 17: SDS-> 19, Abom-> 21, Pest Rat-> 24, Soldiers-> 38
+Nanami 19: SDS-> 21, Abom-> 23, Pest Rat-> 26, soldiers-> 37
+Nanami 24: SDS-> 25, Abom-> 26, Pest Rat-> 27, Soldiers-> 36
+
+After getting Culgan, exit via boat then use blinking mirror.
+To check: Viki random tele chance
+
+Muse pt 3: soldierx6, required fight if go back towards entrance? cmdr + 5x soldier on each stairway, can run
+Can Escape Talisman after Neclord fight in Mine
+Shining Light can OHKO zombies
+30 sec to upgrade weapon to 13 from 5
+
+Greenhill Liberation: x5sol+cmdr, x5sol+cmdr, Lucia+3xKarayans. Solx5+cmdr, solx5+cmdr. Solx5, solx5. Bone Dragon.
+
+In Rockaxe: after bridge area, go up, then right to get earth shield. Down ladder and down to get power gloves. 5x M-Knight, 5x M-Knight, Gorudo.
+
+L'Ren: 5sol+cmdr, 5sol+cmdr, Han. 5sol+cmdr, 5sol+cmdr, 5sol+cmdr, 5sol+cmdr, 5sol+cmdr, 5sol+cmdr, Seed&Culgan.
+
+Spark rune looks like it will be necessary/useful. Use instead of Lightning on stallion.
+
+Kindness values are at 0x000697EF+x, where x is character modifier
+
+00145D34 - Spot 4 TECH
+00145D50 - Spot 4 TECH
+00145D36 - Spot 4 SPD
+00145D52 - Spot 4 SPD
+00145D38 - Spot 4 LUCK
+00145D54 - Spot 4 LUCK
+
+Thunder God Garb - 10 sec to check, 15 if it's there. Saves from having to get thunder amulet in Gregminster, although amulet might still be helpful. Alternatively: get Nanami to really high level, or even use Tsai.
+
+Picking up Thunder Amulet @ Gregminster: ~40 sec
+
+Rabbits:
+0 0 3 0 0 0 0 6 0 0 0 6 0 0 4 - north entrance
+0 4 0 0 4 0 3 0 0 0 3 0 6 0 3 - hat area
+0 4 0 6 0 0 0 0 0 0 3 0 0 0 0 0 - fork area
+0 0 0 3 6 0 0 0 0 4 0 0 4 0 0 - Boss area
+0 6 0 6 4 0 3 6 3 0 0 4 0 0 4 6 6 - Brass Armor area
+0 0 0 0 0 0 0 0 0 6 0 0 3 0 0 0 - Talisman area
+0 3 6 0 0 0 0 6 0 0 6 0 0 0 0 - Water area
+
+Return:
+0 6 0 3 0 6 0 3 0 6 0 0 0 0 0 - North entrance
+0 0 0 3 0 0 3 0 0 0 0 0 0 0 0 - hat area
+6 6 0 0 0 0 3 3 0 0 0 3 0 0 0 - fork
+0 3 0 3 6 0 0 0 0 6 0 0 0 0 6 0 6 - boss area
+6 3 3 0 3 3 0 0 0 0 3 0 3 0 0 3 0 6 3 0- brass armor
+0 0 3 0 0 0 0 0 3 0 0 0 0 0 0 - talisman
+3 0 0 0 0 3 0 0 6 0 0 0 0 0 6 0 - water hole
+
+2x bonbon
+3x bonbon
+5x bee
+3x rabbit
+4x rabbit
+6x rabbit
+3x bee
+1x wolf
+
+BanditA,B,C x6
+3x bee
+banditx3
+
+Things to still look into:
+-Encounter stuff
+-Run away formula

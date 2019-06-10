@@ -1,0 +1,74 @@
+0x33 is constant for spear...
+51
+
+a
+b=mult a by 3
+b=mult b by 8 + a
+b=mult b by 4
+a=b+a
+
+4(25a)+a
+101a
+
+0x65a/0x8000
+
+Max: C9 (64?)
+
+50%
+
+>0x32 is constant for adlai (allies)
+Luc(12) wind: 0x1e (30)
+Jeane(9): 0x1e (both times)
+
+battle: multiply by 40, shift right 16
+
+Take 6?, mult by 2, add 1. Mult w/ random value.
+Shift right by F. 
+
+807fff10 + 0x10... ROM? Is 0x64...
+
+sll by 0c, then add back, put in r3
+take r16, mult by 92
+shift r3 right by F, then shift left by 12
+
+take tech, luck
+luck = luck/2
+r2= tech + luck
+take r16 (d), if less than 3, set r2=1.
+
+r2= enemy tech, then add ffb0 (-80)
+subtract r2 from tech, then shift right by 1F
+
+Add rand and speed, 
+
+
+
+
+
+
+
+r2 = luca speed.
+r4 = nanami tech.
+
+r2 = add ffb0 to luca speed. (subtract 0x50)
+if 0x0058(char address) & 0x0100, then:
+-subtract luca speed-50 from nanami's speed, put in r16
+-shift r16 right by 0x1F (basically, is it negative?), place in r2
+-add r16 and r2, put back in r2
+-shift r2 right by 1 (arith), put back in r16
+
+EX:
+Luca SPD = 73
+Nanami SPD = 6F
+
+6F-23 = 4C
+
+
+afb00010 is storage spot for speed diff...
+
+Compares difference to 0x23, then to 0x64. Bounding?
+Summary: if less than 23, then set to 23. Also, if greater than 64, set to 63. Basically, never more than 100% chance to hit, and always at least 35% chance to hit.
+Load RNG, mult it by 100.
+Shift right by 0xF
+
+0x318(80145850) becomes dodge val, also 01(80025a40) becomes 0. 0x319(80145850) becomes 6?

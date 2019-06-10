@@ -1,0 +1,82 @@
+Skyblazer Route Notes
+
+SAVE STATES
+1&2 - Temporary
+3 - After Forest
+4 - After Cliffs
+5 - After on eastern plains
+6 - after Petrolith
+7 - after Great Tower
+8 - Before Raglan Citadel
+9 - Before Raglan
+
+
+TEMPLE: Start running forward, jump over the first minion, jump onto the second and reverse just before hitting him (assume this is done for every hit. Proceed forward, then jump on 2nd eyeball monster. On the bridge, get hit by the last mage monster. This way you should have only one HP left when you get to Ashura.
+
+FOREST: Proceed along the ground until the tree with the HP restore over it. Jump up the two branches and proceed along the tops of trees for a while. Move forward on the first land that's not spike-covered and proceed until the exit.
+
+INFERNUS: First room, jump and short jump to take out the first flame. Jump over the second and fire a crescent. Continue, use another crescent on the second croc. Second room, move forward, take out the first then the second flame (use a short jump) then jump and crescent the croc. Time your jump as close to the fire as you can make it and you should be able to reach the block. Jump off, take damage from the flame and jump to the next block, then up to the passageway. Next room, move over to the left wall and zip into it ASAP. You have roughly two attempts before the wheel gets to close and you'll have to jump over. Zip left then up.
+
+GENIE: Position yourself between the lamp arm and the pillar in the background. Roughly 3 seconds after the Genie starts to move up and down the lamp will become active. Time it so that you do your first hit as the fireballs are halfway down. After the first 3-hit cycle you can fire a crescent and try to complete the cycle or do another 3-hit to move closer before the crescent cycle. Either way, you need to be on top of the statue's foot for the crescent cycle to work. Mashing works just fine at this distance.
+
+CLIFFS: Autoscroller, nothing to say here other than don't get hit. Easy enough to do on reflex, no need to memorize.
+
+TOWER: Jump up 4 steps then comet left, enter doorway. Immediately exit. This resets the platform positions. Proceed to the first one, take the hit or jump, then proceed the rest of the way up. For any platform you can be warped to stand on it by just being close enough, even if your jump doesn't fully reach it. Inside the second room, zip up the right wall until the spikes, then climb the rest of the way normally. Going further will cause you to be crushed by a moving block. Third room, jump and do one comet to get to the doorway. Proceed through 4th normally. This portion of the tower, proceed left, step on the switch and continue right. Jump on the block and proceed up. You can jump to the solid platform from the 2nd to last disappearing block. Wall room, quickly jump up to the ledge before the wall crushes you. Zip into the wall, then left further with a special, then up. Careful with your timing, there are some cases where the wall will crush you as you're zipping up.
+
+BEHOLDER: Nothing all that special, just hit him when the eye opens. Be ready for each one. Can duck in the corner after the 4th hit. Easy dodge after 3rd hit is to just take the fireball, as it only does 1 and touching him does 2 dmg. Can use crescent or whatever else after.
+
+FLYING: Nothing to do here until the mines. Position yourself to hit the very bottom one, as the screen doesn't advance until you fall off the screen. Also, when talking to the old man afterward, right after he does his Mystic Force is when you can select the option to resume.
+
+PETROLITH: A couple different routes to try here. Go through, use 2 comets in the first room. In the second, fall down the first pit, collect the SP up, then use two or three more comets to get to the end of the room. Use your last comet to get through the next room. In crushing room, can either kill yourself for 2 comets, or go through quickly.
+
+Fastest route: Use 2 comets in first room, but that's it. Grab SP up in 2nd room and go through remaining ones normally. In room with platforms and lions, jump at the very edge of the platforms and you'll clear the lions. Go through Crushing room normally. SHould have full SP at the end.
+
+Crusher: If you make it over in the fewest passes, it will be about 26 seconds. This involves some very close calls, but is not terribly difficult. Get to the space after the first slime first, and kill the second while the ceiling is down. Then, back up in the space, and jump up at the first available opprtunity. Short jump the small step then you must clear the ledge without touching it to be able to continue under the wall in time. After that is easy.
+
+WALLFACE: Killing yourself on the first pass, then using two comets allows you to kill him in 35 sec. With full SP, 4 comets will kill him in ~25 sec. Total time for Petrolith: ~1:30 with optimized route.
+
+FALLS: Can be done with more or less comets for time purposes. Ideally, you'll come out of it with full health  and 4 SP left. Start by doing comet right, at about the edge of the ledge. It should end right at the slime and kill it. Do a short jump then jump and do another comet. You will land on the other side of the archer. Jump up, grab the SP up, and kill the slime on the way down. Walk forward slightly then do another comet. Jump to the next ledge, and jump over the archer. Jump toward the slime and kill it on the way down. Move forward a bit more and use one last comet. An ideal run would be about 16 sec.
+
+LAIR: Jump forward and head towards the wall, climbing is quicker than swimming. Move forward and hit the switch. Keep heading towards the wall. As you enter the next room, hold left, this will give you the SP up. Then immediately jump and comet right to clear the gate. In the next room, comet right and then head up into the entrance. Go down and around, then use a crescent on the tortoise, which will also hit the switch. Head up, use another crescent on the switch and use the left path. Grab the SP up. Next room, go down, right, up, and then comet right. Make sure to be fairly high so you don't hit the switch. On the other side grab the SP up then go into the boss room. Should have full SP at this point. Should take 1 minute.
+
+KHARYON: Move forward quickly and as close to center as you can get. Slightly above horizontal with the bottom two, use starburst. Should connect with all 4. Move up to the center of the room and use it again. Then twice more to kill them. 15 second fight.
+
+SAND: Should take 20 seconds. Jump, use 2 comets but second one should connect with the croc at the end. Jump and do another comet. Kill the croc, then jump on the first head that appears. Immediately jump and do another comet, keep holding left. Should land on the side of a head. Jump off to grab the SP up, climb up and exit. This was you start the Gateway with 4 SP. The time is roughly equivalent even if you had waited and used another comet instead of just jumping off the first head.
+
+GATEWAY: Do a very small jump so you start climbing the wall immediately in front of you, then jump up to the second floor and get rid of the blocks. Face the other way so the wheel knocks you forward, then, get rid of the other wall. Jump and comet right over the monster. Land, then jump at the edge and comet again. You should be high enough to land on the roof. Walk over everything, then as you get for the end look for a cannon turtle pause as soon as it starts firing then jump down and kick the last shot. Jump over it, then jump again and comet. Comet one last time on the next platform. 24 sec stage.
+
+STORM: Immediately hold right and short hop to the next wind patch. Jump up and grab the SP up from the bats, then proceed right and grab the HP up too. Then Comet right three times. For the second room, move right and then jump and comet at the end. Should hit the ghoul. Then go up, grab the SP up, and over. Move forward and then into the upward stream and comet. Move forward a bit, then comet one last time to get to the boss door.
+
+FOX: You can hit it once as soon as you spawn. After that it will split into 3 images. For this first wave, it will always be the one on the lower left. Unfortunately it's random beyond that. You can get it in a stun-lock by either mashing or timing single punches, but one clone will always get away and attack you. For the best chances, go to the upper left platform and crouch. Get it in a crouching hit lock until you get knocked back, and recover on the lower platform. After that you should be able to find where it is and kill it, if not, good luck. Definitely the most random boss to deal with if something goes wrong.
+
+FORTRESS: Again, don't get hit. A bit harder to do here, but still possible.
+
+CAVERNS: Start off by doing a jump at the edge and keep holding right. After landing jump again, then jump and use two comets. Get up to the larger block then jump on the platform and onto the lift. Jump to the smaller lift below, then on to the next room. Move forward and zip up the wall. Then trigger the block and wait for it to go up. As it's descending, jump down, grab the SP up, then jump back on as it starts to go back up. Jump to the small platform then do two comets. Jump forward, then down then forward to the platform with the SP up. Then jump and do two comets, make sure they're high enough. Jump from the wall to the platform above to avoid bad magician spawns. Then immediately keep going forward, jump to the next platform, and then the next. Grab the SP up and get hurt by the spikes, then proceed right and get hurt by the lava. Finally, enter the boss door.
+
+DRAGOPHANT: You should have full SP when you fight him. The best combo is 2 hits then crescent. 8 of these should finish him off. His apples pattern is the best for doing damage, but I haven't been able to manipulate him to do it regularly and avoid the hits. He should follow the same pattern of jumping every time if you keep hitting him the with the punch punch crescent, and he will never land on the upper platforms either.
+
+DRAGONHILL FOREST: Jump left and comet three times, climb the rest of the wall and enter the hidden door. Grab the stuff and end the level.
+
+GREAT TOWER: As soon as the stage starts comet right and then again at the top. Go through the rest of the maze normally. The crusher room is simpler for this one, and encourages comets. You can grab on to the back of the wall as it's rising for the first spike portion, and then follow it with a comet. Comet through the following slimes as well. Nothing to note with the bowling ball and rising rooms. Jump to the left for the falling area. Nothing special for the water room, or the aerial platforms. Comet if you can, but you should probably save at least 2 SP for the boss. In the last room, zip up the right wall.
+
+DRAGON: Immediately jump up to the right platform and wait for the dragon to appear. Then jump down to the left and hit the orb. Jump to the upper platform a little to the left and crouch on the right side. The flame will hit you, but you should still be on the platform after. Then just hit lock the dragon with whatever. Aerial kicks are the most damaging. Alternatively, if you have 2 SP, use warrior force to invincible through the flame and do a little more damage as well.
+
+FLIGHT: Do it again. On the other side, old man will only have one line before the options, so don't mash. The story is long and a big time-waster.
+
+CITADEL: Nothing special about the first part. Just make your way up. You don't even really have to worry about getting hit, and you only need 4 SP for the Genie. Just don't die.
+
+GENIE: One phoenix cycle will kill him.
+
+BEHOLDER: Same as last time. Just hit him with punches or crescents when he opens his eye.
+
+WALLFACE: Use comet or burst to take him out. Phoenix only does 4 damage, and crescent does 1, so don't use them.
+
+CLAMS: This is a bit more annoying. You can use Phoenix either right away and try to barely touch all of them on your way around, or you can wait through the first cycle and get it more consistently. If you try the quicker way you can still get them off in 2 cycles even if you miss the last clam the first time around. Just don't waste any time on it.
+
+DRAGOPHANT: This guy is annoying, just because if he jumps once you won't be able to get the quick kill with phoenix. Stay still at the start and he'll charge you. Transform and stay on his head. He should move left afterwards, then right. After this stay close and he'll fire apples. Transform again, hit him, he'll jump to the platform. hit him again and he'll fall off and fire apples. Hit him the last time for death.
+
+ASHURA: Just phoenix when he gets close and destroy him. Get all 6 hits off and he's dead.
+
+RAGLAN: If you used both Phoenixes on Ashura, Raglan has to be done perfectly. Since touching him only does 1 dmg and laser or fire beam both do 2, you want to keep coming into contact with him to use the invincibility against the laser. Grab the SP up and switch to heal. Hit him once, then get hit by him. Rinse and repeat.when you get to 1 or 2 HP, instead of getting hit by him instead jump just before the laser and heal. The pause should be enough to keep you from getting hit, but you still have to time it right. Then go back to the previous cycle. If all goes well, you should have 1 HP left on the last hit. He takes 16 hits regardless of the damage source. If you get hit by a laser, then you will have to make up for it by successfully dodging one laser, or else die and do it again with 4 available heals.
+
+END GAME

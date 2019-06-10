@@ -1,0 +1,17 @@
+sui2 rng process
+
+load r3 with 0x41c6 0000
+load r2 with current RNG val
+r2 -> 986d9e42 (prior RNG)
+r3 -> 41c64e6d (always)
+mult r2 and r3 together
+take mflo into r4
+add 0x3039 to r4
+store back to RNG addr (4 byte)
+shift right 0x10 -> take only upper 2 bytes on return path
+
+
+
+cycles at 536,870,911
+
+1976 6502s: ROR bug, would affect check for early start...?

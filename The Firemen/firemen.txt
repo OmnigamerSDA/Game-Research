@@ -1,0 +1,92 @@
+HP:
+Enemy values are set up on the fly, and aren't "dead" until it goes to -1 HP.
+
+Small flames - 7
+Trail Flames lvl1 - 0
+Blue Big Robo - 40
+Crosswork flames - ?
+Big Flames - 40
+Air Flames - 0
+Ground Wheels - ?
+Line Flame - ?
+Blue Small Robo - ?
+
+Bosses
+Boss 1 - 350
+Boss 2 - 500
+Boss 3.1 - 200
+Boss 3.2 - 200
+Boss 3.3 - 200
+Boss 3.4 - 200
+Boss 4 - 600
+Boss 5 - 700
+Boss 6 - 999
+
+
+Enemy Attack Power:
+Based on 48 HP starting health; rescues restore 30 HP
+k=knockdown
+h=heavy knockdown
+
+
+Small flames - 4
+Trail Flames lvl1 - 8
+Blue Big Robo - 8k
+Flame spouts - 8k
+Crosswork flames - 8
+Big Flames - 8h
+Air Flames - 4
+Falling pipes - 8k
+Ground Wheels - 8
+Exploding Barrels - 8k
+Line Flame - 4
+Blue Small Robo - 4
+Tracker flames (from big) - 4
+Robo arm - 8k
+Low crosswork - 8
+Slow Seekers - 8
+Green Big Robo - 8h
+Falling lights - 8k
+Trail flames lvl2 - 8
+Air Robo - 4
+Air Robo explode - 8h
+Heat Wave - 8h
+Door/Window Explosion - 16h
+Green Small Robo - 4
+Zigzag - 8
+Zip flame - 8
+Obstacle - 8
+Sploder - 4 normal; 8h explosion
+
+Boss 1 - ?
+Boss 2 - ?
+Boss 3 - 16h
+Boss 4 - ?
+Boss 5 - 16
+Boss 6 - 16
+--Low crosswork is 4
+
+Damages:
+Damages can be stacked. So stream + bomb is effective
+
+stream - 1/2
+Spray - 1/2
+Danny - 4/15
+Bomb - 5/2x33 (165)
+
+Super water - 1 and 2 on alternating attack frames; 1.5x damage
+
+Addresses:
+
+7E15C3 - Pete actual HP
+7E15C7 - Pete actual HP for E/Expert mode
+7E1930 - Pete displayed HP
+7E0C7B - Boss 1 HP
+7E0BFB - Boss 2 HP
+7E0BFB - Boss 3 HP
+7E0BFB - Boss 4 HP
+7E0C1B - Boss 5 HP
+7E0BFB - Boss 6 HP
+7E1E6C - Final Points
+
+D4F2

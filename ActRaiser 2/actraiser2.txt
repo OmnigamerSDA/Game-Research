@@ -1,0 +1,127 @@
+9B7 - raw password input
+9d7 - ascii converted input
+
+517 - current ascii val
+
+
+
+generation scheme:
+
+find index, subtract current val in 508 (starts as 0); decode Val
+
+[
+take 508,x (x starts as f, so takes current ascii val from 517)
+adc 507,x
+sta 507,x
+dex
+] repeat until x=0, exclusive
+
+add 1 to 517, move on to next char (yes, gets overwritten)
+
+char 0:
+take decode Val, AND with 0F, store in 913,x (1 in this case)
+
+char 1:
+take decode Val, AND with 0F, shift left 4 times.
+take result, or with 913,x (x is 1), store in 913,x
+
+char 2:
+take decode Val, AND with 0F, store in 913,x (2 in this case)
+
+char 3:
+take decode Val, AND with 0F, shift left 4 times.
+take result, or with 913,x (x is 2), store in 913,x
+
+etc, until char 10 and 11...
+byte 10 is lower nibble, 11 is upper of final byte
+compares with $508, continues if matches
+
+914 -> 90C
+915 -> 90D ...
+918 -> 910
+
+910 is difficulty
+
+146 is (16-bit) sum of (8-bit) vals from 100 to 145
+
+difficulty asl 1 sets:
+
+995 <- indexed from 81d836 (lives?)
+997 <- indexed from 81d830
+
+if difficulty = 0 (easy),
+98B <- 2
+
+
+
+Password encode alg:
+
+[
+Step 1:
+
+take 90c, add to 508
+AND with 0F
+use result to look up from table 02c0aa (8-bit)
+store in 9d7, 517
+
+for x=15;x==0;x--
+	load 508,x
+	adc 507,x
+	sta 507,x
+end loop
+
+inc 507,10 (517)
+
+step 2:
+
+take 90c, shift right x4
+add to 508, AND with 0f
+look up from 02c0aa (8-bit)
+store in 9d8, 517
+
+for x=15;x==0;x--
+	load 508,x
+	adc 507,x
+	sta 507,x
+end loop
+
+inc 507,10 (517)
+]
+repeat x5
+
+final sum:
+
+take 508, save copy for later, AND with 0F
+index into 02c0aa (8-bit)
+store into 9e1, 517
+
+for x=15;x==0;x--
+	load 508,x
+	adc 507,x
+	sta 507,x
+end loop
+
+inc 517
+
+load copy of 508, shift right x4, AND with 0F
+lookup in table
+store in 9E2, 517
+-----------
+
+
+Addresses of interest:
+5E - gets 106 x6 added to it during stage load many times. Always starts as ,d28F, e4a9, e4bb, e4df before adding... used as base address for table in bank 82, offset by 1 and then 2
+98B - hard coded; 2 if easy, 4 if normal, 8 if hard. Not in table
+9A3 - set to #8626 if easy, #8634 if normal, #8642 if hard
+
+Tables:
+01D836 - 6 byte table of timer values
+01d830 - 6 byte table of Lives values
+
+02c0aa:
+
+53 54 58 57 46 48 4A 4B 5A 42 43 44 59 4C 4D 50
+
+01D830:
+
+050003000200FA00D200AA000000000000000000000000000000000000000000000000000000000000000000000000000000000000003CD9000052D900005ED900007ED9000000009ED9B4D9000038DA62DA00006EDA00000000000098DA0000000000000000000000000000E0DA0000000058DC6EDC00000000000000006EDCD4DC12DD46DD000052DD0000B8DD0000000000000000000028DB1ADC0000CEDD000000000000000000000000000000000000000000000000000016DE52DDCEDD000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000800A0002700EF000800D800A0000701EF000800FFFF1805400077059F001400FFFF680590009705DF00140088057000B705BF001400A805100007069F001400FFFF4800A0019700EF011400C8014002B7028F0214001801C003B7020F041400FFFFB8067003C707AF0308008801100197035F010800FFFF58002002A7005F0208003800300377006F0308003800000487003F0408006800D004C7000F0508003800400597007F0508008800C005C700FF0508003800F00577002F06080068009006C700CF0608003800000797003F07080088005007C7008F0708005800E007A7001F0808003800500877008F08080088005008C7008F080800FFFF4802A0039702EF03

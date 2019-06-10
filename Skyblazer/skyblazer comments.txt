@@ -1,0 +1,27 @@
+First of all, a special thanks to Bablo and Dooty for taking the effort to TAS this game. Without some of their insight and tricks, a lot of these routes would not have been possible and this run would be much closer to 30 minutes. Also a shoutout to Broedgeman, IkomaSoji, and all the other Skyblazer runners for helping with various optimizations and route suggestions.
+
+Rather than describe the tricks and choices in-depth here, I will save that for my included audio commentary. The breakdown below is just a list of where I screwed up and what could have been improved.
+
+Beginning: Not all that much to say here. It's possible to save up to a third of a second more by doing some awesome lag manipulation and perfect damage boosts, but you'd be quite hard-pressed to achieve that with any consistency.
+
+Temple of Infernus: I could have performed the zips slightly faster, but considering I got the good luck of going under the loading zone it all worked out anyway.
+
+Tower of Tarolisk: This is the most technically demanding stage in the game, and the one where I make the most mistakes in this run. The first set of zips is slow, losing about a second. In the second set of moving platforms I miss the last blue moving platform, costing another half a second. Then in the final room I miss the zip positioning twice, costing as much as 2 seconds. So this stage alone can be improved a lot, but it's all execution mistakes.
+
+Petrolith Castle: This stage was nearly perfect. Some small hesitation in the middle section, but otherwise I would not expect a better split from this place without some item drop manipulation.
+
+Falls of Torment: My most hated stage in the game, and also the shortest. I hesitate a bit on the second log and don't jump high enough on the last one, which collectively cost me about .7 seconds. Otherwise a perfect run though.
+
+Lair of Kharyon: Went fairly well, aside from getting hit twice. If I had successfully killed the enemies without getting hit, this section would have been 1.5 sec faster I also missed my count on the boss which would have shave a fraction of a second further.
+
+Sand Rivers of Shirol: I paused unnecessarily at the bridge on the way to this stage, so that plus the slow zip cost me about a second overall.
+
+Gateway of Eternal Storms: I got the fast route and the damage boost perfectly. At best the lag could be manipulated slightly, but otherwise this stage was perfect.
+
+Storm Fortress of Kh'lar: The first part went about as well as I could have hoped. I could have jumped on the very last downward gale in the second room, but the timing is extremely tricky and it's quicker to just comet through it anyway. Unfortunately this means I can't get a guaranteed quick kill on the boss. For the boss I screw up the timing of my burst terribly so he's not even in a position for a quick-kill, but I manage to chase him down well enough. 3 seconds or so to make up on this stage.
+
+Caverns of Shirol: I get a slow zip in the second room, but otherwise the stage goes great. I get some bad positioning and get hit against the boss which costs about 1.5 seconds overall.
+
+Great Tower: Did the Warrior Force too late so I got hit by the spikes first. Crusher went perfect. I might have been able to go through the water room slightly faster without getting hit to save a couple seconds, but the magic pickup saved time against the boss. A faster zip and better boss positioning would have helped an additional second, probably.
+
+Raglan's Citadel: Nothing much to be said here. It basically comes down to some minor positioning differences on Ashura and Raglan for a difference of a few fractions of a second. Other than that, the boss rotations went perfectly.

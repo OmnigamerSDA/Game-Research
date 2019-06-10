@@ -1,0 +1,97 @@
+
+ADDRESSES:
+
+008c0f - cmp #$50 - upper bound for stage check
+008c2d - cmp #$3B - lower bound for stage check
+00988E - cmp $5F - character check
+0095DC - lda #$04 - sets menu bounds
+00969B - lda #$04 - sets menu bounds
+0097C7 - lda #$04 - sets menu bounds
+
+3A C9 3B D0
+
+C14 - set to 00 (roll over) EDIT: 1E
+C2E - set to FF (roll under) EDIT: 1D
+188E - set to C9 (cmp #$)
+188F - 06 (null character?)
+15DD - set to 06
+169C - set to 06
+17C8 - set to 06
+3e10 - table for item drops. Set to all 4s for power only
+d5B - set to 1E. fixes stage numbering
+
+A59F05A18908F014A55518690AC950900318E9318555A9005C3B8C00A59F05A18904F016A55518E909C91EB0031869328555A9015C3B8C00A59F05A15C268C00
+
+008c04 lda $9f                    [00009f] A:009e X:0236 Y:0000 S:01fd D:0000 DB:00 NvMxdIzc V: 31 H: 484
+008c06 ora $a1                    [0000a1] A:0002 X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzc V: 31 H: 508
+008c08 bit #$01                   A:0002 X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzc V: 31 H: 532
+008c0a beq $8c22                  [008c22] A:0002 X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIZc V: 31 H: 588
+008c22 lda $9f                    [00009f] A:0002 X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIZc V: 31 H: 610
+008c24 ora $a1                    [0000a1] A:0002 X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzc V: 31 H: 634
+008c26 bit #$02                   A:0002 X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzc V: 31 H: 658
+008c28 beq $8c40                  [008c40] A:0002 X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzc V: 31 H: 674
+008c2a lda $55                    [000055] A:0002 X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzc V: 31 H: 690
+008c2c dec                        A:003c X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzc V: 31 H: 714
+008c2d cmp #$3b                   A:003b X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzc V: 31 H: 728
+008c2f bne $8c33                  [008c33] A:003b X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIZC V: 31 H: 744
+008c31 lda #$4f                   A:003b X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIZC V: 31 H: 760
+008c33 cmp $55                    [000055] A:004f X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzC V: 31 H: 776
+008c35 beq $8c40                  [008c40] A:004f X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzC V: 31 H: 800
+008c37 sta $55                    [000055] A:004f X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzC V: 31 H: 816
+008c39 lda #$01                   A:004f X:0236 Y:0000 S:01fd D:0000 DB:00 nvMxdIzC V: 31 H: 840
+008c3b jsr $8ccc
+
+$042300 = $08A300 on system bus
+
+overwrite 8c22 with jml...
+
+008c04 jml $08A300 [5C00A308]
+A59F - lda 9f
+05A1 - ora a1
+8908 - bit 08 (test up)
+F014 - beq 0x14 ahead (if not pressed)
+A555 - lda $55
+18 - clc
+690A - adc #0A
+E050 - CMP #50
+9003 - BCC 0x03 ahead
+18 - clc
+E932 - SBC #32
+8555 - STA $55
+A900 - lda #00
+5c048c00 - jml to end
+
+A59F - lda 9f
+05A1 - ora a1
+8904 - bit 04 (test down)
+F011 - beq 0x11 ahead (if not pressed)
+A555 - lda $55
+18 - clc
+E90A - sbc #0A
+E01e - CMP #1E
+B003 - BCS 0x03 ahead
+18 - clc
+6932 - ADC #32
+8555 - sta $55
+A901 - lda #01
+5c048c00 - jml to end
+
+A59F - lda 9f
+05A1 - ora a1
+jml to start of 008c26
+
+What logic do I want?
+
+if up is pressed...
+
+stageval = stageval + 10
+if stageval > highbound
+stageval = stageval - (highbound-lowbound)
+
+if down is pressed...
+
+stageval = stageval - 10
+if stageval < lowbound
+stageval = stageval +(highbound-lowbound)
+
+

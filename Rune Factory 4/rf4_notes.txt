@@ -1,0 +1,211 @@
+Rune Factory 4 Run Notes
+
+-Opening seems mostly fine
+--Skip tutorials, but otherwise must go through motions
+
+-When to pick up rocks? Need them for ants...
+
+-1st day is order, then also buys rice
+--Buying rice can wait for a later 8 PM mission...
+-Chopping on Day 4, gets exactly 20 wood
+--Picks up weeds etc in addition, and about 12 rocks
+
+-Sleep cycle begins
+--Can I feasibly end earlier?
+---Would have to be better than the small time benefit...
+
+-Wake up Fall 12, 2 quests
+--Start Ambrosia before gifting clorica
+
+-Do I need boots/other side equips?
+
+-Start right above Ambrosia after defeat
+-Gift Clorica when done... about 7:30
+-Get stone on FA 12... up to 40
+-Plant toyherbs... are any flowers available yet?
+-Clinic opens at 8 for Ambrosia scene
+-Start collecting cookies
+
+-Why don't I just buy rice when I visit Apple for cookie?
+--Shopping quest available on the 12th... just do it then instead
+--Get toyherbs immediately when shopping completed... can set up for beginning of day rather than later
+--AH - Need to complete shopping before stone available
+
+-Try to harvest mat stone only from larger blocks, preserve rocks
+
+-Possible benefit from ambrosia early - quicker growing from toyherbs
+
+-Maybe rearrange days so that first Apple visit coincides with Ambrosia KO?
+--May also allow for in-season harvesting
+
+-Recruit ants while toyherbs still growing...
+--Rocks best for ants to recruit
+
+-Fodder bin starts with 6 fodder
+
+Additional axe chopping by FA 16 - get up to 80, matched with 40 stone
+
+-Toyherb challenge unlocks addtl flowers, plant them as soon as finished
+--Can they survive without being watered?
+--Maybe do toyherb quest early, but then plant flowers in-season... need another late morning day to buy flowers
+-When in ant harvesting/friending mode, can just keep can equipped and water repeatedly on the way...
+
+-Make chem set and talk to Bado after Dylas fight and scene at clinic
+--Need to also order one festival for appropriate available orders?
+--Have ~9k by this point
+--Found Sakuya immediately after Dylas clinic scene... bought 234
+
+-3rd fodder run on FA 25
+-Have to wait until 7 AM for final Dylas clinic scene, get cookies
+--Do we even want more cookies?
+
+-Do we need black ribbon from the mansion before Lamellar?
+-KO goblins still risky... any way to minimize risk, or make lvl grind safer?
+-Did 2 sets of goblins for total of 8, to get to level 
+-How much do twin blades actually help in mansion? Can cut out a trip...
+-Healed ants before marionnette... was it necessary? didn't really help much. They still do ~340 per hit
+
+-Find Dolce immediately after Mansion, give moondrop (accept quest)
+
+-Ants only need to be happiness 9 to give max lvl carapaces!
+
+-Work out better furniture positioning for selling, crafting
+--Minimize number of cat ears, since they take a lot of time to empty from inventory
+--Didn't have enough to hit appropriate level... get more furs?
+--Does scarf actually reduce the amount you need when crafting?
+--Benefit kicks in as soon as 50...
+--Just optimize order better to get through crafting faster
+
+-Take antidote/para bottles as safety measures
+-Do we stick with lemellar or get cloth shirt?
+-Any good spells/skills at this point to make rooms quicker/more consistent?
+--Water laser after chimera works pretty well
+--Remember which rooms have barriers so you can use it early on
+--Get light barrier from Delirium - does it dave time over water laser? Can I avoid overkilling too much?
+
+-Come up with better plan for Karnak orb... does damage have to be anti-elemental? Can I always damage with non-elemental?
+--Light barrier really effective vs statues and sarcophagus
+--Check if doubling up on spells (R+) lets you get through the karnak orb any more efficiently...
+
+
+========2nd Arc Begins=========
+
+-Maybe look into hitting sleeping lvl 50 for HP boost?
+-Anything else I can do while waiting for Doug?
+--Recruit/dismiss ants? Clean inventory?
+
+-Is wind good for Idra cave? Seems most things are earth elemental
+--Idra rooms seem sloppy... lots of instances where blasted back or can't deal effectively with enemies
+
+-Look into animal leveling... any benefit to using sprite vs continuing to level ants?
+
+-Figure out Maya Road strats... what are they weak to? Also don't bring Sprite since she heals them
+
+-Test throwing rocks in Maya road to trigger switches
+
+-Can skip wolf... but is good mount
+-Mystery potions battle in Sechs - optional?
+
+-Is there other good ranged magic for leviathan?
+
+-Damage output suffers in early floating empire...
+
+-Any way to craft better magic equips from late-game materials?
+
+-Plan out which magic to use in which room of Floating
+
+-Check out final animal levels... can they do any amount of significant damage to final boss sets?
+-- No they just get wrecked no matter what
+
+
+THINGS TO TEST TONIGHT:
+
+-Final boss consistency - lesser vs more armor. Assume more for now, may help reduce healing earlier
+-Sakuya details - when does she disappear, and does she always have fur?
+-Money route - how many cookies do I need to sell? Should I have more buffer?
+-Are there any safer ways to level up at Karnak?
+-Are any other Orders helpful? Even extras?
+-How many stones can I expect or need for ants?
+
+
+
+turnips to make x potion instead of weeds???
+
+forge available after water temple open
+
+room for up to ~300 furs
+
+raven will appear, and has furs, before completing water temple
+
+can't buy chem set during dylas clinic scene (2nd one)
+
+major RP levels: 624 (4x yarn from 0)
+@ lvl 18, need 624 RP for cat ears, 432 @ 20
+576 for 3 cat ears @ lvl 21
+cat ears lvl 24
+can craft scarf @ lvl 40...
+need 602 MP @ 40 to craft scarf!!
+
+THINGS TO TEST:
+-chopping delay until fall - how many? 39
+-which days to do chopping/mining to get enough?
+-How much extra stuff to get for ants? 2 sets of
+-How many/which cookies to get? 8
+-How many cookies do I need to sell? 4... 5?
+-Do I have sufficient MP for flash strike and not long sword?
+-What is round-trip time to get stuff from ants?
+-What is construction+upgrade time for one armor piece?
+-What is time cost of picking up yokmir cash? 15 sec
+-Which foods should I eat to hit eating level 5? What's actually available beyond cookies? 1 bread, rice porrige, 2 cookies, backup toast and steamed bread
+
+-Does extra armor actually help? Maybe, but not required
+-Does turtle shield actually help? Doesnt seem to...
+
+
+PRE-DYLAS DAILY NOTES
+
+PROLOGUE - Skip everything, #2 for both of Volk's questions
+
+SP 2 - Eat pie, #2 for Vishnal twice, collect stones and twigs. Got 10 stone, 5 twig in this session. Take mid, talk to Venti, scenes. Talk to Eliza, do Orders, buy Rice, TP and sleep.
+
+SP 3 - Move chest to middle of room, destroy calendar for stone and lumber.
+
+SP 4 - Make 20 lumber, collect more twigs and stones, move shipping bin to house
+
+FA 11 - Do shipping, start giving, go to gate. Answer top, top, bottom. Eat. Go through Forest, skip everything unnecessary, grab only potions. Beat ambrosia, stay above body and near entrance for quicker scene. TP, talk to Venti, give turnip to Clorica, TP, sleep.
+
+FA 12 - Start quest, make 40 mat stone, plant flowers, go to clinic. Unlock chem, collect cookies from the 8 ladies (excl bath and apple). Maybe collect from them in future for money needs? Eat a cookie, sell 4.
+
+FA 13 - do fishing quest, water toyherbs, sleep
+
+FA 14 - Start Barn, talk to Venti, do Bag, Barn, Chem, recruit 4 ants, starting with turnips, then sticks, then stones. Use brush for last two maybe? Get cave money, eat porrige. Return, turn in Fodder quest, feed ants, bring into party. Clear out inventory by sale or box; keep only cookies, how, can, axe, potions. Start looking for Raven each day.
+
+FA 15 - See howl. Toyherbs, ants, look for Raven.
+
+FA 16 - Harvest toyherbs, feed ants, look for Raven. See scene with Venti. Turn in Toyherb quest... don't need to do item mon or fertilizer quests. Go to cluck-cluck nest, grab spare fodder, buy moondrop and pink cat seeds. Plant flowers, water, refill watering can, deposit fodder.
+
+FA 17-22: Water, feed ants, check for Raven.
+
+FA 23: Harvest flowers, feed ants, check for Raven, head to Water Temple. Equip Fireball, shield, charm, gloves. Equip Ribbon, eat and feed cookies. Follow normal route through Temple. Talk to Bado on way out from Clinic, give toyherb to Amber, go unlock craft and airship licenses.
+
+FA 24: Collect from Ants, story scenes at clinic and Venti.
+
+FA 25: Collect remaining 60 lumber, pick up ~6 weeds, collect from ants, go to clinic. Buy chem, make X, organize. Buy craft table, bring home. Can get refreshment cookies from volk, bado?, doc, vishnal?
+
+FA 26: Visit ants.
+
+FA 27: Visit ants, start ghost sequence (can be done in any order). TP to fodder, then visit bridge, visit mansion, head to Karnak. Get Lamellar, feed cookies to ants, clear out Mansion and grab Flash Strike. Start moondrop quest, give to Dolce, equip pendant, deposit fodder.
+
+FA 28: Clean out inventory during ants visit. Start crafting sequence.
+
+WI 5: Should have all materials for most equips. Upgrade lamellar with potion. Construct shirt, sandals, headband, gloves. Upgrade gloves.
+
+WI 8: All 4 items constructed. could otherwise be finished WI 6 with 3 items, using scarf to lower RP cost. Clear out Yokmir. Clear out Water. Sleep.
+
+WI 9: Clear out Delirium. In town, go through back of Mansion. Then go see Venti for scene. Then order extra ability slots. Sleep.
+
+WI 10: Visit bath house for scenes. 
+
+Experiment more with diff weapons for Delirium and Karnak. Is trident worth it? Does L Sword have better range for Flash Strike?
+
+Is Flash Strike at all worth it later on vs Prism?

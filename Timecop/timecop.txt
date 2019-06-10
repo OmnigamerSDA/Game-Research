@@ -1,0 +1,79 @@
+7E06F3 - HP
+7E0760 = Boss HPs
+Final Boss HP varies, 0x40 HP, two dmg per hit. 32 Bullets needed to kill
+Robo Boss: 0x20 HP
+Octo Boss: 0x40 HP
+Tank Boss: 0x40 HP
+Punk Car: 0x20 HP
+
+check 7E06E1/FB/FD for information on current and incoming character states
+7E0674 - accepts inputs when FFFF. Button input allowance
+7E0671 - Stores next actual action.
+7E0673 - Stores current inputs; equivalent to 0671 if actions are possible during that frame
+
+For conveyor belts, switch every time 0 comes up in RNG.
+For skyscraper, about two frames to effectively jump up the elevators.
+
+Damages:
+Gun: 2
+Kick: 2
+Punch: 1
+Jumpkick: 4
+Lowkick: 1
+Bomb: 4
+
+7E0666 - Next drop value
+
+Drops:
+-Every other enemy will drop a something
+--If 7E0666 is 01, then next kill will drop
+--Checks 7E066E, ands with #$7. If 0, drop will be big heart
+--After checks, changes 66E with RNG cycle. Also gets called for enemy actions.
+
+RNG sequence begins at 80/84A8. Not too abusable in real-time, but very easy for a TAS.
+
+Stage 3-1:
+1st set: h l l 
+2nd set: l l l (flag) h l l l l (light) l l l h
+between: (sign)
+3rd set: l l l h (flag) l h 
+4th set: l l (end)
+
+1st: Jumpkick first high, then jump two low guys.
+2nd: Jump over first guys, jump into flag when it comes by. Jump over one guy then use bomb. Get hit by light then use gun on remaining two lows. Jump and kill last high.
+3rd: Jump over lows, jump right after third low to take out high. Flag will hit, kill or jump over low. Last high is in middle of building, jump at the noise.
+4th: Jump, or if bullets are still left, shoot. Only two. If you get hit by first, run forward and fall off hood to get to exit. 2:28 or 2:29 if ride the car the whole time.
+
+Stage 3-2:
+1st set: h
+2nd set: h h
+3rd set: h h h
+4th set: h hl 
+
+Jump on car as it goes by, but make sure K is as far forward as possible by waiting. Then just crouch and take the hits. Adjust as needed. After second high of 3rd set sound starts, use bomb to kill third high. Then on 4th set, use crouch gun to kill low guy. Then just end at 2:28.
+
+Stage 3-3:
+Just go through to first pit, then go left. 2nd pit, go right by shooting guys. Then just keep going right until robot. Jump and kick at right at the cabinet in the background then use bomb and bullets to kill boss. Can be done at 2:55 or earlier.
+
+Stage 4-1: 
+Just run through. At tank, jump on it and then fire diagonal down to kill it.
+
+Stage 5-1:
+Can be done at about 2:39. Don't be afraid to use gun and bombs.
+
+Stage 5-2:
+Rush through, try to keep HP up. Can jump on boss. Best strat uses one damage boost (fire while moving forward) then walk to back of car, neutral stop, turn around and gun it down. About 2:28.
+
+Stage 6-1:
+If the conveyors give you a good pattern, you can outrun the screen and offscreen enemies won't spawn. Go right -> left -> left. Each transition, fall down 2 floors. 2:51 is a good time, with 2 screen scrolls.
+
+Stage 6-2:
+Go through, skip first elevator, kill turret with gun. Take second elevator, continue right. Take third elevator. For K, use guns to push him close to wall, and then use low kicks to push him the rest of the way and then use jump kicks with holding forward to kill him fastest.
+
+Corner Trap triggers:
+On 2nd floor...
+-Just after first pillar.
+-In middle of second set of pillars.
+-2nd pillar after they bunch up.
+-Look at top of screen, jump at 2nd roomba's starting point
+-Top of screen middle of pillar opening

@@ -1,0 +1,29 @@
+Stage 1:
+-Start with 2
+-Pick up one extra in the boiler room
+-Use 1 on Boss
+
+Stage 2:
+-Go in with 2
+-Pick up one in...?
+-Use 1 (2?) on Boss, but pick up from window
+
+Stage 3:
+-Go in with 3
+-Don't pick up any extras
+-Use 2 on Boss
+
+Stage 4:
+-Go in with 1
+-Pick up 2 WBs along the way
+-Use 2 WBs on Boss, but pick up 1 from window
+
+Stage 5:
+-Go in with 2
+-Pick up one in Office.
+-Use 3 WBs on Boss.
+
+Stage 6:
+-Start with 0.
+-Pick up 3 along the way (christmas, window, rooftop)
+-Use all 3 on boss. Done.

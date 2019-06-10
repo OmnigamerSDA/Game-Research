@@ -1,0 +1,37 @@
+First orange: when to get?
+-Get after first dungeon: better pathing, no extra refill
+
+48989
+
+Can skip powder early on
+blocks reset to center of room when not over switch
+Do red dude quest as human right after getting flowers
+Get compass before mouse
+
+On jungle boss: align with left wall with mouse to get right pixel placement
+
+On verda revisit: stay as human throughout picking up powder, getting orange, giving comb
+
+don't mouse on returns to flora up to turtle
+
+use bird after getting bird to go to temple
+
+stay as human in the fast sand room of desert lab
+
+on return from desert, 
+1. Get orange by switching to water & human
+2. stay human, go to waterfall via lake to right area (skips mole transform)
+
+Waterfall: Mouse + Hourglass is the way to go
+
+Mouse after swamp, swamp orange after swamp
+
+In Gol, after the 2nd zip area, stay as mouse through puzzle and into the next area
+
+After turtle in final lab, stay as human into Gol boss
+
+No mouse after Gol boss
+
+Pick up Sylvan tree orange on first pass through - to prevent unequipping talisman
+
+

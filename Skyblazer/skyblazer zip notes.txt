@@ -1,0 +1,16 @@
+Skyblazer zip notes
+
+To go up, if inside a wall and in climbing state simply punch then jump.
+for standing in wall, more likely to succeed if further in.
+
+1. b
+2. -
+3. y/x
+
+holding doesn't matter, but that timing is required.
+
+To get stuck, must hit the direction on the frame after jump in order to get stuck in. Can hold it after, but cannot hold the direction before or during jump.
+
+If in climbing state, everything is easier.
+To go left if facing left, just punch. If facing right, use magic. 2 frame window to use after jump is pressed. If used on 3rd frame, will go up instead.
+

@@ -1,0 +1,77 @@
+2262 Mallard Lane, Beavercreek OH
+
+Route 1:
+Lost Shrine
+Scrap Heap [Village -> NPlains]
+Facade [NPlains -> Village -> Seaside -> Facade]
+Facade
+Scrap Heap [Facade -> Village -> NPlains]
+Myth [Boar]
+Aerie [NPlains -> Village -> NPlains]
+
+Route 2:
+Lost Shrine
+Scrap Heap [Village -> NPlains]
+Facade [NPlains -> Village -> Seaside -> Facade]
+Facade 
+Myth [Facade -> NPlains]
+Scrap Heap [NPlains -> Village -> Nplains]
+Aerie [NPlains -> Village -> NPlains]
+
+2400 - Lily Leaf Sword
+8400 - Earth Wyrm's Claw
+16800 - Beastbain
+31200 - Phoenix Dagger
+
+19200 - Axe of Beheading
+21600 - Vile Axe
+
+21600 - Spear of the Usurper
+21600 - Sunrise
+30000 - Captain's Holy Spear
+32400 - Phoenix Spear
+
+Quests:
+The Damaged Map
+Disturbing the Sleep of Kings - requires A Shade Entombed
+The Magical Stone
+A Bridge in Peril
+
+Misc:
+18,000 - Faith
+
+205200
+153600
+
+Ending B:
+
+Forced 3 sections of text, then boss battle. Note that magic is unset; set back to DH and DL. Words also unset. Then one more section.
+
+"Damaged Map" available right after boat online. Start by talking to blacksmith. After Lost Shrine, pick up in Library on top floor near Popola.
+
+"A Bridge in Peril" available right after Lost Shrine. Start during the first quest. Reward: 30k
+
+In Lost Shrine, Nirvana Dagger out of reach... need to get in first cycle.
+
+In Facade, get compass from guard, and the advisor will allow use of the sandspouts. Sandspouts must be each unlocked in order to use them... lengthy animation. Might be just quicker to go through normally.
+
+Goat Hide is in the east path, 4 goats per cycle. Goat Hide is roughly 10% chance. Eggplant costs 400/per in main village shop (grocer)
+
+In Junk Heap, during the first quest, in the vent room kill all inside boxes. Can contain flourite (6000) and amber (3000). In one full trip, 20-30k is possible.
+
+20 iron ore (20000), 20 clay (16000), 20 logs (10000). Reward: 50k. Net gain: 4k
+
+Nightmares & Dust (30000) and A Shade Entombed become available immediately after Facade events.
+
+A Shade Entombed: can skip having to go in any of the rooms by doing a spearjump from the rock to the opposing platform. Then enter far door to kill shades. After, examine guard body to teleport out. Kill guard. Reward: 20k
+
+After, can talk to King to start Disturbing Sleep of Kings. Clear out each of the rooms to advance. Final rooms are at end of temple... maybe possible to skip ahead and get over to the area early with the shortcut? Even so, save before trying.
+
+Magic Stone quest appears either after Junk Heap completion, or after Key is fully constructed. However, only needs to be started, and the Eye of Power collected; after that, Iron Pipe will appear in inventory on next cycle, so it never needs to be fully completed. 
+
+Reward for Poisoned child quest: 10k
+Reward for King's Mask: 10k, cost: 2400
+Reward for Creaky Waterwheel: 10k
+Master of Southern Plains: 30k
+The Great Tree: 20k
+The Magical Stone: 10k & pipe?

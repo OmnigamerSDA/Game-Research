@@ -1,0 +1,40 @@
+The Firemen w/Deaths, any%
+
+So the first main thing I should explain is why deaths and deathless are different categories. The main thing to know is that deaths have several beneficial effects for the run:
+
++Full HP Restore
++Gives one free water bomb
++Extended invincibility period on revival
+-Costs ~1 game second
+
+Damage boosts are crucial to maintaining good speed in this game, but HP is often more limited than what you'd need for an optimal route. In addition, water bombs are an incredible resource since one water bomb does 6 seconds' worth of consistent damage in 1 second, so it is always best to grab a water bomb that is less than 5 seconds out of the way. That said, being able to get one or more for free saves additional time since I can use a more streamlined route. Finally, the invincibility period is roughly double the normal invincibility after damage. This means that I can walk through regions that I would normally have to damage boost twice to get through.
+
+One other note: this game has incredibly complex fire spawn rules and triggers. I have semi-consistent paths in most rooms, but I still see new combinations of spawns all the time. As a result, I have to make up routes on the spot for some of the larger rooms and it's very difficult to make everything perfect. This makes the difference of several seconds in some rooms, so it's all about trying to stick to the best path while doing damage control. A canceled TAS for this game achieved an in-game time of 10:22 Deathless, and it could have been optimized further based on better routes and boss strats. I'd like to pursue such a time, but it's unrealistic just due to how much ad-libbing has to be done. 
+
+Another important note: a good chunk of time depends on properly manipulating your AI partner. The game calls him Danny, but all of my stream viewers know him as Kevin. Kevin aims to screw everything up whenever possible. A bonus commentary track provides insight into his thoughts during the run.
+
+On to the actual stages! The reported times and PBs refer to the game timer when each boss is beaten.
+
+Stage 1
+The most variable rooms for this stage are the first robot room and the hallway. It's possible to walk around many of the fires, but it depends on aligning with the correct sub-pixels. I take some measures to manipulate Kevin in several rooms, and it works out for the most part. The boss strategy is a slight improvement over my old strategy, and takes 5.5 seconds instead of 6. Unfortunately it wasn't enough to get me another second on the timer. Stage time was 8:36, PB is 8:38.
+
+Stage 2
+The first 4 rooms are all quite difficult, and they go so-so in this run. Getting hit by the large flame is unfortunate, but it only cost about a second. In the 4th room it is difficult to get that large flame on the corner not to spawn, but it saves some time if I can force it. The "pipes" room goes pretty well, and I get the death in a reasonable spot. The boss fight goes just right, and overall I finish with a mediocre 11:33. PB is 11:36.
+
+Stage 3
+There are some fairly precise paths that I take in this stage, but they're consistent so long as I hit certain cues. Overall the first part of the stage went well. There are some small optimizations throughout, but everything is pretty stable until the last room. It's best if I can pull Kevin through the last wall of big flames, but he started attacking them first which cost a couple seconds. Getting hit during the boss fight also cost a little time, but overall I finished with a 10:00, which ties my PB.
+
+Stage 4
+These first few rooms are pretty hellish in terms of triggers. I do the best I can, but I end up taking a non-standard route because too many big flames spawn. I head into the last room with less HP than I'd like but it works out. My boss fight goes poorly which cost me the PB, but 8:17 is still great. My PB is 8:19.
+
+Stage 5
+A few problems early on, but the big office room (aka "Hell") goes well which makes up a lot of time. I didn't take many big hits either, which means that I could delay my death until the boss room, which allowed me to use a riskier strategy. I messed up my timing a bit, but it still finished well and I got a PB for this stage. Finished with 13:12.
+
+Stage 6
+This level can be rough, especially on the roof. I make some minor mistakes early on, but I get some lucky non-spawns which makes up for it. Overall this is probably my sloppiest stage in this run, but there's a huge amount of variation so it's still reasonable. The final death needs to be before the last water bomb so I can get super water which saves 9 seconds on the boss. My end time is 14:28, but my PB is 14:36.
+
+The final time is just the sum of the time spent in each of the previous stages with a resolution to the second. This run comes out to be 10:54. There's still plenty of room for improvement, but the vast majority of it depends on perfect patterns in all of the critical rooms. Finding some better manipulations can go a long way, but I believe I've found most of the real-time best paths.
+
+I enjoyed routing and playing this game, and I hope that it can help people appreciate this quirky game!
+
+~Omnigamer

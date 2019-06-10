@@ -1,0 +1,264 @@
+NIER Path and Notes
+
+OPENING SCENE - Just fight. Opening two battles, cannot do jump+y or charge weapon. Instead start with jump+x and then continue combo after landing. Magic seems best to clear everything out quickly. After dark blast all small shades will die in one shot of magic. Try to lump up enemies to finish more quickly. When it gives execution, not sure whether charging or spamming is quicker for clearing all enemies. Lance is much better, just spam everywhere.  Final shade can be combo'd with jump Y roll+spear, rinse and repeat, works quickly. However, prob quicker to just max charge spear and aim for headshot. Smaller shades do not need to be killed. Instant level up to 30 after... maybe can try to combine final scenes with level up sequence.
+
+ACTUAL START: Items are med herb and 100 G, may or may not be worth the time to pick up. Objective: visit Popola in library. Scene with mailbox after leaving house doorway may be able to avoid, I managed to avoid it until just in front of the stairs. After talking to Popola, +1000 G. Talk to Yonah in main room to continue. Go to N. Plains, get Muttonx3, then shades spawn at entrance. Invisible wall blocks sheep from going into town path... prob can't skip shade scene. Level up to 2 after fighting small shadesx3. Head into town, give meat to Item shopkeeper (middle on left). +600G. Small shades may drop med herbs, need x3 for Popola. Buy remaining from shopkeeper @100G each. To kill sheep: jump+y to stagger, roll attack then two x to kill. After talking Popola, go back to house, talk to Yonah. Good save point for first segment.
+
+==================================================== 
+optimized time: 12:07
+
+NEXT DAY: Proceed to Popola. Then to N. Plains, bridge. Fight Med shadex1, x1, x2. Jump+y staggers, then roll and normal combo to finish. Return to village, see Popola. +1000 G. Go to house to look for Yonah, interaction point on bed has to be checked to start next objective. Go back to library. Talk to Popola. Next objective is Lost Shrine, through E Gate. Find item at E Gate, must pick up to continue. Go left at path to get to Shrine, small cutscene with rockslide (maybe skippable by carefully going around?). Another movie scene at top of ladder. Can jump down to main bridge just after crossing small bridge. Movie scene after entering.
+
+LOST SHRINE: Immediately head rightish, up stairs. Lost shrine map on the way; prob not necessary. At top of stairs head into broken wall at right, then keep going right to pick up bronze key at end of hallway. Use on door. First room: small shadex2. Jump+y + 2 x should kill. Room 2 is Med shadex1, 2 jump combos will kill, should be level 3 by now. Room 3 is Med shadex3 + small shadex2, skippable. Head forward, into room on left. Proceed through 2 rooms, third has med shadex2. Can pick up nirvana dagger after ladder. Only slightly stronger, and heavier. Many small shades at top; skippable. Head into room at side, fight med shadex3. 2 rooms later, med shadex2. 2 rooms later, Med shadex3, small shadex5. Small cutscene after in front of main door. Movie scene at top of boardwalk. Head right path, move block. Cutscene at ladder; maybe skippable if pushing block. Block does not need to be close to ladder, can just jump straight to ledge. Go up ladder, down ledgex2, mailbox.
+
+BOSS: Hanzel & Gretel. Starts off with fight against many small shades. Can just run up to Weiss and attack until breaks, shades do not attack. Movie scene. Small shades spawn indefinitely until ask weiss. After get him, many small shades spawn. Continues until monologue stops; kill as many as possible for bonus exp. Get Dark Blast, continues until kill all small shades. Movie scene, start boss battle. 4 Times of barriering, on last time movie scene and get dark lance. Then fight 1v1 with Blue, gains rush attack. After defeating, fight Red, spawns many small shades. Combine dark lance with attacks when possible. After defeating, go to Yonah for cutscene, followed by movie scene. Should be level 4 by end of boss battle.
+
+=================================================
+optimized: 21:20ish; 24:30ish if alternate
+
+
+AFTER BATTLE: House will have strength drop(right), 300 G (left). Save to end segment. Go to Devola at fountain. See Popola. Movie scene. Talk to Popola again. Objective: Aerie. Can kill boar, but takes a very long time, and doesn't give tusk without quest active. Talk to old man in village to activate quest. For alternate segment end, make sure to go through movie before saving, or else will start much further back. At the aerie, small shades on first platform, gives pah, maybe others. Climb up ladder to go to Chief. Can barely make the jump from chief's hut to beginning platform with jump -> roll -> jump -> roll -> roll at the closest corner of the platform. On the way back, head to Kaine's shack to trigger scene. Battles are hard; may need to stock extra med herbs
+
+KAINE: First form is simple, lances will knock her back as will any charge attack or jump+y. After she gets magic, fire lance any time she starts charging for ground wave, then follow and do a jump+y. Rinse and repeat.
+
+LIZARD THING: Really annoying. Once hands are hit enough, target will appear. Three targets total. Can hit with lances when he backs off on the hill. Egg shades take two hits of sword; spread out and are annoying. Try to spear several right when spawning, so also hits boss. For shockwaves, must double jump to avoid. Safe strat: just hold dark blast and stand back. Probably not as quick, but helpful if you're about to die.
+
+Movie. Monologue follows. Get Dark Hand. After leaving Aerie, choice: Popola or Yonah. Choice doesn't effect, only the path you end up going to does. Should be at least level 6 after battle. Kill boar at this time, only if accepted quest earlier.
+
+YONAH ROUTE: Back in house, spirit drop, defense drop, 500 G on shelves. Talk to Yonah. Go to Popola. Also, can give Popola two med herbs for 500 G. Go to S Gate. Save gaurd (can't skip), get Moonrise. More magic, heavier, slightly more attack. If lucky, can also get luges and paha during battle.  Continue to Seaside.
+
+SEASIDE: Go to the pier with the fishing man. Get pole, then go to side beach and catch shaman fish. Pass old woman, accept her request. Go to postman in post office, get mail, and mail for popola. Go to lighthouse. +1000 G.  Back to Village.
+
+VILLAGE: Give to Yonah.
+
+POPOLA ROUTE: Give letter to Popola. Go to tavern and talk to devola. Then go to N. Plains, head to junkyard. Pick up many med herbs on way up bridge. Go in, cutscene. Leave, Save, End segment.
+
+===================================================
+optimized: 25ish; lots of variation with bosses.
+
+
+JUNK YARD: Go into Scrap Heap, movie. Block puzzle, can barely reach top by putting in the blank spot on the floor pattern with the squares. Easier jump if moved slightly closer. Turn right in next room, ignore robots. Use right path. Dark Hand will almost one shot robots. In sealed room, need to kill robots before more will spawn. After last one, forward path will lead to two titaniums; sealed room. North path leads to one titanium, not sealed, do not need to kill other robots. After these battles, should be at or close to level 7. Leave area. Talk to brothers, return to Heap.
+
+HEAP PT2: Go straight and right to go down the elevator. Can quickly kill large group of robos for exp. Need to kill the turret to continue. Throw bomb to break barrier. Head south and into minecart. To go quickly, hold block and use directions to get to finish quicker. Can jump out of cart quickly. Kill robos and turrets to get bombs to proceed. Prep second bomb for other doorway. Continue on to boss room.
+
+ROBOFACE: Hit hands with Lances right away for good damage. Center spot is weakpoint. If he goes into laser pattern, can still hit hands, but not as much damage. After hands defeated, summons 3 waves of robots that spawn as soon as the prior wave member is defeated. Also, several magic-spewing robots that really hurt. Kill by grouping and hands or lances for the long range bots. After, turrets spawn. Easy kills. Next boss goes into missiles or laser pattern. For laser pattern, toss bombs into mouth. Hit him while mouth open after for some small bonus damage. Repeatx4.
+
+After fight, get dark gluttony, proceed forward. Should now be level 8. Cutscene. Pick up bottle. Will warp back to brothers hut, talk to brother. Two options, top choice is quicker. Reappear outside, head slightly forward for cutscene, maybe skippable. Save, End segment. Outside, go to Aerie.
+
+=================================================
+Optimal time: 15 mins
+
+AERIE: Defeat small shades in front of Kaine's hut, proceed to mailbox. Cannot save or heal at mailbox.
+
+LIZARD THING RD 2: First phase is same as before, kill as quickly as possible. Intermediate shades can be skipped, but will join in the next boss phase. 2nd phase, will shoot using a hut. Target it instead of hands, but still hit hands while waiting for magic. Non-timed target will appear; take it out to move on to next phase. Kill target balls. Lances can take out many at once, if in row. Sequence: Top, middle, middle. Skip small shades on the way up. Next phase, kill as normal, may charge attack. Two targets remaining at this point, both of which should be quick when combined with dark hands.
+
+After battle, get Dark Phantasm, should be level 10. Go to Facade. On way through village, go to blacksmith, sell Heap drops, should have enough for beastbane.
+
+FACADE: Movie, followed by a cutscene when you advance enough. Maybe skippable. Go to king's entrance, then opt to return to entrance. Cutscene. Must pick up all 5 things before talking to Fyra. Follow her to item shop, then skiff (start to skip), then other shop. Skip the rest. Follow her to king's entrance. Talk to Fyra, then advisor, then back to beginning. Rush to save point, save, then load (or just end segment). After loading Fyra will be where she needs to be to continue cutscene. Try to leave, then go back and talk to Fyra. Leave.
+
+=================================================
+Optimal time: 15 mins
+
+DESERT: Rush to sandstorm, try to enter and Fyra will warp to you. 3 battles with wolves while crossing, with x1, x2, and x3 wolves. Going near sand transporter will trigger cutscene. Shortly after third battle, you can rush to the entrance of the temple and Fyra will teleport there to give you the map. as soon as she turns
+
+TEMPLE: First door is on right side. As of now, no way to get around rubble or bypass the seals. 
+
+FIRST ROOM: No jumping. Push middle block forward (avoid shots). Avoid or kill blocks, go kill block then push block to get to next area. Avoid/kill and pull out farther block, then push closer block in (careful of shots). Kill one more block and then the trial block. Return to room entrance, proceed to room across the way. 
+
+ROOM 2: Don't stay still. Movie. Just run forward immediately and kill block. Enter back door, platform to next room. 
+
+ROOM 3: Do not run, do not use magic. Does not count rolling or jumping as running, so can quickly jump and roll across to kill block. Go across to next room. 
+
+ROOM 4: Do not block. Immediately jump over blocks and roll. Roll again, then double jump over final blocks and kill the trial block. After this, can leave the main room without using back door and go to next room by going back to main hallway. 
+
+ROOM 5: No magic. Rush quickly straight through the center. Rollx3, double jump + roll, double jump+y on trial block. May be one horizontal stream to be careful of in final area. Go out and across to next room. 
+
+ROOM 6: No phys attacks. Blocks take 3 hits of magic regardless of type, so use dark blast to clear out many. The homing shots will go for them too, so spam away. Go into back door. This platforming puzzle needs double jumps. 
+
+ROOM 7: No roll. Full of shades, just clear them out with hand. Even final shade falls easy to hands. Can use a hand then immediately roll on final shade to reset room but still get the exp and any drops. Also, med shades drop health salves. Giant shade drops ___ machines. Can get ot and besa in this room. 1200 exp per rotation. Leave room, head left down corridor. Go across bridge.
+
+BLOCKS BOSS: One Lance will take out multiple blocks, including key blocks. Cannot hit key blocks until they start in motion. Use guard will protect against orbs. For every non-key block hit, uncancelable orbs will spawn towards your current location. Each row is self-explanitory. For phase 2, can't harm until one attack rotation through, movie. After, becomes vulnerable after each ground pound. One dark hand can kill every piece. Phase 3, same as first phase. Use lance to take out remaining parts one by one. Should be level 12 after battle.
+
+Movie and cutscenes after. Talk to prince to proceed. Get Rebirth. Talk to prince again then try to leave. Get Dark Wall. Sand skiff does not reset people, and can use as quick warp back to entrance. Rush to Village. Go to house; 700 G and Defense Drop on shelves. Talk to Yonah. Choose top option. After words and scene, go to Popola, then go to N Plains and Forest of Myth.
+
+MYTH: Talk to mayor. Rocket through until choice, choose top choice. For second choice, choose bottom. Third, choose top. Skip more text, then get Dark Execution. Leave village (Faith not worth it). Go to Popola. Go to house, spirit drop and 700 G on shelf. Talk to Yonah, pick top option. Leave, save, end segment.
+
+==================================================
+Optimized time: 25 min ish
+
+Leave Village and go to S Plains, Manor. Talk to Butler. Movie.
+
+MANOR: Immediately head to hallway, doorway. Do not need  to wait for butler. Head out back doorway, left to end of hallway. Head down, check door on left, return to dining room. Go back to door. Small cutscene at picture. Enter door, go across, enter room and pick up moon key. go back to main hallway, and on right side is the moon door. Can skip shades in hallway. Head forward, then down hallway on right. Ignore shades. Movie. Talk to him after cutscene. Get star key. Head back down hallway, and use far door. Camera adjusting does funky things to movement directions. Head down hallway, last door on left, pick up light key on table (obscured by chandelier). Must fight shades here. Leave, use door at end of hallway. Talk to butler. Leave hallway, head all the way back to original hallway (some shade battles may block path), go to door at the end and use darkness key. Shades in hallway, probably blocking path so hand them immediately. Blade of Treachery in box, not worth it. At end of hallway, turn left and DO NOT go into door. Mailbox at end, and door to boss on left.
+
+BOOK: Just beat it senseless, magic works well but must be aimed. After first target, movie. For second phase, just attack as quick as possible to break out of charge attack, then beat on it with magic after shield down. Movie. Careful, most of its attacks are magic and will hurt a lot. Get Dark Whirlwind after battle, level 13.
+
+Movie. Leave manor, head straight to town, movie. Warp to Yonah, talk to her, leave and save. End segment.
+
+================================================
+Optimized time: 8 min
+
+Head to Popola, then head to far corner at S of town to pick up vapor grass. Stock up on items on the way if necessary. After picking up, talk to Emil, warp back to Popola. Start massive battle.
+
+BATTLE: Movie. Rush to town. Getting close to Devola will cue talking to her, not sure if skippable. Kill several shades with hand to trigger another movie. Fight monster with lances and hands, first trigger at approximately 4/5 health. Movie. Rush to stairs and archway over town entrance. Hit face when possible and spam magic when needed. Hand shockwaves are somewhat hard to avoid, but can be blocked. Second target point at 1/2 health. After, jumps to pig field. Air specials do a surprising amount of damage. Next target point appears at 1/3, followed by movie. Two more target points, with no immediate effects. Drop to 0. Then climb cliff and wait for target point to appear, spam magic at it. Movie. Spam more magic. Hurry inside library, fully healed.
+
+BATTLE PT 2: Kill of shades ASAP. Movie. Can kill tentacles with well-placed dark hands, and after killing one mp is fully restored, so can potentially get a quick kill. Kill body with hands, then final target point with hands as well. Movie. Movie. Kill shades until monologue finishes. Cannot attack book as he runs away. After monologue done, can attack book, but he has attacks similar to manor boss. Pages hurt a lot, so kill before going in. Get Dark Blast after killing first target point. Second is Dark Lance. Third is Dark Hand. As you get the powers, use them as they kill much quicker, but he has a new pattern after each point. Dark Blast gets mapped to RB, and each new power after that goes to LB. Fully charged hand can trigger next point automatically. Dark Blast homing can take out pages pretty well. After all powers back, goes into shield state with charge attack. If you can get it into a corner, it becomes difficult for it to charge back out and will keep running into walls. Bring down shield and pelt it. Might be able to 2-cycle him this way. Movie after. Choose top option. Level 16 after battle, automatic save point, end segment.
+
+================================================
+Optimized time: 12 min
+
+After movie, switch magic. Should get 10% geb in battle. Also switch to spear. Hand will knock off all armor, and then spear dash will kill. Talk to woman after. Movie. Go see Popola. Head to S. Plains. 
+
+S PLAINS: If cloudy, kill small shades for pahul. If sunny, ... Continue to Seaside first, go left towards fountain area. Talk to woman, accept quest. Go to cove, pick up and examine crate. Then go to Manor, talk to butler. 
+
+MANOR: Head out, down hallway, and down. Go to door across hallway. Examine shining spot. Go down steps.
+
+RESEARCH FACILITY: Go to left side, pick up keycard, use on door. Emil has to keep up with you. In next hallway go in last door on right, and straight to a back cabinet to pick up keycard. Go through door. Go around boxes and quickkill shades, key is in lower left corner of room, next to boxes. Secret passage on side to continue. Hallway, kill shades quickly. Next room, no keycard, just jump over shades to get in door.
+
+FLOOR 2: Go right and into the door, many small shades spawn. Keycard in upper left corner. May have to kill all shades... Emil wants to fight them and is hard to make him follow. Easy way is to stand in hallway and spam hands as new large groups spawn. Keycard for next room is in the space left of the entrance. Emil distance seems to be absolute distance, so you can move more quickly through maze. Go through small room, quick kill shades. Go through maze, some magic-proof smalls will spawn. In middle part, med shades will spawn, kill while waiting for Emil. then kill shades in next small room. Go straight to door, more shades will spawn, ignore. Emil will warp to you any time you're about to open a door (maybe?) Key is in door partially blocked by boxes on left side. Next room, key is in middle room. Then go to larger area at the end, door on right side. Pick up keycard. Giant shade will spawn after leaving, skippable. Last room is in the lower left, and will lead to next floor.
+
+FLOOR 3: Take second door on right, then secret passage to get one room over and pick up key. Next room, examine door, many small shades will spawn. After killing them all off (shades from previous room will join too) Giant shade will spawn. After killing, item spot in top left. Can save at mailbox... boss may be hard.
+
+BOSS: Movie. Talk to Emil. Movie. Just beat it with hands at every opportunity. When it jumps on the walls, lance it as much as possible. It will later fall to the ground and tantrum lots of orbs at you. Use attack to absorb some of them and magic when possible, otherwise block. Movie. Walk forward. Movie. Save, end segment. Should be about level 18 after battle
+
+=============================================
+Optimized Time: 17 min
+
+Movie. Squid boss again... same strat as before. Kill, then movie. Then... unskippable on-screen text. Gold moonflower seed and 900 G on shelf. After leaving house, go to your field and jump over the fence. Examine box, may or may not need to check inside. Talk to Devola at fountain. Talk to Popola. Boat now active. Go to N Plains and go around to scaffolding to pick up last crate, look inside. Choose to report to Town Gaurd. Jump in water to warp to boat. Go to Seaside, talk to man at entrance, then talk to postman. +50k G. Finally, go to Facade, buy Phoenix Spear. In Facade, weapon shop is 2 floors down on right after entering. At this time, re-spec words. Should have Pahil or better for weapon, Gebu/Gebil or better for magic. Can get Otkarr in desert from small magic shades. Finally, go to Lost Shrine via boat.
+
+=============================================
+Optimized Time: 8 min
+
+LOST SHRINE: Movie. Rush across bridge and up ladders, no shades. Once inside go up stairs and into first room (ignore skip; takes too long and risky to get right). Block puzzles... solve quickly. After, go around to stairway and use the floor skip momentum trick. Really need to mash jump to be effective, and needs to finish with a roll to make it all the way. Practice practice practice. After on third floor go around to door and in. Shades are skippable. Next room, push blocks all the way left to enter. Next room, right goes down, left goes right. Go forward two rooms. In last room, must defeat shades. Skip giant shade, go outside. At top, new block. Jump on top of block and use momentum jump at vine to be forced up it to save a small bit of time. Jump is ver precise. Go around to boss door, kill all small shades. Go into boss door.
+
+BOSS: Movie. Boss goes into shell when you get close, but small shades can't come into light. Phoenix spear makes short work of him, even quicker than magic. After 2nd target spot, one last target spot. Movie after each target spot.
+
+KAINE: If she jumps on the wall, lance her until she gets knocked off. Otherwise, beat her to about half health and allow Emil to approach her in order for target point to appear (she must be staggered). Should be close to level 19 after battle.  
+
+Go to alter and pick up item. Warp back to Popola. Go through text, leave. After you leave the library, select to go to Junk Heap first. Leave, save, end segment.
+
+============================================
+Optimized time: 10 minutes, best could probably be 9
+
+Head to Junk Heap. Just leaving N Gate is quickest.
+
+JUNK HEAP: As soon as you enter, Movie. Head to house, talk to Gid. Try to leave. More conversation, get Iron Will, then head into Scrap Heap.
+
+SCRAP HEAP: Head straight forward to elevator, go to B2. NOTE: Possible to speed things up maybe if a way is found to get around the obstacle scrap on B1. Head forward, kill turret. Locked room; Two turrets in front and three waves of robos in back. One spear drive should one-hit kill the robos. If not lvl 19 prior to battle, should be after. Can get Mem Alloy by fighting giant Boss Robos... one is down left path (blocked by bomb wall) all the way at end of hallway and around. Ignore side rooms if using this path. After going around, door on right. In this boss room, fight back robos (yellow) first and lance the red robos. After 2 waves, air robos will spawn; dispatch as quick as possible. After 2 waves of air robos, giant robo spawns in center. Giant robo hurts A LOT but also takes a hefty amount of damage from everything. Don't attack halphazardly. Can kill you with only 3 hits.
+
+FORWARD PATH: Another minecart thing. Just guard and gun it. At end, jump out early and take left door. Giant robot room, no other robos to kill first. Hands are initially tough to hit with, but hit with one and you'll cause a stagger loop until it dies. 2 Waves of yellow&red robos after you kill it. After fight, path branches left (down) and right (up). Upper path will lead to exit (eventually). If you try to go back the way you came, will have to go through lock rooms again and cart sequence... this route is probably overall slower, no matter how you go about it. 
+
+Either path, go back to Gid. Then leave Scrap Heap. Choice: talk to Popola. Head back to Village by drowning yourself and then using the boat. Go talk to Popola, then check mailbox. Save, end segment.
+
+===========================================
+Optimized time: 9 min
+
+At this point it would be best to use momentum jump to get to the boat faster, but the jump itself is tricky. Seems to be more consistent if you aim for the farther joint, but still not easy to pull off. Once at boat, head to the Desert and up to Facade.
+
+FACADE: Go up to the sand skiff, go to King's mansion. Press start to skip sequence. Go into mansion and up stairs. Talk to king. Cutscene. Walk forward to automatically talk to kaine. Keep moving forward, same will happen with Emil. Go outside. Cutscene. Small dialog between Emil and Kaine. After dialog, can talk to advisor (guy in middle). Will trigger scene and shades.
+
+BOSS: Wolves will be one-shot. Big wolf gets hurt by Hand pretty well if you can land it. Battle will end and go into further cutscenes after it reaches half health. Not much to say about it.
+
+Movie. Choice: Choose to meet with King. Go back into mansion, and try to enter door on 2nd floor. Choose yes. Cutscene. Get ancient Overlord. Another cutscene. Movie. Warp to wolf den.
+
+WOLF BOSS: He will jump on the platform right at the beginning. If you're quick, you can hit him once before he escapes. Cannot hurt him while he's on the ledge. After you kill enough, the boss will come down very quickly with an attack. He's very fast and robust, and difficult to hit with magic. Use magic when you can, but focus on him with Phys attacks. If you're lucky he'll go into this guard state and stay still for a time. Otherwise he's annoying and takes longer than he should. Should be level 20 after battle. 
+
+Obtain Cerberus Key. Warp to Desert graveyard. Head towards boat, another choice: head to Forest of Myth. Go to N Plains by boat, take boar to  Myth.
+
+FOREST OF MYTH: Talk to mayor, then go examine spot at tree. Text starts; first clue is on a very small line that mentions eye color. Then look for number of lives lost in warrior's tale. Third choice, any will work. Get Key, then try to leave. Another choice. Choose to check for letter. Head back to Village.
+
+VILLAGE: Check mailbox. Talking to Popola after checking the mailbox will not trigger any new events. Go back to Junk Heap.
+
+JUNK HEAP: Talk to Gid. Leave, save, end segment.
+
+==============================================
+Optimized: 12 min, My time: 13:30
+
+Head into the Scrap Heap.
+
+SCRAP HEAP: Same path as before, go straight and down to B2. Forward into lock room, kill robos. Head forward after room into cart ride. After ride, enter door on right, fight giant robo again. Take right path, kill off room of aerial drones, then continue forward and left. Go all the way around the staircase and into the elevator. Go straight forward and jump in hole. Move forward, cutscene for boss.
+
+ROBO BOSS: Can use same strat as with other giant robos, but has significantly more health. Get to 1/4 health and it will go into phase 2. Small amount of time where it does nothing right at beginning of phase 2... might be able to damage enough before it jumps into ceiling. After you deplete the bar completely, it will fly into the ceiling again. After it falls, the small shade will be knocked out. If you time it right you can kill all the other small shades just as it multiplies, getting a quick kill on it. Should be level 22 after battle.
+
+After battle talk to Gideon. Will warp back outside. From here, drown self to get to boat, go back to Village, talk to Popola. She will trigger Aerie stuff. Go to Aerie. Save, end segment.
+
+=============================================
+Optimized: 11 min, My time: 11:45
+
+AERIE: Go up to Mayor's house (up ladder and across). Talk, then go back across. Use a momentum jump to skip going down another level before ladder to last platform (even a very poorly timed one is sufficient). Talk to guard to trigger battle. Kill the 2 armored shades that appear then skip the rest on the way to Kaine, way back on the middle tier side wall. Movie. Kill shades until Giant spawns on far platform. Do not need to talk to Kaine before going to far platform. Must kill all shades on platform, including Giant. Giant has armor, but knocking some off can be targeted for higher damage. Movie.
+
+EYE BOSS: He should start by being close to the platform and launching many orbs. Just keep up the attack until he backs off. When it gets to half health, a target will appear. Make sure you have magic for it at this point! 3 Lances should kill the target. Movie. Will start off next phase by firing laser. Head toward side platform asap (can head there as soon as laser is firing), go up to 3rd tier (where you'd go to mayor's house) and fire Lances at weakpoint until 1/4 health. To restock magic quicker, kill orbs. Momentum jump to platform right below you, or walk back a bit and jump down normally. Next form not vulnerable for a bit of time anyway. Take it down to almost dead, and it will start up laser again. Hit it with one more lance to make it come close, hit with spear, target point, kill. Movie. Movie. Movie. Should be level 23 after battle. 
+
+Return to Village, speak with Popola. Save, end segment.
+
+============================================
+Optimized Time: 10 min (with timely magic drop) My time: 11:50
+
+Do another bridge jump to get back to boat, head to Lost Shrine for the last time.
+
+LOST SHRINE: Plenty of shades on your way in this time. Skip all of them unless completely blocking. Magic doesn't seem to be able to knock you off ladders. Inside, all former puzzle rooms now contain shades, but the rooms themselves are skippable. All of them. Use the 2nd tier skip, but for all the rest just ignore all shades and charge through to the top. Use vine jump on roof. Save in front of boss door, end segment. Head straight into boss room, examine spot, choose yes. Warp to Castle.
+
+=============================================
+Optimized: 4:30 or so
+
+CASTLE: Move forward and open door, movie. In the next room move forward and talk to doves, then talk again. Choose 2nd answer, then 2nd, then 1st. Now go through door. Cutscene. Not sure which answer is quickest, but top is only 2 lines. Movie.
+
+DEV & POP: At 4/5 health they will stop taking damage and eventually warp to center. Cutscene. Get very low (about 1/10) and they will warp to center again. Another movie. Easiest to rack up damage when the warp together, and you can hit both at once.
+
+After battle move forward and into the next room. Movie. Kill off shades as quickly as possible, magic works great. One Hand then spear drive will finish them off. During last sequence flying shades will be continually summoned until monologue with Kaine finishes. After door opens kill a few balls and immediately talk to Kaine to get to giant boar fight.
+
+GIANT BOAR: Use a Strength drop (previous shades should have dropped plenty) and take him down quick. After target point, movie. New boar. This one takes more damage, but revives infinitely and the armor will protect it better. Kill it once, then it will get back up and shiver at you a lot. Kill it one more time, and then some dialog before Kaine and Emil head to door and break it open. Boar should not attack you during this time.
+
+As you leave camera will point back, but you can keep moving forward during this time. Head forward to reach staircase... stay towards the pit as you go up and repeatedly spear drive to break boxes when necessary. At top, another cutscene. Head forward to Emil and Kaine, then cutscene. Kill the boar again. Keep attacking it until a cutscene after it gets up. Kill again (will have whatever health it had left before movie).  Now, just keep killing it until King's dialog is complete (3 or 4 times). Camera will shift when door opens. Leave, movie. Move forward, boxes will have salves and strength drops in them. Forward again. Movie. Cutscene. Movie.
+
+DEV & POP RD 2: Just Devola comes down first. Hit her every time she pops up before she can attack, rinse and repeat. Magic has no effect on them. Strength drop to make the battle a little quicker, but the teleporting makes it annoying. Now Popola will fight, starting with 1/3 health. She will spawn massive orbs, but 2/3 cycles of regular attack will take her out. Movie. Movie. Movie. After battle, should be level 25 or close to it.
+
+Head forward one room. Many small shades and some large shades. Move forward all the way to door to cause larges to spawn. Kill off. Same thing in next room. Enter next room, movie.
+
+SHADOWLORD: Starts off against Noir. Very simple, as you can keep him stagger-looped so long as you keep hitting him. When he gets very low a shield will come up, knock it out of the shield and give it the final blow. Shadowlord spawns without any cutscene or movie. Shadowlord will jump at you quickly. Use combination of phys and magic to take him down. At 1/3 health, a target point, followed by a movie. He will probably go into the air and spam powerful and hard to dodge magic. Hit with lances when you can. After a while he will come down, finish him the rest of the way now. At 1/6 or so remaining, movie. As soon as movie ends rush forward and hit him just as he starts spawning orbs. For second, use phys as the central one gets close to kill it, and time your spear dashes/attacks so you can get through the waves without being hit. For last one, just get up there as best as you can for the last hit. SDA timing should end here. Not that it matters, but you will be level 26 after battle.
+
+Movie. Go forward, talk to Yonah. Input the player name when prompted. Movie. Another movie, unskippable. Credits roll. After credits, can save game for repeat of later half of Phase 2, and the other endings.
+
+==========+THE END+==================
+Real time: 16:28, Game time: 24 min
+
+++++++++++++++++++++++++++++++++++++++
+Total Optimal Time: 3:54:30
+++++++++++++++++++++++++++++++++++++++
+
+SYSTEM NOTE: Siderolls do exist, and are faster than either front or back. Side > Back > Front. Tricky to start though, but fairly easy to maintain once started. Best to do a forward or back roll at first and then change direction so that sideroll comes out naturally. Use minimap cursor to help show current direction you're facing.
+
+SYSTEM NOTE: Play time continues to increase even in pause and save menus. Probably also includes movie scenes as well, so skip ASAP. Probably does not count loading time, but I have not tested yet.
+
+ITEM NOTES:
+Beastbane - 16,800
+Boar Hide - 700
+Thick Dictionary - 360
+Faith - Probably not worth the extra time to get, although easy. Depends on if Beastbane is achievable early or not.
+
+
+EXPERIENCE:
+
+Big spider: 60
+Giant Shade on S. Plains: 400
+Trial room med shades: 100
+trial room giant shade: 600
+
+
+EASY QUESTS:
+-Popola herbsx2, get 500 G
+-give muttonx10, get 1500 G
+-Book sorting - 500 G. 
+-Buy tulip bulbx3 (grocer, right side if facing sea) and bounty fertilizerx3 (item shop, left side) in Seaside (1050 G total), then give to gardener in Village for 2500 G + fertilizer and bulb. Net profit of about 1500 G. 
+-Gatekeeper's Errand - Gives 500 G
+-Lost Eggs - Gives Health Salve
+-Item Unknown - buy 10 watermelons, give to lady in Facade. - not worth it
+-Tangled Message? - go all around Facade and exchange the messages with people - not worth it
+-A dog astray - 1000 G
+===== Part 2 Quests
+-A Bridge in Peril - Gives 2 Hand Sword Labyrinth Song
+-The Despicable Man? - Probably not worth it, but ordering is set up about right.
+-The Faded Fountain? - Might have parts for it if not sold off earlier
+-Thieves in Training - Probably quick enough.
+-Freesia - probably quick enough. Seaside -> Facade -> Seaside
+-The Scattered Cargo - crates are quick to collect, can look inside and report to guard for 50k gold!!
+-Shade Entombed/Disturbing Sleep of Kings - either require revisiting Barren, possible good levelup spot

@@ -1,0 +1,47 @@
+7E102F - Miniboss 1 HP. 32 max.
+7E11AF - Boss 1 HP. 50 max.
+7E122F - Miniboss 2 HP. 36 Max.
+7E102F - 2-3 Miniboss HP. 10 Max.
+7E112F - Boss 2 HP. 40 max.
+7E10AF - 3-2 miniboss right. 18 HP
+7E142F - 3-2 miniboss left. 18 HP
+7E11AF - Boss 3 HP. 60 Max; below 40, goes down to 30 until tail is fully grown; any damage done while/before growing resets to 30 after.
+7E11AF - 4-1 miniboss HP. Max 25. Also present in 7E11D4
+7E12AF - 4-2 miniboss. 20 HP
+7E102F - Boss 4. 50 HP. Once below 30, resets to 50. Shingles have 6? 2nd form has 50 again, switches phases at 30. Last phase has 30.
+7E182F - 5-1 miniboss 28 HP.
+7E102F - Boss 5 HP. 30 HP
+
+7E0901 - State. 00 if invuln, 80 if vuln
+7E0514 - HP.
+7E0520 - Score. Used in some RNG calculations?
+7E0906 - sprite state. stand/crouch/jump etc
+7E007D - Frame counter of some sort.
+7E0516 - Bomb counter.
+7E00AA-B - RNG
+7E056E - Changes by stage, 2 bytes. 1-1: 0200, 1-2: 0C00
+
+7E1106 - Boss 2 Pattern.
+7E1044 - Boss 5 pattern
+
+
+Damages:
+T1J - 6, hits twice if aimed
+T1A - 5, hits twice if aimed
+T2J - 2, hits several times
+T2A - 7, hits once
+T3J - 25, hits once
+T3A - 4, hits area
+JumpKick - 1
+Kunai - 2
+Sword - 2
+Grenade - 2 direct, 1 splash
+Grappling - 1
+Bomb - 3 sets of 2 dmg, 6 total
+
+Tricks: 
+Worm - Count to 3, then jump and hold down and jump
+Boss 1 - Look at the head ornament on the right. start doing the tumbles as soon as its dislocated dot reaches the lowest red orb in the middle of the screen.
+2-1 Miniboss - start as soon as the red jewel on the left reaches the symbol in the background.
+Boss 2: kill the first monk, and all enemies after the miniboss to get the good pattern. On the boss, charge a kick just as he stops moving left and use a bomb just after hitting. Then hack away for the finish.
+Boss 5: Pattern: start off in left blind spot, on third round just make sure he's on the left side of the screen. He can't hit you if you go all the way right after. Will pop up in center; use a dragon punch right of the doorway to get two hits on core. For next cycle, go to right sweet spot or just lure him right. Get in position on right after third. Then rush left. Just as the platform comes towards you and starts to move away, move slightly in from the wall and do a triple kick to finish.

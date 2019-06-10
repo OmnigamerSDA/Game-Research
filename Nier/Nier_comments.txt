@@ -1,0 +1,25 @@
+Nier Submission Notes
+
+I will try to keep this brief since the run is a little too long to go through bit-by-bit.
+
+Good things:
++Managed to get great luck for the Lost Shrine triple jumps both times.
++Bosses in general went well, although there are a few mishaps here and there.
++New Dark Blast strats helped out throughout and shaved another couple minutes off of various bosses.
++Got the quick kills on pretty much every boss that has one.
+
+Bad things:
+-While I managed to get enough money for phoenix spear in the Junk Heap, I only barely did. This made my menuing sloppy as a result.
+-Some spear jumps weren't the best. I think I still overall did well on these, but first try bridge skip is ideal each and every time.
+-Some bosses, especially the final boss rush, could have gone better. Most fights were at least average, but they still could have gone a lot better.
+-General slop in movement or mob killing. Not everywhere, but it did show up in enough places to make a difference.
+
+Misc:
+=Easy mode selected solely for the double magic regen rate, which enables most of the quick kills. Enemy and boss HP and stats are not affected between Easy and Normal. Hard is just a slog, though, so I opted for the most entertaining/challenging difficulty.
+=One possible minor improvement between SS and RTA: saving, quitting, and reloading while waiting for Fyra to walk up to Kaine will cause her to teleport her there instantly. Saves ~20 seconds or so vs waiting. I did not do it in this run to maintain SS.
+=I pick up a few unnecessary weapons along the way because I intended to use this file as a base for a full Ending D run, which requires collecting all weapons. The time lost is approximately 10 seconds per weapon, but these are only the ones that I cannot get to easily during NG+ playthroughs.
+=Game timer is very accurate, but it counts all cutscenes, loading sequences, and lag in the final tally. Thus the time itself can probably be improved by playing on, say, a PS3 with an SSD. In any case, ending game time is pretty reliably equal to real time minus 33 seconds.
+
+A pretty good run, although definitely still improvable. I had wanted to finish the Ending D run when possible, but my motivation waned. I still have it routed and would like to get to it eventually, but my other projects take precedence for now. I can share fuller notes and insights on the route for interested parties, so contact me if you'd like that info. Otherwise I'm pretty satisfied with this run, and hope viewers will enjoy it.
+
+~Omnigamer

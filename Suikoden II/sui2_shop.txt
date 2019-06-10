@@ -1,0 +1,18 @@
+0: 0-3FFF
+1: 4000-7FFF
+2: 8000
+3: 8001-C000
+4: C001-FFFF
+
+Multiplicand for quantity...
+
+Good offsets to know for TRADER_ADDRESS:
+22C - 
+
+Compares current game minutes with last accessed game minutes
+
+Indices of item at store:
+3 - standard quantity (byte)
+4 - standard quantity sets (byte; for mult)
+6 - item update period (half)
+8 - standard price

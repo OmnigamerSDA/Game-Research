@@ -1,0 +1,217 @@
+Battle:
+
+Damage is determined as soon as battle starts, and changes when different robots leave/enter the arena. This value is stored at 7F20EE for RH, and 7E20F0 for LH.
+
+810A18 - if 4000, will crit, pulled from 80F14C
+81052C - anded with result from 7F20E6 when determining crit. Looks like this is an RNG
+7E0539 - RNG chain initiator. Increments after chain completes. Runs for a "random" number of times at start of battle, between 3 and 7 times.
+7F20E6 - "crit bits"
+7F20F4 - determines crit bits
+
+7E052A through 7E0539 - Crypto chain for RNG. 
+
+Back attacks do 1.25 normal damage, 1.5 for crits. They do stack together, and will give 1.875 total damage. Crits are very likely to ignore defense.
+
+52C is the main point it draws from. Is occasionally set directly to (2u) 7E0030. Specifically set when battle begins.
+
+After battle, loads 52A to check to see if/which item drops. 
+
+7E0030 - is the frame counter. Increases on every non-lag frame.
+
+Dodge Mechanics:
+
+-At some point, grabs 7E052A and transforms it into some value >100 (0x64), then compares it with result of [7E2100] - [7E0A64], which is the difference in your evasion and enemy attack accuracy. 7E06A4 is pulled from [7f1020,x], where x is the offset of the attack. The attack value is pulled from [7F0022,x] where x is taken from [7E0058]. [7E0058] comes from [7E0402, y], where Y comes from ......
+
+7F22C0 - Enemy 1 evasion?
+7F22F8 - Enemy 2 evasion?
+
+
+ENEMY ADDRESSES:
+
+Enemy 1:
+
+7F...
+22A0 - Current HP
+22A2 - Max HP
+22AA - Guard?
+22BA - move
+22C0 - Evasion
+
+Enemy 2:
+
+7F...
+22D8 - Current HP
+22DA - Max HP
+22DC - RH attack power values? (2 bytes)
+22DE - LH attack power values? (2 bytes)
+22E2 - Guard?
+22E6 - permanent power values? (same as 22DC, but always set)
+22E8 - ???
+22F2 - Move
+22F8 - Evasion
+
+Enemy 3:
+
+7F...
+2310 - Current HP
+
+
+
+TABLES:
+
+Battle readying starts at 8BF2CE
+
+All pieces are 2u
+[83f591,y]
+HP - 22A2
+??? - 32A0
+??? - 22AA (only LSB), used when attacked (ranged)
+??? - 22AE (long range all attack base damage?)(also in 7F218C? for 218C, first 7 bits are separated from last 9 bits...)
+??? - 22B4
+??? - 22B0 (LSB is power of Long, single attack)
+??? - 22B6
+========
+??? - 22C2
+??? - 22C4
+Evasion? - 22C0 probably evasion, subtracted from 7E0A6A
+========
+ 
+Enemy value stored at [83/8000,x] , x is 7E05C6 asl 1. This is used as a pointer, first byte of value is checked against FF (not sure what happens if true),  then checks again, then pointer + 1 (stored in $46), pointer + 3 (stored in $48), then pointer + 4 (stored in $42 and $7F12A0), then pointer + 6 (stored in $44 and 7F12A2). Finally, 7 is added to the value in $4A. Repeated again later on... this likely starts storing some initial values relating to the enemies that are actually on the battlefield. Which means that the enemy information comes in 7-byte blocks. 
+
+
+8BF3
+
+Current Robo?
+
+7F20E0 - Current HP
+7F20E2 - Total HP
+7F20EE - RH (Sum of weapon damage and Pow, both in hex)
+7F20F0 - LH
+7F20F2 - Backpack
+7F20EA - Guard
+7F20FE - Move
+7F2100 - Evasion
+
+Higher byte of RH/LH is some unknown number (crit?)
+
+Robo 2
+
+7F2126 - RH
+7F2127 - ???
+7F2128 - LH
+7F212A - Back
+7F2122 - Guard
+7F2138 - Evasion
+7F2136 - Move
+
+Robo 3
+
+7F215E - RH
+7F2160 - LH
+
+
+Programming
+Note: Any offsets (by 6) is hex -> decimal conversion
+
+
+Robo 1
+
+7E0690 - Energy
+7E0B40 - Energy? + 6 / 10 levels
+7E0696 - Power
+7E0B46 - Power mod
+7E069c - Guard
+7E0B4C - Guard mod
+7E06A2 - Speed
+7E0B52 - Speed mod
+7E0046 - Charge mod
+7E06A8 - Charge
+7E0B58 - Charge mod
+
+7E0B86 - Points pool
+
+Robo 2
+
+7E0692 - Energy
+7E0B42 - Energy mod
+7E0698 - Power
+7E0B48 - Power mod
+7E069E - Guard
+7E0B4E - Guard mod
+7E06A4 - Speed
+7E0B54 - Speed mod
+7E0048 - Charge mod
+7E06AA - Charge
+7E0B5A - Charge mod
+
+7E0B86 - Points pool
+
+Equipment Stats
+
+7E08B3 - LH Mod
+7E0B1C - RH Mod
+
+7E0B2E - GRD Mod
+7E0B3A - MOVE mod
+7E0B34 - EVAS mod
+
+7EF636 - Unknown, changes when Grd/Eva change (higher = better?)
+7E08BA - Unknown, changes any time something is equipped
+7E06C6 - Item number for UL slot. To test, light bulb = 90, axe 3 = 07
+7E41A3 - Very low value. Changes somewhat randomly when new items are given.
+
+7E08Ax - Various things that change when new stuff is equipped
+
+Useless
+7EF536 - ASCII value of tens digit for charge
+7EF538 - ASCII value of ones digit for charge
+7EF3D8 - See above, for speed
+7E0046 - Looks like it's used for a number of things. Pending damage & in-battle clock. Both of these are deci-hex.Part of the stack
+
+
+
+
+======================
+
+RNG after battle determines what you get
+After poof is first RNG call
+
+takes $052A and bits with 0x03
+
+drop table starts at 0x08D554 in rom
+
+2nd table at 0x08D7CA (for rares)
+
+Takes enemy formation, multiplies by 3
+
+Adds 2 to table 1 index if rare drop, makes point to table 2
+If 0x00, also sets Y=2
+adds 2 to table 2 index if super rare
+
+
+
+
+HIDDEN ITEM MECHANICS
+
+loads room number ($5AA) into Y
+Uses room number to index $81B6EB, look up X
+uses $810000,X to look up A
+if A == FF... do something. Probably end of list?
+then compare with 16 (is X pos - 8, div by 16; ie top nibble). 1A is equiv for Y pos
+If NE, TXA, add 7, TAX
+repeat from uses $810000,X
+
+
+if finds one with 810000,x then checks $1A vs 810001,X
+if equal...
+.... do a bunch of stuff, ending in setting $5EC to X
+
+when loading item giving, first check 0005,X, AND with 0x03FF (I assume for money)
+if 0, then check 0002,X, AND with 0x00FF, add #0x500
+
+put A AND 0x07 into X
+A AND 0x7FF div by 8 goes into Y
+
+.... bunch of other stuff happens, but not important.
+
+Item is pulled from 810003,X (X is the one from the first loop)

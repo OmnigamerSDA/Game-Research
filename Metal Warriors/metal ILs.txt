@@ -1,0 +1,50 @@
+2187 - "Start"
+2400 - Start stage 1
+5980 - End stage 1 59
+
+6340 - Start Stage 2
+9025 - End Stage 2 44.75
+
+9390 - Start Stage 3
+15175 - End Stage 3 1:36
+
+15500 - Start Stage 4
+21450 - End Stage 4 1:39
+
+21820 - Start Stage 5
+26750 - End Stage 5
+
+27070 - Start Stage 6-1
+32770 - End Stage 6-1
+31900 - End Stage 6-1 other
+
+33070 - Start Stage 6-2
+38400 - End Stage 6-2 1:28
+
+38560 - Start Stage 6-3
+41420 - End Stage 6-3 0:49
+
+41760 - Start 7-1
+44710 - End 7-1 0:49
+
+44970 - Start 7-2
+48300 - End 7-2 0:55
+
+48680 - Start 8
+55120 - End 8 1:47
+
+55480 - Start 9-1
+59000 - End 9-1 0:58
+
+59290 - Start 9-2
+74800 - End 9-2 
+
+71081 - Long start
+87538 - Long end 4:48
+
+49883 - short begin
+56628 - short end 1:52
+
+45682
+46242 - no pause
+

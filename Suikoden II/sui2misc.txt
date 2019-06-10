@@ -1,0 +1,144 @@
+Party to muse = party to tinto
+Nanami forcefully joins
+No rune/wpn open during greenhill liberation battles
+In follow-up, party stays the same as for Bone Dragon
+In muse, viktor joins (convoy) and you can re-select. Otherwise same as greenhill
+After Kiba leaves, end up at castle entrance. Can go to Jeane?
+
+Stallion makes Wakaba go from 1:30 to 1:00
+
+LC Chan still in Matilda during Rockaxe stuff...? Maybe because of early visit or TP after Viki...
+
+Damage carries over from Greenhill for Matilda quests...
+
+Need to manually add zamza after Matilda, before Kiba
+
+Maybe mix Shin and Zamza?
+
+Everybody healed prior to Luca Raid
+
+Not worth it to swap fire emblem
+
+Is Stallion Early worth it?
+
+Shin takes 118 dmg in Muse... but rarely gets hit. Is there a better way?
+
+Luc will still have 1 less lvl 4 MP during worm... heal in Radat?
+
+Blue Gate ALMOST enough to kill shin immediately... need both mag rings for guaranteed success
+
+Takes 35 sec to get mag ring in Banner Pass
+
+Worm crush hits center column, 60 dmg
+Worm Lightning does ~188 dmg, ~80 dmg to Nanami
+
+Can reliably kill shin after turn 1 with Open World + center placement
+
+Open World does ~1343 to Worm
+
+Shin does 136 damage vs Luca. Flik Thor Bolt does 612.
+
+Vs Luca
+Luc Blue Gate: 690
+Riou Thor Shot: 526
+Nanami: ~700
+
+King's Road can take out soldiers following Luca
+
+1 Wild Attack can take out luca in duel...
+
+Nanami forcibly enters party to Muse Peace...
+Stallion, Chaco have Karate Uniforms
+Only some people fully healed after Luca battle... can maybe carry weak Nanami and Stallion forward for better Shin leveling?
+
+Muse split 4 ways = lvl 43 Shin, ~146 TEC
+
+Right after talking to Shu after Muse, go back to entrance (TP) for Koyu
+
+Have to take Nanami. Should swap Blue Gate off Luc at some point... but need him in Muse party if want to switch off easily.
+
+Set party after Neclord scene.
+
+Spider slaw will deal ~2700 damage to Sierra... attack with Riou as well. Also, put some speed equips on Shin
+
+Golem:
+2706 Luc
+1512 Stallion - not needed
+2170 Riou
+2712 Shin
+
+40 sec to level up weapon to 13 in Tinto
+
+1:15 for Templton
+
+May want to include Sheena in party, since he joins anyway
+
+Lvl 3 Fire leaves commanders alive in Greenhill forest
+
+
+Bone Dragon:
+Battle Oath for Berserk, maybe?
+1324 - stallion
+1538 - Luc
+2784 - Shin
+1238 - Kahn
+1429 - Berserk Shin
+
+Alternative:
+1324 - Stallion
+1538 - Luc
+4272 - Berserk Shin
+1238 - Scream
+
+Shin leaves party after dragon, but can add him back at muse
+
+Wolf:
+650 - Luc Thor Bolt
+2805 - Shin
+Any phys attack
+
+go after attacks... maybe find even more speed items?
+
+Only take stallion to Rockaxe... maybe? Use shredding item + shredding from stallion
+
+After Apple picks card, don't have to talk to Shu... just go back to bed
+
+328 Str = 115 dmg to Han, 228 for wild
+
+Fine tune seed and culgan. May need to go with mixed camps and thors
+
+Beast Rune is really rough. Work out turn order.
+
+
+World Map
+1794441 - 1794452
+11 frames
+
+1794536 - 1794555
+19 frames
+
+Tinto
+1797881 - 1797892
+11 frames
+
+1798006 - 1798025
+19 frames
+
+Running
+1798214 - 1798228 (4-5 frames of walking pose?)
+14 frames
+
+1798545 - 1798559 (goes twice as far for a step...)
+14 frames
+
+Lakewest
+1801001 - 1801062
+61 frames
+
+1801618 - 1801712
+94 frames
+
+2120 Luc
+1207 Flik
+2067 Sierra
+2715 Shin

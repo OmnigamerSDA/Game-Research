@@ -1,0 +1,48 @@
+00150 - Your current phase HP.
+0014E - Your current phase. 0-7
+0001C - RNG? changes when you jump and when you get hit
+00024-25 - RNG for boxes.
+
+Spider has 512ish HP. 8 Total phases, with 64 HP in each, but resets to 0 at the start of each new phase. NOTE: if exit and re-enter, mech current phase HP will also reset to 0.
+
+Enemies die when HP goes below 0.
+
+Attacks:
+Normal Shot - 2
+Spider Melee - 1 dmg per frame, up to 24 frames
+Havoc Shot - 2
+Havoc Melee - 2 dmg per frame, up to 35 frames. Follow-up only 4 frames
+Rocket - 48 damage
+Reverse Rocket - 48x3 damage
+Grenade Powerup - 3 dmg on first frame, 1x25 dmg for each frame in explosion after
+Drache Shot - 2
+Drache Dive - 30 dmg per frame
+Prom Shot - 20 on impact, 2 for each burst shot
+Prom Flame - 5 dmg over 4 frames
+Prom Air Mine - 2 dmg initial and 1x25 dmg each frame after
+Ball Shot - 3
+Ball Semi-charge - 6x6, or with higher charge 6x2x6
+Ball Charge - 72 dmg
+Ball Rush - 6 dmg per frame connecting
+
+
+
+Enemy Nitros: 0x24 HP
+
+
+
+Drache: 32x8
+Prometheus: 48x8
+
+Weapon Level powerups last for only 255 shots
+
+Stage 4
+-Start going left, kill one guy, then go right kill 1 more past first cannon, then one in air.
+-Head back left, kill 4. Further left for 1 more. Stand to the right of cannon to kill one in air while 1 more comes from left.
+-Return right, kill 2 in air. Go past cannon for 1 more. Back left.
+-Left beyond cannon, kill two more. Go right, kill 1 on ground 3 in air.
+-Back to center, kill 2. Then kill another 2 to right. Last 2 to left.
+
+Last Boss Phase 1: 256 HP
+Phase 2: 256
+Phase 3: 256

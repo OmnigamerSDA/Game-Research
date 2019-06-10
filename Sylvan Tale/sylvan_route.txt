@@ -1,0 +1,228 @@
+SYLVAN TALE ROUTE NOTES
+
+-Run straight to Flame Lab
+
+-FLAME LAB:
+--Run straight right then on bottom row of flames. Shouldn't hit?
+--In basement, block on switch
+--Back on top, jump in right hole
+--For relic, just go around flame guy
+--In B2, just run around flames and place relic
+
+-FLAME BOSS: HP 60
+--Can do 8 before start
+--Every hit does 8 dmg to you
+--Can hit up to 5x each cycle
+--When phases from red to blue, resets I frames
+--3 cycle best possible
+
+-head upper left to get orange
+-Go back to town for candle (maybe necessary?)
+-Head for Turtle area
+-Get through spike maze (1 down, 2 up)
+-Grab orange in right path, then continue up
+-Mole miniboss: 6 hits. Try to stay towards center?
+-Hit upper right switch in next room, go to laser
+-Head to Autumn Land, left path
+
+-Ann's Lab
+--Pause before 3rd mace to get by, then take all right switches
+-ANN: HP 60
+--Does 10 damage everywhere
+--Forced 3 cycle? Max 24 damage per cycle...
+--Line up with pattern at bottom for safe spot
+
+-Head back to town, then to forest
+-Interact with kid on the right, get Life Powder
+
+FLORA
+-Head down, get mole, get merman in village
+-Get Orange from tree on left in village
+-Go South to Lake Lab
+
+-LAKE LAB
+--Left path first
+--Mole in upper right
+--Push block left first
+--Go around jelly to pull lever
+--Go back, push block right
+--Go grab relic in pond room (kill crab)
+--Head to boss
+
+-NUFORM: HP 60
+--3 Phases of 20 + 1 damage each
+--Always moves before becoming vulnerable
+--Eyeball phase also 20 HP
+
+-Head back to village, go to lower center entrance
+--Turtle bump a little to the right to take out both at once
+-Head through Kracko path
+-In flower shop, head to North then bypass snakes
+-Pass to left of jellies
+-Fix dam, get orange at end
+-Grab flowers from woman
+-Grab compass from old man
+-CHOICE: Go give flowers to brother?
+-Head back to town to get Mouse
+-Equip Compass (neccessary?) and head through J LAB
+-JUNGLE LAB
+--Get Orange in second jungle area
+--Complete 3 trials (2, r, l)
+
+-SHIELDHEART: HP 60
+--Can stand in pixel perfect position to take out huge chunk
+---Walk up until exactly 1 pixel of red overhead or to right from boss
+--If breaks out, just go to left and wait for chances to finish off
+--PERFECT QUICK KILL SETUP:
+---As turtle, go one pixel left at start, then get into position
+---Line up such that exactly two pixels of red appear over human head
+
+-BRANCH POINT: Go get Bird and an orange and grapes
+
+-Go to desert; if bird, get bird and orange in south
+
+-DESERT LAB:
+--Head down via mole
+--Use block in lower left, then mole again
+--Pull cord, then mole
+--Head to next room, mole through door, then mouse to get orange and pull cord
+--Mouse on bottom floor, grab hourglass, exit
+
+-Head to waterfall area and waterfall lab
+
+-WATERFALL LAB
+--Head to upper-right to get to next area
+--Use bird/hourglass to get through traps and gradually move up/right
+--Chests only contain cherries
+--Hit switch in lower left of last area (secret entrance)
+--Get to boss
+
+-WEAPONLORD: 20, 30, 50 HP
+--Go behind and to the right of him first phase
+--Second phase, go slightly left of where you kill him, get in one hit, and go to right shadow area
+--Hope he tosses within range of you
+--Third phase just pound him silly
+
+-Go back in to get the Life Powder (don't need candle?)
+-Go right and up to get to swamp
+-Get orange at swamp
+-Do Swamp Lab
+
+-TELEPORTRON: HP 30, 30 
+--Can 2-cycle first phase (just tank hits?)
+--2nd phase, will spawn in center with no hurtbox every 4th rep
+--Can get 8 dmg hits, but difficult to time
+--Only appears in points of "I" formation; stay between to maximize chances
+
+-Head to lake, dive in upper area
+-Hit switch on left to open door at top
+
+-GOL LAB
+--Run up to left first, move ball left, then go down and move ball down
+--Run past everything (chest has double cherry)
+--PUZZLE 1:
+---Just go CW circle
+--Set up zip in next room, get to left
+---For consistency, hold right with turtle until shifted left
+--Collect Orange, repeat
+--For puzzle, start in left (use bird)
+--PUZZLE 2:
+---Fill bottom first, then CCW fill
+--In room 3, set up ball in square trap, then zip to other side
+--PUZZLE 3:
+---Fill left side first, then upper-righ, then CW the rest
+--In last room, dboost off upper-left barb twice as mouse (need at least 32 HP!)
+---Approach from bottom and hold diagonal
+--Enter far hole
+
+-GOL: HP 30, 30
+--First phase, get up to him asap and use slices
+--If done perfectly will not be damaged, otherwise need to tank one hit
+--Not vulnerable when charging attack
+--2nd Phase, just attack immediately where first ended
+--Not very threatening, but don't get complacent
+--QUICK KILL SETUP: Start as mouse, go slightly to right of Gol, then swap to human ASAP and slash away
+---Alternatively, can just go straight up, but may be slightly slower
+
+-Go to TP Tree, Go back to Verda and collect Orange (from tree)
+-Grab Orange (from Autumn) then get Armor
+-Back in village, get grapes?
+-Go to Sylva
+
+-Snake Jungle path: go right-ish immediately to get orange
+-Follow path around to get orange from tree in next area
+-Head back all the way right, then follow path down and left to ruins 1
+-Go to cemetery, talk to right, left, right for amulet
+-Go back through snake jungle to Tower
+-Get through spikies via bird, then human and amulet
+-Die to death hand
+-Talk to girl twice
+-Go through obstacles to last orange tree
+-Amulet at hilltop to open last LAB
+
+-FINAL LAB
+--Don't bother moving rocks, just run straight through flames to last drop
+--Dboost back through last set of flames
+--GOL TOWER:
+--Run up to top first, grab last orange
+--Run back to top and turtle down
+
+--GOL REFIGHT: HP 60, 60
+---In 1st phase, tiny spider does 6, projectile does 8, contact does 12
+---Start in lower-left, dodge up when about to fire, do one volley
+---When charging shot 2, dodge down then right
+---Shot 3, down and left
+---Should go down in 3 cycles
+---2nd Phase, every 3 hits he breaks into spiders
+---Can get a last hit as he disappears into spiders
+---Can be done in 2 cycles, but only sometimes? Mostly 3 cycles
+---After mini-spiders phase, go to corner and tank hits to kill quickly
+
+--ANN TOWER
+---Just go to rock and push from bottom until buddy shows up
+
+--ANN REFIGHT: HP 150
+---Kill the slimes. May be easier as turtle.
+---7 Cycles minimum :(
+
+--RAILS ON STAIRWAY are zippable? Maybe usable elsewhere...
+--After moving blocks, mouse back to Tower through Snake Jungle
+
+-DEATH HAND: 80 HP (actually 40)
+--Walk a couple steps up, charge slice
+--After hand goes, move slightly away from that hand and start doing multislice
+
+FINAL BOSS: HP 70, 70, 70
+-Can get 8 damage before first phase starts
+-First phase pattern: cross, X, cross
+-Must end each phase with power slash
+-Power slash does 8 dmg; can hit with multi first, but smaller window
+-First Phase: 8 opening, 32, 32 (end cycle)
+-2nd Phase: 32,32, 8 (end with slash)
+-3rd Phase: 16, 32, 32 (end with slash)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

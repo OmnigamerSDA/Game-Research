@@ -1,0 +1,16 @@
+828011 jsl $8084a8   [8084a8] A:0004 X:0000 Y:bcfc S:1ff1 D:0899 DB:8c nvmxdizC V: 90
+8084a8 rep #$20               A:0004 X:0000 Y:bcfc S:1fee D:0899 DB:8c nvmxdizC V: 90
+8084aa lda $066e     [8c066e] A:0004 X:0000 Y:bcfc S:1fee D:0899 DB:8c nvmxdizC V: 90
+8084ad pha                    A:1443 X:0000 Y:bcfc S:1fee D:0899 DB:8c nvmxdizC V: 90
+8084ae lda $066c     [8c066c] A:1443 X:0000 Y:bcfc S:1fec D:0899 DB:8c nvmxdizC V: 90
+8084b1 sep #$20               A:95c5 X:0000 Y:bcfc S:1fec D:0899 DB:8c NvmxdizC V: 90
+8084b3 clc                    A:95c5 X:0000 Y:bcfc S:1fec D:0899 DB:8c NvMxdizC V: 90
+8084b4 adc $066f     [8c066f] A:95c5 X:0000 Y:bcfc S:1fec D:0899 DB:8c NvMxdizc V: 90
+8084b7 eor $066e     [8c066e] A:95d9 X:0000 Y:bcfc S:1fec D:0899 DB:8c NvMxdizc V: 90
+8084ba rep #$20               A:959a X:0000 Y:bcfc S:1fec D:0899 DB:8c NvMxdizc V: 90
+8084bc clc                    A:959a X:0000 Y:bcfc S:1fec D:0899 DB:8c Nvmxdizc V: 90
+8084bd adc $066e     [8c066e] A:959a X:0000 Y:bcfc S:1fec D:0899 DB:8c Nvmxdizc V: 90
+8084c0 sta $066e     [8c066e] A:a9dd X:0000 Y:bcfc S:1fec D:0899 DB:8c Nvmxdizc V: 90
+8084c3 pla                    A:a9dd X:0000 Y:bcfc S:1fec D:0899 DB:8c Nvmxdizc V: 90
+8084c4 sta $066c     [8c066c] A:1443 X:0000 Y:bcfc S:1fee D:0899 DB:8c nvmxdizc V: 90
+8084c7 rtl                    A:1443 X:0000 Y:bcfc S:1fee D:0899 DB:8c nvmxdizc V: 90

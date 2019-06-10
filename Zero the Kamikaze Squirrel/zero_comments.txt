@@ -1,0 +1,26 @@
+First off I want to give some thanks to Murry33 for picking up the game and getting some really good times with it. We went back and forth for a bit, and I can honestly say I would not have had the motivation to get the time this low without that competition. I also borrowed several improvements from his runs that overall made the run smoother and more consistent.
+
+Tech:
+Wall Jump: you have a single frame after flying into a wall to jump as if you were on the ground. The problem is that there's no solid cue for the timing so it all comes down to muscle memory. This makes the run very inconsistent overall, as it is very hard to get perfect consistency for the 4 wall jumps in the run.
+Glide boost: Canceling a glide swoop with enough momentum built up will put you on the ground with a speed about 1.5x your normal run speed. Thus it is important to set up where possible. It's also possible to go faster than the camera can follow, but this is not reliable or usable for a human since hitting the side of the screen completely stops you.
+Tumble boost: starting a tumble on an angled surface gives you a good boost. Not quite as fast as a glide boost, but still better than normal running speed.
+
+Stage Breakdown:
+Beach 1: Business as usual, nothing to see here.
+Beach 2: Missing the rope grab at the end cost a bit of time, but otherwise fine.
+Cliffs 1: Very good stage, normally the gunner and eggs are not nearly so cooperative.
+Cliffs 2: Nailed the double walljumps first try, which is a huge boon for the stage. I played it safe on the climb and got a second try miniboss skip, so overall this was one of my best performances on this stage.
+Tunnels 1: My only qualm with the stage is that I didn't get the color bug. Boss gave me a bad pattern so I wasn't able to get a 3-hit cycle on him, but the time loss isn't major.
+Tunnels 2: Some slop on the ropes, but otherwise a good stage. Firebug actually gave me good luck for once! This shortened the fight by a good 10 seconds or so and kept it going strong.
+Autoscrollers: Business as usual. There's some slight variation on speed here, but there's no way for a human to tell whether you're going slower/faster than average.
+Forest 1: Some slop early on, but overall pretty decent. Can probably make it through 2 seconds faster with better movement and not getting caught up on the ropes.
+Forest 2: Some more slop on the ropes, but not a major time cost. Hit the wall jump first try too. Wolverine unfortunately went into spin mode, which killed a good chunk of time. It evens out with the good RNG on Firebug though.
+Autoscroller 2: Yup.
+Factory 1: Pretty strong stage, although some missteps in the final guard room hurt me a bit.
+Factory 2: A little sloppy in setting up the death warp and getting over the slope. Boss luck also not ideal. Decent enough though.
+Factory 3: Probably the worst stage of the run. I took a little too long in killing Firebug, and then I couldn't get Jack to cooperate so this ate into my time a bunch. I could gain back 7ish seconds here if done correctly.
+Ektor: First phases went fine. At the very end I couldn't get the jump setups, but if that's the only thing that went wrong I can live with it.
+
+Final time by SDA timing is around 11:31. It is definitely beatable, but I'm finished with banging my head against the wall for now.
+
+~Omnigamer

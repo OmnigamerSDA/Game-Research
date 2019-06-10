@@ -1,0 +1,119 @@
+OPENING: Say to go to sleep, then change message speed at the first opportunity. Go straight North to the wall, then fight the battle. Select bottom option when Jowy asks.
+
+NOTE: For watching game time, check 0006AA52-56 for time. Hours:Minutes:Seconds
+
+FORT & CHORES: Push the crates 2 at a time. Take 3 of everything. Get all the oil spots. When Jowy comes, elect not to resist. When questioned, choose bottom choice. Escape as normal.
+
+RYUBE: Go over to circus act, elect to move right to end sooner. Check store if Flame Arrows available, don't heal. Head to North Sparrow.
+
+NORTH SPARROW: Only fight Bunny groups. Pick up Escape Talisman, Flame Wall, Brass Armor. Hero only needs to be Lvl 3 for fight. BOSS PREP: Take Angry Blow from Rina, give Jowy extra boots, brass armor, angry blow. Give Flame Wall to Hero, and Flaming Arrows to Eilie. Heal before starting battle. CONSIDER: Alternate strat that may take 3 turns, saves Fire Wall.
+
+KYARO: Go in from bottom, unequip troupe. Go through to house on left, take middle pot. Use Flaming Arrows on guards. Just use top choices. Don't save Nanami (after Viktor walks back).
+
+DOUBLEBEAT: Farm for it on the way back. Hopefully should get it on the way, but not always a possibility. Once back, go to Toto and raise Pilika counter. Appraise Vase. Do Pilika stuff, head for Muse.
+
+MUSE: Go left to shop. Choose 2nd option, then check for Flaming Arrows rare finds. Return to Toto. Be very careful of Sickle encounters. Go to Coronet and raise weapon level to 5, then return to Toto for scenes.
+
+FORT++: Go to Fort, after scenes go up and talk to Flik & Viktor, then go to Ryube. Go into forest, pick up nest, advance to Tsai's house. Pick up Tsai, walk back, pick up goods. Somewhere along the way, fight groups of spiders as available to get to level 7. Leave, choose bottom option. Go get Shiro & Kinnison. Return to Fort, go up and choose bottom option to duel Flik. Make sure to heal first. Should be strong enough at lvl 6 w/ weapon lvl 5, but can be instant fail if Flik attacks thrice. Go south to start next sequence.
+
+BATTLES: Hitting Solon Zhee doesn't end the battle, so just run away or end turn. In next battle, go to entrance, then move away on 3rd turn. Fight battles and should get up to lvl 10. NOTE: game time goes at very slow speed during movies, and at times after battles. Go upstairs, go through scenes. After, go to Ryube and pick up Kinnison & Shiro. Then go to Toto and get Runes. Leaving the Fort should be at around the 1 hr mark.
+
+RUNES AND STUFF: Get Hanna, get Runes. Then go to Muse, reunite with Nanami. Don't change formation. Go to White Deer Inn. After sleeping, try to go down immediately, Alex comes in. Choose bottom option. MAYBE do some prepwork here, might not be necessary. At least put double beat on Shiro.
+
+RUINS: First room has Stone of Magic to left (meh). Go Up, up. Go up, across bridge, down and left, and then up. Go left, push, grab shoulder pads and circle. Go back to door, enter. Go left over bridge, get Fire Lizard and Triangle. Then go up, right. Trigger top of waterfall. Go back and then up, get Chain Mail across river. In riverbed, go down one screen, then left to get square. Go all the way back to initial riverbed entrance, then cross bridge to the left for Double Head.
+
+5x Creeper gets all chars to level 11/10 if all alive. Not safe with minimal equip; need at least double beat and extra flaming arrows to stand a chance. Can get to ~1700 dmg without.
+
+5x MegaWatt very dangerous, can hit back row and one-shot several of the chars. Bright does not 1-shot. Can clear with 2x AoE. Gets Heros to 12, everybody else 11.
+
+4x Drake requires 2 AoE spells, and will raise Jowy/Hero levels as well (13). Gets remainder to 10/11.
+
+3x Creeper and 2x MegaWatt is somewhat safe, one person may die but rest will jump to 12/11. ONLY APPEARS BEFORE PLACING TRIANGLE.
+
+2x Creeper in first phase will get everybody to 7, winnable in one turn with Auto. After, 3x MegaWatt will get to 10s for all. 3x Creeper gets all to lvl 8. Basically any grouping in first part will allow easier fighting in 2nd and have roughly equivalent results.
+
+Fighting Double Head with just 11s/12s and no other setup difficult; at least hook up Shiro with Double-Beat. With extra flaming arrows, can play it a little more risky. Watch damage closely; keep a calculator around? Take equips off Riou; he'll be fine without. NOTE: Need level 12, not 13. 13 does not give enough to level on the slugs.
+
+After battle, go through scenes, return one room south and Escape Talisman out. Go through rest of scenes, don't adjust formation. Head for Muse.
+
+MUSE: Argh. Go to Muse, go through scenes. Top option is fine. After getting out of jail, go straight to Runemaster and take double-beat off of Shiro, then drop Pilika off with Leona. Go to Muse Hall and go through scenes, then talk to Jess. Bottom option. Go to blacksmith and put Fire Lizard on Riou. Go back to Inn and talk to Leona, then leave for Highlands border.
+
+BORDER LEVELS: Progress through the forest quickly; fight rabbits when available, and take all equip from Nanami. Try to have Nanami killed off x4, and weaken Riou as much as possible. Armadillos not good to fight. Go into camp when sufficiently low, go into far tent and select top text boxes. After scene, go into big tent in center. Choose more top options. Then go straight down and left. In battle, kill off Riou then finish with Jowy Lvl 2. In following battle, either have Nanami or Riou use Medicine on Riou to jump to level 48 with a Shining Light and Nanami killed off.  Afterwards, return to Muse.
+
+MUSE: Go up to the City Hall, try to enter room, then leave. Go to blacksmith, remove Fire Lizard. Go back to Leona, get Fliktor, go back to City Hall. Bottom option probably faster. Back in Inn, choose either, go out to front of Muse. Choose bottom option. Go through scenes, then go to Jowston Hill. Go through events, then go back to Inn. Bottom option. Remove good stuff from Jowy, then head down and talk to Viktor, top option. War battle start! Just end turn x7. Game Time should be around 2 hours for decent run.
+
+MUSE PT2: Go down and talk to Nanami, either option. Go down to scenes, then City Hall for more scenes, then back to Inn. Watch scene, talk to Nanami, bottom option (may need to wait a bit for scene to not trigger). Scenes, then go to City Hall. More scenes. Go left and into door. Then run to Inn and leave city.
+
+KINDNESS EARLY: Instead of going to Coronet, go to do Kindness Early. In the forest, look for slugsx2 or x3. Finish any you find with Shining Light. Also any RaggedOnes if you run into them at less than lvl 25. Grab Kindness, return to Coronet and trigger scene with soldier. Then back to Inn. After scenes, go to Tai Ho and win dice game. Then back to Tavern. Do not change formation. Go back to Tai Ho and head to Kuskus.
+
+KUSKUS: Head down, attach Kindness to Nanami (make sure she has adequate deaths from earlier; 4-5). Leave and go to South Window.
+
+SOUTH WINDOW: See Viktor, go to Inn. Then go to Mayor. On the way back, pick up the Friendship Rune. Go to Rune Shop and attach Double Beat to Nanami, also buy 1 Lightning, 1 Fire. Head back in to Inn, then leave for North Window (don't arrange). In North Window, choose bottom option, go to Cave of Wind.
+
+CAVE OF WIND: Right, Up, Right, Up-Left, Left, Right, Up-Right, Up-left, left (rock puzzle). Wind Puzzle; push rock forward one tile and cross. Next room, push top rock forward one tile past first wind, then go over the top to cross. Third room, push bottom block forward just past furthest left, then push up all the way to access blue gate rune in top chest (3k potch in right). Continue to exit, Up, Down, Up-Left. Kahn, choose bottom option, don't change formation. Up, Right, Up. SD Sword fight. Just attack with Nanami on first and second turns to end battle.
+
+NORTH WINDOW: Go up, take left passage, left. Keep going left, then down to first puzzle room. Move statue to center, go up. Light torch in next puzzle room (probably no need for Blue Ribbon?) then continue up. Grab Chain Mail from top chest (maybe?), make sure Nanami and Hero are equipped. Go in, watch scenes, fight Boss.
+
+ABOMINATION: Open with attack, and charm arrow. If Kindness gets berserked, over in two turns. Even if not, Charm Arrow should make over in 2. Should always be 2 turns, no danger.
+
+SHU: After scenes, choose bottom option, or else. Then walk to Radat. Talk to Shu. Go to bar, then leave. Scenes, go to Richmond. Bottom. Inn. Sluice, bottom option. Talk to dude in upper left. Bottom option, bottom, bottom. Fight Amada. Go down and find coin. Return to North Window. Go to War Room, bottom option. Go back to War Room, talk to Shu. Bottom option.
+
+NORTH WINDOW BATTLE: Move your junk unit two squares forward and make him fight solon jhee. Then just end turn until it finishes. After battle, in war room just do all top options. Afterwards, just go back to bed and choose bottom option. Go back in to War Room, choose top options. Whichever name. After scenes, go back to entrance for Fitcher, bottom option. Go back to War Room again, choose bottom option with Fitcher. Then go to Radat, fight Amada, come back to War Room. Can choose members; just take Nanami.
+
+TWO RIVER: Head to docks, then to Lakewest and finally Two River. Don't have to go to entrance; just head straight to Winger town. Chase Chaco, and then head back to Mayor. Go to Inn. Upstairs, then back to Mayor. Top option, then bottom. Go to Kobold side, then down and chase Chaco some more. Enter Sewers.
+
+SEWERS: Right, down, cross bridge and head to bottom right. Down, left, far upper left. Enter door to fight Pest Rat. Strategy: Nanami attacks 1st turn, then Hero uses Oath 2nd turn in case of damage. 2x cieling crumble will potentially kill if some minor damage, so equip Jizo on Nanami ahead of time as a precaution. Should be dead by third turn; 2nd if berserk'd. Level 34-35 after battle. Go up and talk to Ridley, any options. Then go back to human side, Mayor, and then Inn (bottom option for Fitcher). Head outside, battles start. Destroy first wave with Shining Light, then go get Ridley. Top then bottom. Shining Light last wave. Go to Mayor, then leave city and pick up Chaco. Back to Castle.
+
+GREENHILL: War Room. War Room again, talk to Shu. Only take Nanami and Luc; go to Greenhill through Two River; give Luc Water and Blue Gate on the way. Go up through Nina scene, into Academy. Talk to Emilia, then follow her to middle. Go to dorms, talk to secratary, 2nd floor bottom. Bottom option to sleep. Leave, go into town and to Inn in bottom left. Any option. Go  back to dorm, go to sleep. Go into academy, then left to Nina. Go out and then into town. Back to dorm, either bottom option to sleep. Then go upstairs and down, then back to 1st floor, then into secret passage. Take secret entrance out to backyard.
+
+BACKYARD: When in doubt, go left. Top options. Back in dorms, leave to town, choose any option. Fight Highlandsx5 twice on way to backyard. Highlandsx4, Highlandsx4 in backyard. Talk to Theresa, walk back (Escape Talisman does not work). Highlandsx5, Highlandsx5 if top choice. After scenes, Highlandsx4, Highlandsx4. Scene with Jowy, then go South some more. Head back to Castle. Go to sleep. Scenes, then pick party for Matilda. NOTE: Nanami optional, but forces way into party if not selected. Take Flik, Luc. Buy 3 Waters on way through Two River.
+
+MATILDA: Go there through the forest and go through scenes. At Rockaxe, go through more scenes, enter throne room to hear about border stuff. After Miklotov leaves, choose bottom option. Hope that the refugees die quickly; seems more likely if they align horizontally. After, go South to Appraisal shop and check back shelf for Violence; use Runemaster to put on Nanami, Water on Flik and Luc and Riou, and Lightning on Riou. Go down to Border, bottom option, then continue to Muse for movie. Enter Muse, then go to upper left, fight Highlandx5. Then leave Muse and go to Rockaxe, castle, then after scenes end up back at your Castle.
+
+HEADQUARTERS: go to War Room. More scenes. Back to War Room, Viktor joins. Use Viki to go to Radat. Choose bottom option, go down, then top option. Get Adlai now. Return to War Room. Deploy troops. In WAR BATTLE: move two dog troops and Flik + Viktor up. This will force enemies into forest. Move Gilbert to left once as well. On 2nd turn, move Viktor up one more step, then end turn until end of battle. Should minimize time spent moving vs attack animations. After, go to room and sleep. Scenes. Back to War Room. 
+
+KIBA BATTLE: Ends after a certain number of turns, or after Kiba's unit is killed. Can only be attacked for third hit after Ridley appears? Look into formulas for misc attacks; hopefully there's an easy way to damage him. Otherwise set up Luc with massive ATK units and pray. In any case, running away into trees seems like best bet for a good time. Still takes 7 minutes though. Use Fire Spears and Luc magic to take out weakened units, but otherwise just run away.
+
+HEADQUARTERS: Select top option twice, then bottom option. Go through scenes. Go to entrance of Castle, see scene with Sheena, then LEAVE CASTLE in order to trigger lvl 2. Then go back in through bar and add in Nanami, Luc, and Flik (for easier runs) and up to War Room. Put Sheena in party. Viki to go to Radat. Go to sluice (right side) and take boat to Banner Village.
+
+BANNER PASS: Go to the Item Shop and pick up Jizos (6ish) and one escape talisman. Go into Pass. For each fork: SE, S. Ladder area, take far ladder, right. 2 screens, the straight E. Worm on next screen; just use Nanami attacksx3. A crit will shorten turns by 1. Continue on to Gregminster.
+
+GREGMINSTER: Go talk to Lepant, all top options. Leave back through the Pass. W, NW, SW, talk to Ridley and Apple AFTER unequipping everything from Flik and putting JIZOS on Nanami.
+
+HEADQUARTERS: Go to War Room. Talk to Nanami, then sleep and scenes.  Now War Room, go through Ridley event. If lucky, he will die before you even arrive; move right to help this. After scenes, go up to your room, and ignore Tsai with either option. Then sleep. Go to War Room. Make sure to arrange Hanna and Shu and Valeria first, and put Chaco and Tsai on Flik. In the battle, just wail on him with Flame Spear and Valeria and pray. After battle, go down to main Hall and pick up Ridley. Back to War Room.
+
+NIGHT RAID: put in Nanami, Luc, and Kinnison or Sheena. Stallion and Viki optional. Just auto with Flik and Viktor and hope they die. For Nanami, put her in back row behind Riou. Heal her when necessary. Jizos break Violence effect, kind of, but leave you in Berserk even if you aren't marked as Berserk. Also can be dodged sometimes. On 2x soldier battles, wipe them with Luc. Fully heal before battling Luca. ALSO: JIZO only breaks berserk, not Violence.
+
+HEADQUARTERS: Scenes. Wake up, go with Nanami to get Templton first, then straight to Kuskus. Do Culgan stuff; can TP from boat instead of outside. Go back to War Room, then bottom choice with Teresa. Then go to Muse, bringing Stallion, Kinnison and Luc. Can't teleport to Muse or Coronet, so just take boat as normal. Also, Blacksmith in Coronet. Go to Muse, then Jowston Hill. Bottom option. Viktor joins, can go in convoy. One battle of Highlandx6, can run into other x6 battles randomly. Go to main hall for scene with Shu, then walk back to entrance. Bottom choice, bottom. Put Koyu in convoy. Add in Nanami, Stallion.
+
+MOUTH VILLAGES: First take detour to Fort and get Templton. Then go to Toto to complete. Finish by going to Two River, recruit Jeane. Talk to Gijimu in the mountains, and grab Master Robe. Go straight to Tinto.
+
+TINTO: Go straight up to Gustav, pick up Power Ring in cart on the way. Top options for all. Back to Gustav's room, then city entrance. Back to Gustav's room. Scenes, talk to Gustav. Go to bed. Scenes, then talk to Nanami. Top choices, then go down to Gustav's room. Go to city entrance. After scene, go to mine and go inside. Just defend for 3 turns, run away (his lightning can do high damage). Scenes, end up in Crom. Add Luc, Stallion back into party. Go straight to South Entrance to pick up Kahn; put in convoy. Go to Drakemouth, fight Sierra. Very easy fight, just use one Bearer attack and use Shredding with Luc. Put Sierra in Convoy. Return to Crom, center building in back. Go to bed. Scenes. Go through back exit to Tinto Mines.
+
+TINTO MINES: NE, NE, W, NE, W, N, grab Master Garb on hill and exit E. Go through a couple, then W at fork. Go through loops and exit NE. E, far right chute, right again, go down to bottom for doublestrike if needed, then up ramp and down chute to get to final area. Push box. Go in to fight Golem. Kindness does 1800 first turn, then with a normal attack and Master Robe, Violence should trigger. Golem will fall after that. Also make sure to get levels up of Bearer if necessary; should be higher 30s. Escape Talisman out and use Tinto glitch to get by first zombies; can't dodge second group. Fastest way is to go long way and take elevator up, but one less zombie group. Should be all level 45 just before Neclord. 
+
+NECLORD: Gets 2 attacks per turn and is pretty fast. Use Stallion+Bearer for first hits. Bat form is weakest, but other attacks can hurt quite a bit. If uses AoE, should trigger Violence. Otherwise just beat on him. Restore any used Jizos. After defeating, go outside and talk to Gustav near entrance. Use top choices. On the way, level up Riou's weapon as high as possible. Leave and TP back to HQ. Sheena will join at stairs; put him in place of Viktor or Bearer.
+
+HEADQUARTERS: Go to War Room, then your room. After scene, walk down stairs to Chaco, then go back to room. Fight Lucia. One Thor Shot and one Bolt of Wrath will end her. Top options good. Back to War Room. Top option first; put Templton + Chaco on Flik, then top, top. WAR BATTLE, run away as best as possible. Put all Cavalry to left wall, and move Gilbert down 3 tiles.
+
+GREENHILL: Choose bottom option when Teresa asks. Add in Luc, Bearer, and Stallion. In Forest, Highlandx6. NOTE: King's Road does not one-shot. When in doubt, take left path. Next screen, grab Winged Boots (maybe?) on right path. Then continue on middle path. Highlandx6. Left path, then up and left. In Lucia battle, dispatch Karayans with Shredding, then just have Bearer dispatch her. Take left path all the way left. Highlandx6. Highlandx6. Into university. Outside, talk to student in red for full heal. Highlandx5, Highlandx5. Head straight down to start battle with Bone Dragon.
+
+BONE DRAGON: Dragon Fireball attack does ~384 damage. Just enough for Violence at level 49. Flame Breath does ~260, also enough.  Bite does 470 without armor; with armor should be just right. 2-turn wonder.
+
+MUSE: after battle, bottom option. Leave, go into academy. Do switchover to new Bearer here. Follow Lucia to backyard, scenes. Just Rush Flik to Muse entrace. Should be done in 4 turns. Put Viktor in convoy. Go straight to Muse Hall. Fight Wolf; should be easy. Just run straight down center to escape. After, go up to Shu's room. Talk to Shu after scene. Top option. Top option again. Scenes. Return to War Room. Bottom option. in WAR BATTLE: Move into woods, then just end turn until reinforcements appear. Put Luc & Stallion in, and top option.
+
+ROCKAXE: Follow path. Skip treasure. Left. Up for Crimson Cape, otherwise Down ladder. Right. Up through door. Right to pick up EARTH SHIELD (for Sheena). Otherwise down ladder, down for Power Glove, then right. Enter castle. Flame Helmet in upper portion of room (can go through middle room) otherwise continue left. M-Knightx5. Go right, then upstairs. Outside, M-Knightx5. Try to go upstairs, then continue to scenes (NOTE: Can still get encounters on this screen). Choose nothing.
+
+GORUDO: Use Hungry Fiend and Thor Shot, then Bolt of Wrath. Hungry Fiend only takes 9 seconds in game time. Piercing One takes 6 seconds game time. In scene after, wait for exactly 30 seconds for followup to trigger. Go talk to Shu, top then bottom options. Leave for more scenes. Leave towards Shu's room, scene, then go back to sleep. Back to War Room. Before continuing, make sure VIKI has LIGHTNING, Flik has FIRE and WATER, LUC has WATER, and HERO has WATER.
+
+L'REN: Go through many scenes. When in front of Border, only a few lines before you gain control. If you haven't, rearrange CHACO and TEMPLTON on FLIK now. Then go to battle. Move Flik 3 frames forward to manipulate Han (maybe?). Otherwise just hope he doesn't move left. Continue and enter city when possible. Take Viki, Flik, Luc, Bearer, Stallion.
+
+LUCIA: Not too much of a problem. Just attack with bearer. If she lands a phys attack, will instantly trigger Violence. Flame wheel will not; explosion might. Probably shouldn't worry if have excessive Jizos. Alternatively: can one-round with 3 Thors and bearer if magic users specced with it. After battle, equip Luc with Shredding scroll from Neclord.
+
+L'REN CASTLE: Left, all the way left, then up. Highlandx6. Continue Up, then follow path. Highlandx6. NOTE: Blinking Go! takes 6 game time sec. Go up through door, get to Han battle. Make sure Hero is equipped with stuff. Um... Try to make Hero as powerful as possible? Otherwise could take a while and be very dangerous. Grab Power Gloves and Crimson Cape in Rockaxe to help, also Power Ring in Tinto. He does roughly double damage to you even with them. After duel, head up either stairway, go straight down, Highlandx6, then left door, then up, left door, Highlandx6. Go up at fork, then after stairs go up, Highlandx6 and Left. Follow left path to outside, Highlandx6. Go around, enter and head right for Highlandx6. Follow path up and then right. Highlandx6, then in next room go all the way right, then up. Then all the way down, then up. Seed & Culgan after stairs, top option. NOTE: Unite glitch targets based off of Thor Shot. Thor takes 8 game seconds, Blazing takes 8ish.
+
+SEED & CULGAN: Two different strats: start up, remove Dream Robe from Bearer, cast Silent Lake with Flik. If lucky, will attack Bearer and trigger Violence. Other strats is to Unite Glitch focused on Seed and then demolish Culgan. Second strat more consistent, but slightly (10 s) slower. After battle, top option, scenes. Go back and heal at save before beast battle.
+
+BEAST RUNE: Gets 3 actions per turn across all parts. AoE spells do ~165 each, two will trigger Violence. Left Head can do AoE or single target, right head does the Swordfall. Right Leg can revive stuff, but does so only rarely.  2nd turn should have Rune dead and some damage on everything. If status effects were used in turn 1, heal with either Hero, Luc, or Flik, whoever can heal. Eventually, will be able to attack with Bearer and finish off heads. TURNS: 1st turn have Viki do Thor, Bearer attack, Flik Explosion, Stallion attack, Hero Mother Ocean/Silent Lake, and Luc Mother Ocean/Silent Lake. 2nd Turn, if Luc up, do Shining Wind. If Hero up, use Battle Oath. If Flik up, do Kindness Rain (if needed). Next turn Violence should be active, and have Bearer annihilate. Otherwise just attack as normal. Focus on Left Head. Note that even if Right Leg revives Rune, Shield won't be active on first turn coming back. 
+
+FINAL: Scenes, top option. Go to War Room, any option. DONE. Consider stopping and saving at crystal to show game time. ALSO: Greenhill is final scene before starting Stars of Destiny stuff. Even fades into the Muse waiting scene too. Very likely that some wrong trigger will cause this. In any case, DONE.

@@ -1,0 +1,101 @@
+New stuff to practice in Hagane:
+
+1-1
+Work on new manip path. Maybe can get an even better one?
+-Stay to right through most, start flipping after last bullet passes overhead in mid
+-Stay left in ship phase 1, kill, the 2 enemies
+-Third ship stay left then time enemy kills for more bombs
+--Starts at CC2F at first ship if done right
+--548e before blue flame
+--7870 before first bomb
+--86CD when 3rd ship appears
+--8980 for 2nd bomb
+--A51A for 3rd bomb
+
+
+MY PATH:
+
+At first ship, kill one enemy to advance rng enough
+At second ship, RNG = 7C54. Kill first turret after bullet appears, but only one turret for blue
+Immediately after, wait in lower right for double enemy spawn (one falling) and kill for double bomb
+Kill last remaining enemy from ship 2 (delay so item can spawn)
+On 3rd ship, Let RNG proceed 4 for bomb if got item from last enemy. Otherwise, proceed 5.
+--Kill the 2 turrets after each spawns one bullet
+
+-Hang out in left corner, kill very last guy to get to RNG = 31DD
+-Divekick -> backflip in 1-2 to avoid all turtles
+
+1-2
+Work on turtle slides
+-Test whether falling or divekicking is faster
+-Work out new kill on miniboss
+-Try to get up to last part sooner
+
+1-3
+New slide setup for worm skip
+kill fire dude instead of waiting for him
+
+1-B
+Work out new quick kill timing
+-Start from left instead?
+
+2-1
+Test which kill method works fastest
+-Use a bomb or not?
+-How much does sweep save?
+
+2-2
+All new route
+-Learn it, practice it
+
+2-3
+Clean up movement
+Practice flame skips
+
+2-B
+Work on quick kill after initial drop
+-New dragon fist stuff, or just better slicing
+
+3-1
+Clean up movement and timing
+-Work on cutscene skip
+
+3-2
+Completely work on new travel route
+-Try to get bombless elevator
+-Remember to do cutscene skip
+
+4-1
+Work out new route
+
+4-2
+Just practice
+-Work out quicker miniboss kill timing
+
+4-3
+New swag with skip
+-Just have cleaner movement overall
+
+4-B
+New strat? I'm not convinced it's faster...
+
+5-1
+Maybe better doom train timing?
+-Better reaction spacing for the dude
+
+5-2
+Better spacing for the skip
+
+5-4
+New route up with grapple and nades
+
+5-5
+Slightly new path
+-Look into getting through the floor
+-Kill end barrier quicker
+
+5-B
+Check if arm pattern is manipulable by jumping
+
+6-B
+Try strat with bombs, see if it works any better

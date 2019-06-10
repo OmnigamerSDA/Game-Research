@@ -1,0 +1,80 @@
+In battle:
+
+0016-index to RNG table at 7BE3, 256 entries
+
+00506 - Vert, 2 B
+00509 - Horiz, 2 B
+01195 - Vert, 2 B
+01197 - Horiz, 2 B
+1199 - More Vert?
+0147C - Momentum, 2 B, direction does not matter
+
+0148E - HP
+0148C - PSY
+
+
+000036 - Attack center
+000A00:000B00 - Sprite coordinates
+
+001337 - Camera top left corner x, 2B
+00133D - Camera top left corner y, 2B
+
+589 is location for enemy position data
+
+1. loads $00+x, x=580. If 1 set, then load $02+x. Enemy ID?
+--X stored in $6C temporarily
+2. Multiply accum by 2. Use as index to address stored in $4E (18940 in testing).
+--store result in $56 (A890 in testing, 01A890 full), then load accum with value of address at $56
+--store result in $6E
+--Probably a hitbox radius
+3. Increment $56 by 2, take value of new address and store in $70.
+--Other hitbox radius?
+--Increment by 2 again after.
+4. Load $09+X (X still = 580). Subtract value at $1337. Translates full position to camera position for x coord.
+--Store in $72
+5. Load $06+X. Store in $74.
+--Speed? Not sure...
+6. Load $0C+X. Store in $78, then subtract $74, then subtract $133D. Store back in $74.
+7. Load $03+X. Store in $7E, then mult by 2. AND with #FE00. Store in $76.
+8. Compare X to 700?
+--Afterwards does sprite placing stuff...
+
+9. Load X with $0C80+Y, Y starts as #3E earlier, becomes #3C after.
+--New X is 540
+--Repeats process from 1.
+--If 0, repeats process.
+10. Repeats 9 except new Y is #3A and new X is #09C0
+11. Repeats 9 except new Y is #38 and new X is #0500
+--So on, so forth...
+
+
+
+1. Store $509 to $1249. Later, store to $32 and $50C to $34.
+2. Subtract $506 from $34. Store back into $34.
+3. Load $32, lsr x6 (becomes 06 from 18c). Store into $2E.
+4. Load $34, AND with #$FFC0. Add $2E, asl x1 (becomes 18c). Transfer to Y. Use as index to table pointed to by address in $cf ($1A8000).
+5. Swap bytes on result (0024 -> 2400), lsr x1 (1200). Store in $2E. Load $32.
+6. AND with #$0038. lsr x2 (becomes 02), store in $30. Load $34.
+7. AND with #$0038. asl x1 (becomes 0). Add $30. Add $2E (becomes 1202). Transfer to Y.
+8. Use Y to index into table pointed to by $cb (7E8000; specifically 7E9202). Store in $36.
+9. AND with #$03FF. lsr x2 (72), TAY.
+
+$32 : 509; 18C
+$34 : $50C-08-$506; B8
+
+$1261 - Hitbox active?!?!
+
+-Check 6C0 if LSB is set. If not, move on to 640. If set...
+--Load $642 (70). TAX, load $07db11, X (34). AND with FF.
+--asl x2, TAX. load $07de13, X (14), store in $34. load $07de11, X. Add $2E, store in $32.
+--Load $509, subtract $649 (FFF1). XOR with FFFF, inc (000F). Compare with $32. If less than $32, continue...
+---Load $2C. Subtract $64C, then add $646 (10). Compare with $30. If C not set...
+---Take $642 and store in $32. Also take 642 and store in $13E4.
+---Take $509, compare with $32. If negative, take $504, and with #FFDF. Store back into $504.
+---Store #8000 into $10. store Y into $50F (FFFE).
+
+Analysis:
+-Monster ID in 6C0/640/etc. 642 is index into table, which leads to another table, which is stored in $34. $2E is your horiz hitbox radius?
+-$2E is 8, usually. Take your current H position - enemy current H position; if difference is less than sum of horizonatl hitboxes, then collision. Move on to vertical.
+-Take $2C and subtract enemy $index+0C. Add on enemy vertical position. Compare with $30.
+-Damage!

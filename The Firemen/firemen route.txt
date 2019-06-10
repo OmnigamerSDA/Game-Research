@@ -1,0 +1,79 @@
+Firemen Route Notes
+
+Stage 1
+1-1: Just walk through straight to the door.
+1-2: Hold left as soon as you enter and just follow the bottom path. Kill one of the trail flames on the way; doesn't matter which.
+1-3 (River): Kill first two waves on the way left, then edge close to trees to avoid third wave. On other side of stream, will need to kill one wave and then the flame in front of the door.
+1-4: Move along bottom of screen to door, kill flame with spray to stop Danny from going after it.
+1-5: Move down to lower left, use stream to kill small flame then spray to take out trail flames. After Danny kicks computer, can avoid all flames by walking at an angle to them. Take outside angle for first, inside wall for second set. Kill last flame on ground.
+1-6: Just avoid everything and kill waves as they come. Stairway after.
+1-7: Kill or walk to left around first flame. Kill wave and second flames. Take top route to avoid ducking three times, but also grab water bomb to left of door hidden under pipe.
+1-8: Avoid initial flames, but use flame in lower left to bypass first set of spouts (nvm; can just walk under spouts safely), then use another flame for second set. Path to first boost is irrelevant.
+1-B: Should have 3 water bombs, plenty of HP. Point left and shoot stream, when close use one water bomb. Should die shortly after "splitting off".
+
+Stage 2
+2-1: Walk straight forward and damage boost on the small flame if it spreads out towards you. Kill as few things as possible; it will cause others to spawn. Ideally, can make it across with only one boost and only passing one crosswork. Will be tricky.
+2-2 (Fans): Walk straight ahead and boost off of small frame in middle of crosswork/next to big flames. Just walk through the rest after.
+2-3: Walk straight down and boost off of small flame to walk through two big flames. Grab water bomb near generators, go under and immediately boost on flame to left before danny kills (or can diagonal the big flame safely). Go through rest of way. Should have 28 or greater HP; may consider healing with rescue here.
+
+if healed...
+2-4: Continue through, boost off of either air flames or small flames to get through big flames. Should lose only 4-8 HP here.
+2-5: Go along right side and damage boost on first flame. Walk through rest of the room hugging right wall.
+2-6: Move at a diagonal up and left, hold to avoid first small flame and wall. Small wave will hit; either take the damage or kill them. Small flame after will also hit, so kill. Stairway.
+2-7: Head down and right, use stream to kill trail flames and small flame. Avoid robo if possible.
+2-8 (Pipes): Boost off flames above to walk through first big, then kill second, then boost off small flame behind it to walk through rest. Boost on small flame when moving down, then hug right wall to avoid other wheels. Walk around remaining flames on bottom. Big flame may or may not spawn depending on number killed. If does not spawn, kill small and move on, then kill big in next upwards area. Boost off small to get around corner big, then kill remaining two bigs to exit. NOTE: Experiment here a bit more. The TAS is able to despawn most of the later bigs by killing first big and boosting starting with second small flame.
+2-9 (Rocket Barrels): Just book it and try to get through with at least one hit remaining. Edge along and use small/air flames when possible. Can avoid many flames by waiting briefly for Danny to kill them or using diagonal trick.
+2-B: Start off with spray, then water bomb. When he gets big, run away and grab spare bomb from leftmost window. Finish him off normally. Use stutter steps to keep away and still hurt when big.
+
+Without heal, do same thing, but needs to be much more cautious. Should end with 1 or 2 HP.
+
+Stage 3
+3-1: Push straight left, kill waves as they come.
+3-2: Go around top side, avoid all.
+3-3 (Parlor): Use diagonal trick on stairs, boost off second flame while heading down, then on small blue robo. If you take center path, danny should follow, but he can sometimes get stuck.
+3-4: Head immediately right, avoid all. Long walkway with no enemies after.
+3-5 (Skywalk): Either go around or damage boost first flame to get through. Probably easy to take the boost if only 2 hits from 3-3.
+3-6: Immediately head down and slightly right; avoid tracker flames by killing or dodging. Should get through without getting hit. At top of escalator, use diagonal to avoid flame if there.
+3-7: Push through waves, after scene just boost off many small flames to avoid robo arms. SHould be able to get through with only 2 boosts; middle robo arms aren't long enough to reach left wall.
+3-8 (Magic Carpet): Just crouch. At end, spray. Should still have 3 WB so no need to grab extra. In next room, just move left.
+3-9: Just damage boost through with however much HP is left. Forced rescue at end; then go to boss door.
+3-B: With 3 WB, kill first form with stream, then toss WB on 2nd to kill it quick, same with 3rd and 4th. Alternatively, can skip WB on 4th and save it for next segment.
+
+Stage 4
+4-1: Just walk around flames and go through low crosswork up until the small stairs. Then hug right wall and kill anything that comes close. Boost off something if necessary.
+4-2: Walk up and have Kevin start opening door while walking right. If far enough away, won't have to duck explosion and will clear all flames. COntinue to door after.
+4-3 (Kitchen): Use many small flames to damage boost through. At most 3 boosts are needed. Major problem if Danny gets started on a fire, won't stop until dead. Should have at least light-green HP (28).
+4-4 (Lounge): Walk down, kill flame, boost or walk to grab WB. Boost through bigs; note that there are carpet flames under bigs. Should have yellow or chartreuse HP (12-16).
+4-5: Head straight down and use stream to take out lvl2 trails, then head to door on right.
+4-6 (Rain Top): Hold right, then edge down to avoid air/ground flame, then slightly back up when near door.
+4-7: Can either cause explosion to clear some, but if you rush up the robo arms will never spawn. Can avoid flame waves by following top wall. Head left to pick up WB (#3) then up stairs.
+4-8 (Studio): Put out initial flames or boost off them. Follow bottom wall and boost off of small flames when possible. Follow middle path through studio area and make way to boss door with minimal boosts. Ideally have 2+ HP remaining.
+4-B: Start off with stream, when heat wave comes then duck and launch WB. When he splits off go and get new WB from 2nd window from left. When rejoins, spray and use another WB; should die before splitting 2nd time. Try to be on bottom conveyor.
+
+Stage 5
+5-1: Walk straight down so Danny does not fight big fire on left; use stream to clear anything in the way. Kill flame and make sure to advance Danny's text. Clear flames at exit while he's talking.
+5-2 (Rooftop revenge): Go straight down and then slightly right to avoid robos. Cut left early and plow through carpet flames to get to exit. Trigger pitfall to help slow chasing robos.
+5-3 (Office): Go around and left and have Danny kick computer. Go under flying robos and heat waves the rest of the way.
+5-4: Go left and walk under carpet flames and computer (note, kicked computer can hurt you, 8) to skip crawling. Go up and left while avoiding flying robos. Have Kevin open bomb door (WB is above door; may need) on left to clear path to bottom door for you.
+5-5: Go immediately to left door.
+5-6: Plow through carpet flames and put out big flame with Danny's help. Then proceed to next room (staircase).
+5-7 (Hell): Ignore as much stuff as possible, and pick up the WB along the way. Boost through the first big, and then after that the number of bigs depends on Danny. Some are good, others are pretty bad. Adjust as needed, but in general killing less is better.
+5-8: Proceed right until Danny is triggered to open exploding door, then go up through carpet flames to get to door. There is a bomb in the 2nd window from left.
+5-9: Go down and stream to kill air flames and just hug bottom wall until door.
+5-10: Boost off of small flames here and push through carpet flames. Keep at least 2 HP; make way to boss door. If Danny has to go through flames he will try to kill them on way to open boss door.
+5-B: 3 WBs will kill almost completely; use one after each "run". Manipulate it to go straight across (move up) then down. Can also keep it stuck on the computers by going across then up, but hard to damage that way. If using only 2 WBs, will need to keep enough water on him throughout.
+
+Stage 6:
+6-1: Follow bottom conveyor, hug bottom wall.
+6-2: Go down immediately and through carpet flames, then left and blast window to clear path.
+6-3 (Christmas): Go straight and put out Big and small, avoid robo. Keep heading straight until stairs. Go on left side to avoid flames; grab WB.
+6-4 (Bar): Just go straight up.
+6-5: Go up and right and boost off of small flame in carpet flames. Then go up, let Danny trigger explosion, get WB from left-most window. Enter right room.
+6-6: Go down and crawl under the two, then head right as quickly as possible. If done right, no wheels should spawn and you can head straight towards the door. Stairway. NOTE: Take top route instead, no crawling necessary.
+6-7: Take out waves as they come and proceed towards exit.
+6-8: Otherwise, can just use stream all the way through.
+6-9 (Duct Crawl): Go into duct and then boost or go around first set of enemies; obstacle flames will follow but shouldn't be an issue. Can push obstacle flames back sometimes at the foot of the stairs, and then just walk around spouts and sploders. If surrounded, windows will cause explosions.
+6-10 (Court): Boost on first enemy, then go through and boost when possible to get through spouts and sploders. Pick up WB before leaving.
+6-11: Hug inside wall and kill flames if they get in your way. Get to boss door.
+6-B: Shift slightly left and use stream while getting close. Once inside the barrier flames, turn completely around and use spray; get centered. Throw first bomb when last ground crosswork dies. Throw second as second wave of sploders comes through, then third when the tracer flames appear.
+6-F: Go to middle of right window and fire away. Should be safe. Just duck when explosion occurs. 

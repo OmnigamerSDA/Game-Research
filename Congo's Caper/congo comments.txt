@@ -1,0 +1,88 @@
+There are several major tricks in this run that may seem a bit odd, but they all work together pretty well and let many of the levels play themselves. All of the tricks revolve around the game's rolling mechanic, which is normally activated by just holding down on a slope. While you're rolling you can climb walls, which makes it useful beyond just horizontal movement. You're also completely invinvcible with an active hitbox, which is nice.
+
+Instant Rolling - By quickly running forward on a slope and hitting down at the right time, you can start into a roll at full speed without having to "charge" it. This saves a bit of time whenever it's necessary to start a roll, but the inputs are tricky and inconsistent.
+
+Roll Storage - For whatever reason, the game stores a flag when you start rolling or charging a roll. This flag is not reset until you stop moving or get hit. While it's active, you can gain all of the roll properties when the game forces you into a rolling animation, particularly after a high jump. I use this to start rolls in places with no slopes.
+
+Flying - A natural game mechanic that a lot of people will miss. If you mash jump after a high jump while in the Super form, you will float a bit.
+
+The other tricks are mostly stage-specific or pretty minor.
+
+1-1
+Not much to be said, missed 3 instant rolls. Something like 1 sec lost.
+
+1-2
+Missed another 3 instant rolls. Bleh.
+
+1-3
+The only thing that can go wrong here is the very early jump. Everything else is set.
+
+1-4
+Got trolled a bit on the boss when he decided to move forward, but otherwise fine. Taking that hit slows me down in the next stage.
+
+1-5
+Nailed the fuzzy surfing. Stopping to pick up the orb is a small time loss. Messed up quite a bit against the Devil, but it hurts more in lost health than lost time.
+
+Spooky-1
+Hit the instant roll fine and also the roll storage stuff. Stopping to restock the Rubies costs a small chunk of time.
+
+Spooky-2
+Missed the instant roll once.
+
+Spooky-3
+Nailed all of the roll storage/instant-roll tricks here. This is one of the most technical stages in the game.
+
+Spooky-4
+My new route here worked great. I hit most of the instant rolls but screwed up the very last roll storage trick. Boss looked messy, but it cost no time.
+
+Ninja-1
+I can save about half a second with a much more difficult route that goes along the top, but yeah.
+
+Ninja-2
+Another tricky stage. Have to do some roll storage and precise attacks to get through without losing roll.
+
+Ninja-3
+Getting hit is somewhat of an annoyance, but otherwise the stage went fine.
+
+Ninja-4
+"Damage boosting" here to save on killing a bunch of silly enemies. This stage can be done slightly more optimally if I start with more Rubies. Ninja gave me a bad pattern followed by a good pattern. Missed a small number of attacks, but otherwise it was a good battle.
+
+Lava-1
+Since I didn't take damage against Ninja boss I can afford to be more risky in this stage.
+
+Lava-2
+Screw-around autoscroller. Incidentally, this is the stage where I discovered instant rolling from screwing around.
+
+Lava-3
+Again, having full HP lets me take a slightly faster route that forces damage.
+
+Lava-4
+I could have taken a slightly quicker route earlier on and skipped a Ruby, but that's usually a bit more difficult. Boss went fine; one damage is ok against him.
+
+Water-1
+There's a glitch where you can fall straight through the water without it catching you, but I have only gotten it a small handful of times and it saves a very small amount of time.
+
+Water-2
+The small corridor of spikes can sometimes be tricky to get through, but this time it went fine.
+
+Water-3
+Autoscroller.
+
+Water-4
+I hit a useless trick at the start that lets me stay rolling underwater, but otherwise everything went fine. Pirate I screwed up big time; he should have been killed at least 5-6 seconds earlier, but my timing was off on the first set of swings.
+
+Final-1
+Caping forever.
+
+Final-2
+It's not possible to get through that first crusher earlier in real-time. The rest of the stage is fine.
+
+Final-3
+Messed up one roll storage, but otherwise a decent stage.
+
+Final-4
+First form is trivial. Second form actually has a slightly shorter hitbox on the left side, and my hitbox shrinks when I'm in the "tip-over" animation. Also if I hit him at the right times, I am invulnerable to his fireballs. Third form is serious time. It has two large invulnerable hitboxes on either side and only the center column can be hit, so it's very difficult to land hits without abusing invincibility. Overall the fight went decently, and he cooperated for the last couple hits.
+
+And that's the run. I'm curious to know how much time I actually spent playing the game as opposed to waiting for levels to complete themselves. Regardless, I enjoyed running this game quite a bit, and I hope you enjoy watching the run.
+
+~Omnigamer

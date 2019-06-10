@@ -1,0 +1,69 @@
+Stage 1:
+
+-about 1 min. jump at second skateboard
+
+Stage 2:
+
+-2:15 goal? just memorize pattern. goes bottom ->top ->bottom
+
+Stage 3:
+
+-Pretty straightforward, just hold jump in most chutes and memorize the right one. 1:30ish is a good time.
+
+Stage 4:
+
+-Looks to be about 1:30. Just do the jumps.
+
+Stage 5:
+
+-Take all observed flames on the way, second skateboard jump off early. Boss, just spam until he dies, get the presents in upper right. 3 mins?
+
+Stage 6:
+
+-Short skip with freezing the one dino and jumping up to get an extra life. 3.5 mins?
+
+Stage 7:
+
+-Two flames left of the last checkpoint
+
+Stage 8:
+
+-First flame is in upper path from entrance
+-Second flame is on normal path, room after acid pit
+-Third flame is in acid pit with flesh bubbles
+-Fourth flame is in second highest chute after the fork
+-Fifth flame is on long slide, bottom path, with the flesh bubble to the upper ledge
+
+Stage 9:
+
+-First flame is early on, above the one spitter dino.
+-Second flame is on upper route, can swing to it right below a log
+-Third flame is right on a platform series after first checkpoint (upper route)
+-Fourth flame is in flying secret area beyond one shellsaur that needs to be frozen
+-Fifth is on normal route, right next to vine
+
+Stage 10:
+
+-First flame is under spikasaur
+-Second flame during second skateboard session above one of the halfpipes
+-Third flame is during third skateboard above the halfpipes
+-Fourth flame in the bonus area with the extra life and other stuff
+-Fifth flame after the half pipe section of the fourth skateboard
+
+Damage:
+
+-Full flame does 5 dmg
+-Full roar does 8 dmg
+
+Sethron 1: 1/4 does 1, 1/2 does 2-3, 3/4 fire does 4 per hit, full does 8, 76 HP
+Pterosaur: 75? full flame does 20
+Zombie Ankly: 65, kick does 1, bones do 3-12 with full flame; probably same as number of frames
+connecting with skull
+Super Tumor: 72 HP, full flame does 5-6, 3/4 does 2-3, 1/2 does 1-2. Full roar does 18 dmg. Speed strat: hit right side 5 times with full flame, go on top, use roar, then 5 hits on other side, end.
+Hell Hive: 65 HP, full does 3-4 per hit, on second volley roar can hit all and do 21 total damage, and kills top left
+Last boss has 64 HP, full flame does 5, roar does 8
+
+Boss/Lifebar HP stored in 7E1EED, current value shown in 7E1EE6
+7E1E4A - The level of fire. 2 = 1 powerup, 4 = 2 powerups, 6 = 3 powerups, 8 = full
+
+Glitch: get a runner dino to go down a slope with an end (stage 9)

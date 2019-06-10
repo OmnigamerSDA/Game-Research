@@ -1,0 +1,273 @@
+Before I start, special thanks to AKheon for finding some of the biggest tricks/skips, and Mapler for pointing out a lot of my stupid mistakes and pushing me to optimize better. Running this game would not have been nearly as much fun without their help, nor would the final time have been as good.
+
+Alright then. Nier. A bit of everything and a lot of nothing (travel time). This run is based off of the in-game clock, which is quite accurate. However, there are some caveats:
+
+-Game time starts as soon as the "Enter your name" screen appears, and includes that screen. So no fancy name, I just go with "a". This is also important as you have to enter the name later in the run as well.
+-Game time includes all loading, cutscenes, menus, and dialogue. So it's as close to real time as you can get. This isn't a big issue except...
+-When loading a save, it starts counting time right from the moment you select the file to load. In general, it takes about ~12 seconds to load, but varies somewhat based on location (both where the save is and where you are currently). The game clock also counts time right up until the save is completed when saving a game. So in all, every save/load combination costs around 20 seconds of time.
+
+With that in mind, I tried to keep the number of segments in this run to a minimum, as 20 seconds is a pretty hefty penalty in this game. My criteria for selecting where to segment is based on where I believe I can save enough time with good play to make up for the save penalty. In any case, the 19 segments that I used for this run account for approximately 6 minutes lost as compared to an equivalent SS run.
+
+Next up, it's important to note that this run is on Easy difficulty. This was deliberate for a number of reasons, they main point of which is less time spent on healing and faster magic reload times. A summary of the differences between the difficulties is below.
+		MP Regen	HP	Enemy HP	Armor
+Easy:		x2		x1.5	x1		Light
+Normal:		x1		x1	x1		Light
+Hard:		x1		x0.7	x3?		Heavy
+
+Everything else is kept constant, including damage dealt. The difference in your HP makes it seem like you're getting hit so much harder. The MP Regen rate is also a huge factor, as the faster rate allows some quick kills that would otherwise be impossible. So Easy was chosen instead of Normal, because frankly it's a more entertaining run. A Hard run might actually require some amount of grinding, but it could be suitable for alternate ending low% runs in the future.
+
+Now for an explanation of some of the generic tricks you will see in almost every segment.
+
+-Fast text: it is possible to go through text more quickly by alternating between A and Start. I have to be careful with this though because if the dialog ends, pressing start will bring up the menu and waste about as much time as it saved. This is a critical trick for the "text bosses" and some of the longer dialogue though, and saves at least a couple minutes overall.
+-Siderolls: throughout the first half of the game, the fastest form of movement is using siderolls. Siderolls look the exact same as forward rolls, but cancel much sooner. Backrolls are also faster than forward rolls, but still slower than siderolls. They are sometimes inconsistent to set up, but it does save a healthy amount of time for most distances 3 rolls or longer.
+-Speardashing: the fastest way to move in the second half of the game. Not a trick in itself per se, but there is a short cooldown time after each use, so I opt to roll twice after each dash. You can cancel into a dash at most points during the roll animation, so it's more efficiant overall than alternating only between dash and roll.
+-Magic recharging: again, not much of a trick by itself, but an important technical detail. The magic guage refills faster when you have less current MP; that is, so to have it refill quicker, it's better to have it lower. This means spamming more single shots as opposed to charging up magic. In general, single shots will do more damage per second anyway, with a couple exceptions.
+
+Finally, some general comments before I go into individual segment comments. In the 360 version, there are only 3 save slots to use, so I was only able to keep a) the current segment's save, b) the current segment's best attempt so far, c) the current segment's improvement attempt. This made it difficult to go back more than one segment if I spotted improvements later on. This matters in particular since I found out some optimizations mid-play that could have helped earlier in the run. The big one is finding out that the DLC costumes actually add in more loading time than the normal costume. It's on the order of ~2 seconds for loading a save, and ~.5 seconds for every transition loading screen after. There were several segments earlier on where I used the alternate costumes because frankly I liked them better (it's only a cosmetic change to the characters). It's difficult to estimate the time lost from this, but I'd guess somewhere in the range of 30 seconds to a minute overall. I also think that my standards for the run went higher as the run progressed, so expect a bit of sloppiness in the earlier segments. The run as a whole though should be fairly complete, and I'll try to assess how much more can be improved in each segment as I go through them.
+
+Whew. On to the juicy stuff!
+
+===============================================================
+
+Segment 1: Beginning -> Mutton quest
+I pick a since the clock has already started. The key to getting fast fights in this first part is making sure you hit as many of the shades as possible with each swing. For the second fight, it ends after you defeat the first wave and get hit by another shade to enter a cutscene. The shade was pretty quick this time around, and the fights were fine as well.
+
+The second portion of the fights takes place outside, and I will gain a bunch of levels and powers as it progresses. Unfortunately you can't remap powers at this point, so once Dark Hand gets overwritted with Execution I don't have access to it anymore. In general it's more efficient to mash Dark Blast than to use Execution, unless you can get a ton of enemies at once. Execution is also fairly unreliable at completely killing enemies. Once I get Dark Lance, it's time to just fire away. It's hard to line up shots in a way that you save more time than you lose to set it up, so I take the approach of "when in doubt, fire anyway." I could have triggered the giant shade a bit earlier by ending the fight closer to the doorway, but it's not major. I use the invincibility when firing the first salvo to avoid its projectile. A couple mishaps afterwards, mainly the small shades messing up my shots. I should have been able to kill the big shade at least 5 seconds earlier, but eh, the rest of the fights went pretty well so I can accept it.
+
+In the next part, the mailbox cutscene is not skippable, but I can make the panning go a bit quicker by starting off closer to it. The next several parts are all story-driven, and I was not able to find a way to skip them. That goes for a large chunk of the game actually; the triggers were programmed pretty explicitly. I call right at the entrance to get the sheep to bunch up at the entrance. I need three pieces of mutton to advance; there's a chance I can pick up wool instead. The fight against the small shades was subpar but it only cost 4-5 seconds.
+
+At the merchant I buy two more herbs because they are required to complete Popola's request. Since I picked one up earlier, I will have just enough money to buy the Lily-leaf Sword in a bit. I get caught on the scenery a couple times on my way back to Popola, so it looks pretty sloppy, but nothing major lost.
+
+Overall, I can save another 20-30 seconds on this segment. But considering the amount of variability with the shades at the beginning, the sheep, and just moving around pretty well, this was decent enough. I would have liked to go back and fix it, but it will have to do for now.
+
+Segment 2: Northern Plains pt 2 -> Lost Shrine
+Another trip to Popola, and then back to fight more shades in the Northern Plains. The fight with the shades goes pretty well since I can more easily hit the larger shades (silly excuse, I know) and the finisher actually comes in handy throughout this segment.
+
+The majority of the early part of this segment is just going back and forth to different triggers. I was not able to find a way to skip any of them. Moving around with just rolls can be tricky after a while too. On the way to the lost shrine, the little scene with the boulder can be expedited a bit by rolling as soon as you enter the screen. I could not find a way to not trigger the cutscene, so that was the best alternative. Kicking off the wall immediately after was not intentional, but eh. So I went about even there.
+
+No fancy tricks for the Lost Shrine... yet. A bit of trouble picking up the key, makes it still look pretty sloppy. The location of the shades when the spawn is random, so I can't always set up something to take care of them right away. Most of the other fights went pretty well. You can jump-roll at ladders and still grab on to them, so I try to make use of it when I can. The Lily-leaf sword can save a bit of time through the combat portions of this, but it's about 30 seconds out of the way for now. I don't believe it would save enough to be worth it yet.
+
+With the blue block on the roof there are a couple positions where I can set up the jump earlier and easier, but for the difference in time and difficulty of setting it up further just makes it not worth it. The main point is that I skip the dialog box telling me about blocks and still make it up to the next level. Getting caught on the scenery again costs a couple seconds.
+
+The small shade waves have a certain trigger that occurs after the dialog progresses far enough. After that, I just need to clear them out. I hit the trigger pretty easily, but the cleanup could have been a bit more efficient.
+
+The boss is pretty annoying since the shielding one will block anything I do, and they're often pretty close together. I still managed to do fairly well, although I think I have some new strategies involving counters that might work better now. The main idea is that if I can hit them with a sweep during certain animations, they will fall down and be completely vulnerable for a while. The main way of setting this up is to perform a guard break when they raise their shield. Unfortunately they won't raise their shield if you're not actively attacking them, so I have to strike a compromise somewhere. The fight went about average overall. New strategies may help, or may not. In any case, this is the last fight of this style (where I don't have tons of magic or specific targets).
+
+Segment 3: Aerie -> Kaine, Hook, Boar -> Seaside - Scrap Heap
+This is my longest segment, and it was quite difficult to route out since I needed to decide which side quests to incorporate, as well. The main thing at the beginning: I need to pick up the Boar quest, buy the Lily-Leaf Sword, and start the shopping quest with the gardener. The Lily-Leaf Sword is much more convenient to pick up now than before, and I have exactly enough money for it. It will come in handy against the "Boss" battles in this segment as well.
+
+Travelling around the Aerie has some subtle tricks to it, but nothing too bad. The main thing is getting the shortcut from the Mayor's house back down to the bottom, which has a specific input ordering in order to get right. Now that I have the Lily-Leaf Blade, it gives an approximate 20% boost to my phys and magic attack damage, so definitely helps against the bosses.
+
+Kaine has a very skinny hitbox, so it's hard to set her up in something that will always work. Especially in the second phase, it was a pain to get a fairly good pattern. The best pattern is if she runs up and immediately starts charging an energy ball, so you can just wail on her. I miss a bit of a trick that allows me to supercharge my Lances after the first target point, but I make up for it on the shade balls. The strategy there is to bombard Hook with as many Lances as possible, and I can use the blood from the shade balls to boost that up by moderating when I kill them. The main thing is to get a target point as soon as Hook comes back down. The boar fight immediately after makes use of a strength drop to finish it off quickly, and alternating between Dark Hand and Air Special to keep it staggered. The strength drop is better used here than on Hook since it's based on time, and after each target point on Hook it would be generally less useful. Killing the boar now is necessary so my subsequent transportation is much more efficient.
+
+For the attack in the Southern Plains, I cleared out the shades very efficiently, which helps quite a bit. I need to accomplish a couple different things in Seaside: buy Bounty Fertilizer and Tulip Bulbs, fish a Shaman Fish, and accomplish the Lighthouse Lady's request. The fertilizer and tulips are used to finish two separate sidequests that net me 1550 G total. This money is used to bolster me so I can assure I have enough to get the Beastbane later on, but it turns out that I wind up with a little surplus, so I could have bought a magic or strength drop here and saved time on one of the upcoming bosses. That said, I make all sorts of small mistakes moving around the town, such as getting stuck on townsfolk, talking to the merchant a second time by accident, and hitting the Xbox button after talking to the Lighthouse Lady, etc. This cost me somewhere around 10 seconds, but the earlier good boss battles make up for it.
+
+I cash in on the sidequests on the way back. There were a couple of other sidequests I could do, but they require at least 30 sec extra preparation to finish, so that was the best compromise that I came up with. None of the talking triggers in this sequence could be skipped. Heading to the Scrap Heap, the boar has some odd interactions with those steps, but I actually made it through on the quicker end of things.
+
+Another 30 seconds or so that can be saved with perfect movement and luck here, but it's a very long segment, so that amount of variation is reasonable.
+
+Segment 4: Scrap Heap pt 1 -> Scrap Heap pt 2
+The Scrap Heap is the single best place to farm money, since every enemy is guaranteed to drop something and some of the items are pretty valuable. The segment as a whole consists of 2 separate trips into the Scrap Heap: the first to pick up 3 Titanium Alloy to upgrade your sword, and the second to defeat its boss. As such, I may take my general movement a bit slower to grab all the drops throughout this segment. I knew a general amount I could expect for completing this segment, but I later found some additional luck that I had not considered and helped a lot in later segments.
+
+The first thing is routing around the first floor to get to the Titanium Alloys. The red robos will always drop it at this time, and the drops of all the yellow robos is worth at least 100 G a piece. What I did not anticipate was being able to pick up 2 Pyrites in this section. Pyrite is a pretty rare item that sells for 1000 G a piece, and is located in two of the boxes near where I grab the first Titanium Alloy. The thing to note about box drops in this game is that each box has a set drop, the difference is in whether or not it will drop it on any given run. Both of the Pyrite boxes have a very low drop rate, so I was surprised to be able to get both of them at once.
+
+The mine cart will keep moving faster so long as you hold forward, regardless of whether you're blocking or not. A thing to note about the bomb spawning rate, as well as the spawning rate of some of the other robos out of the floor: it seems fairly random sometimes, and I have had occurrences where I wait an excessive amount of time for a bomb to pop out of the floor.
+
+For the boss, he's split into a couple of distinct phases. The first phase could have gone quicker with a magic drop and less aiming, but was still reasonable overall. The next part where you're bombarded with smaller robos went fairly well also; the goal is to round them up so I can take them out in as few Hands as possible. Taking out each of the turrets is pretty easy as well. The last phase you typically have to go through 4 cycles of missiles in order to finish him completely, which each cycle taking progressively longer. I'm able to keep it to just 2 cycles by using a Magic Drop to take him out very quickly. This saves upwards of a minute overall.
+
+I had a great haul in this trip as well, getting a couple grand more than I needed. This helps the run quite a bit since I'm able to pour that money into additional strength/magic drops, but unfortunately it's difficult to go back to Seaside to buy them quite yet. Beastbane costs 16,800 total, and I wind up with at least 2500 surplus of this.
+
+Another 15 seconds could have been saved from better enemy patterns, but the time saved from getting more money than expected helped to save much more time than that down the line.
+
+Segment 5: Aerie pt 2 -> Facade
+There are a couple main things to get right in this segment: killing the bubbled small shades quickly, and getting good luck in the boss fights. I accomplish both of those reasonably well, aside from one glaring mistake on Hook.
+
+The small shades at the start are shielded from magic and are quite squirmy. It's very difficult to group them up adequately and dispatch several of them at once. This was a great battle, a good 10 seconds faster than the average. The first 2 phases of the boss go pretty well, although I whiff one Lance on the 2nd Phase which costs about 5 seconds. The target point for the hut will not appear until I've dealt enough initial damage either.
+
+The next portion where I work through the balls is not trivial either; there are some odd clipping bugs that can occur, and the projectiles do more damage than it seems. I took the fastest way through that I could, but there may be a better way to handle that last ball. For his last phase, he's invulnerable while he has that green orb around him. Other than that I deal damage pretty quickly but get stuck under him and whiff all sorts of times trying to hit his target point. Even despite this, my split was still better than average by this point, so I went forward with it anyway. The mistakes cost some 7-8 seconds overall, and about 12 seconds worth of improvement throughout the whole of the Aerie section.
+
+The next bit is just travelling to Facade and going through some scripted sequences. Some small movement optimizations etc can save a bit more time here. Some unseen time savings is actually saving at the end of the segment, where I immediately go to save after getting off the skiff with Fyra. It takes her about a minute to jog up to her next location by Kaine, but she immediately shows up in that location if you save and load, so I save time by saving ASAP.
+
+Roughly 20 seconds can be saved if this segment is done perfectly.
+
+Segment 6: Desert Trials
+To start off, I need to rush over to the merchant, sell a bunch of stuff (I don't need to be perfect, so long as I have enough after), buy the Beastbane, and then get back to trigger the events with Fyra. The Beastbane is only important for this segment since it allows me to one-shot the wolves, but I will need it in later segments as well. I can likely save a small bit of time by leaving this as part of the previous segment, but I didn't want to leave some controller-sensitive menu work at the end of a rough segment.
+
+In the desert, I rush forward and trigger a dialog with the sandstorm. This causes Fyra to instantly spawn at the sandstorm and saves a healthy chunk of time. Finding a good spot for the wolves can be difficult; there aren't many good visual cues inside the sandstorm, and if I get to far from Fyra I will reset to the beginning. The last set of wolves is the trickiest, since Kaine will occasionally knock them apart and that will ruin everything by knocking them too far away. I take this time to reset to Dark Blast, as it will come in handy in the trials. I can proceed to the entrance as soon as Fyra starts to turn towards the Temple; any earlier and it will reset.
+
+Now for the trials. Most of the trials have some quick and dirty solutions. This first room is actually one of the longest, where I'm not allowed to jump. Being hit by any of the orbs causes the room to reset and loses a bunch of time. The game can be picky about when you grab blocks sometimes, so the optimal timing was lost on the last block in the room and I had to re-kill the one block for safety. This only lost a couple seconds though.
+
+Second room: I can't stand still. Good. The blocks explode based on number of hits, not damage. This makes Dark Blast the most efficient way to deal with them. The intermediate sand room can be taken slightly quicker but for whatever reason the controls are picky so I choose to do it a bit safer.
+
+Third room: No running. This is still fine since I can roll and jump, but the game is a really picky about what constitutes running. Basically any motion that will set the analog stick beyond halfway has a chance to send you back. So instead I hold it very slightly forward and roll from there. You will just barely get through the blocks this way.
+
+Fourth room: No gaurding. You can jump and move quick enough to get over the blocks before they start firing, so no trouble here.
+
+Fifth room: No magic. Rolling and jumping at the right times make this one pretty simple.
+
+Sixth room: No physical attacking. This one is a bit more complex. The goal is to take out all of the pink blocks scattered around the room and not get hit. Again, Blast is the fastest way to take them out. I could have handled this slightly quicker and there are other routes around the room, but not too bad overall. The following sand room I also take a bit cautiously, and then switch over to Beastbane for the increased damage. I also do not need Blast any more.
+
+Seventh room: No rolling. This doesn't seem like much of a challenge, but that also means that I have to wait a very long time to get up if I get knocked down. It also means having to chase down enemies, so I try to hit them towards walls when possible. The large shade can be staggered with Hand, so no problems there.
+
+Still some time to be saved in this segment, but probably only around 10-15 seconds for a perfect run.
+
+Segment 7: Temple Boss -> Forest of Myth
+This boss is pretty unique. The only way to damage him is by taking out the pink blocks. I try to make shots as efficient as possible, taking out two blocks in one shot for many of the first cycle. This helps to save quite a bit of time, and can be set up pretty easily. The second "human" form is invulnerable until Kaine appears, so I just fool around a bit. I can't be hit in that corner.
+
+When he starts swinging his hands down, I can take out all 4 blocks the instant they become vulnerable by waiting in front of where it will land. For his next form, note that the pink blocks are not actually vulnerable until the outer ring starts to move, so I try to take them out as soon as I can. Doing this part with soft aiming only can be a bit difficult, but I only whiff once. Getting a double hit on that last square is a little tough as well, but I managed to pull it off. Overall, only 3-5 seconds can be saved in this fight with perfect positioning and more precise aiming.
+
+Back in Facade, taking the skiff is faster than going around normally. The rest is just travelling back to the Village. Mess up my positioning with the door a little, but no major losses. This sequence opens up the Forest of Myth, on the other side of the Northern Plains. Some other slight transportation screwups along the way, but again, nothing major.
+
+The Forest of Myth is an interesting... dungeon? It exists entirely in text, and just has you answer some set riddles. The fast text skip trick really shines in this part of the game, but it also really wears out the hands. So after the "text boss" is done, it's time to head back. Nothing really to be said here other than maybe skipping text a little faster, or responding to the riddles quicker. The boar drifting was pretty solid here as well. When talking to Yonah, the fastest option is the top one.
+
+Maybe 20 seconds to save here? Hard to say, but it's on the lower end of things.
+
+Segment 8: Manor -> Village
+This segment is mainly troublesome because of how the Manor cameras work. The camera angle is from fixed positions all throughout the Manor, and the position changes based on your current location. You will keep moving in the same direction so long as you don't move the analog stick, but it is extremely sensitive to even a small movement. Once the movement is detected, it will shift you to the "new" camera angle's orientation, and this can be quite a headache for efficient movement. In some places it is best to just stop completely and reorient yourself before moving again.
+
+The rest of this segment is going to different trigger points and ignoring shades when possible. When I do have to fight them, I dispatch them pretty well.
+
+The boss is the big troublemaker of this segment. The first phase, the boss will move about fairly randomly and quickly, and it is difficult to get hits in at times when it isn't invincible while still clearing out/avoiding the pages. The 2nd phase is rough as well, since you have to get rid of the shield quickly and still do enough damage in the brief time that the shield is down. I try to stear it into corners so that the time it spends bouncing around is limited, but it randomly selects its target between you and Kaine. It is possible to kill it in only one cycle, but I've only done it once ever. There's only a very limited window to attack it after the shield goes down, and the hitbox is obnoxiously small for magic as well. The one cycle requires perfect hit spacing plus some help from Kaine, so yeah, I didn't get it in this run. The rest of the stage went pretty well.
+
+15 seconds can be saved here with perfect movement and a better boss fight.
+
+Segment 9: Village Battle
+This is a pretty serious segment all around, as it's all pretty much an extended boss battle. The beginning sequences can't be skipped. One improvement would be to get a Sol- Word from the mage shade in the very first battle (there's only one), but this is pretty difficult to set up and would only have a marginal effect on times from here on out. Sol- words improve your MP regen rate when equipped. The first battle ends as soon as you kill a certain number of shades, and it's important that I get a Strength Capsule here as well.
+
+The Epic Shade can be fairly reliably attacked such that the target point will appear on the 2nd pound. For the second phase, I use a strength capsule to speed up that phase a fair bit, as well as get to the cutscene fast on the next phase. Everything beyond the cutscene is scripted; it doesn't really matter how fast I kill him, as I can't advance until he reaches a certain point. You should be evenly lined up to fire another Lance after the next cutscene, but sometimes it will whiff for no reason. You are completely healed after the battle.
+
+The next phase requires clearing out all the shades, which I take care of quickly. For the Pentopus form, you can take out most of the tentacles with Hand, but the one in the back cannot be hit with its current position so I have to take it out the old-fashioned way. It's very important that I take out the next target point before it starts into a spin attack, as the spin attack will continue regardless of whether it's still alive or not and it takes a ton of time to complete.
+
+The next fight I just have to take out several waves of shades as dialog plays. No major problems here. When Noir becomes vulnerable, I need to lay into him to gain access to my powers again. Getting hit by the pages knocks you away a fair distance, and he will randomly reposition himself after each phase. I got fairly lucky and he stayed still for most of the fight. The Strength Capsule helps tremendously in this fight, and lasts just long enough to get through every phase. I try to mix in magic when I can, but like the very beginning of this game each new spell overwrites the last so there's only a limited time I can take advantage of them. For the final part where he gets a shield, I try to set him up in the doorway, but he doesn't get stuck and I have to chase him a bit more. A one-cycle here is possible and easier than the Manor boss, but still difficult overall.
+
+About 15-20 seconds can be saved with perfect enemy luck and patterns.
+
+Segment 10: Spears! -> Seaside
+This was originally supposed to be something combined with what is now Segment 11, but I was running into a lot of trouble finishing this segment consistently with good luck in the first fight and getting the shades to cooperate for the boar. The first thing to note is that my magic is still messed up, but I can make pretty good use of Execution in the first fight. The problem is that it's not guaranteed to kill, so it took a good many tries to get right and to keep the shades from dispersing. As soon as you kill 3 shades, 3 more will spawn, so it's important to get them to show up as soon as possible without spreading out any of them.
+
+The problem with the boar is that I need to get on it successfully without any small shades attacking me. The biggest problem with this is that there are always 4-5 shades right by the entrance that will always spot you as soon as you come around the corner, and if you wait to dispatch them you will attract the attention of all the other shades in the field, and it just starts to take longer and longer from there as you have to deal with more shades. So not getting on the boar successfully the first time actually costs 20-30 seconds of wasted time. It's pretty difficult to get with any consistency, but if I lure the initial shades away and have them try to attack me, I can usually get on the boar before they recharge their attacks.
+
+I'm supposed to go the Manor to continue the storyline, but I take a detour to Seaside to pick up some Magic Drops that will help on the upcoming bosses and start a sidequest that will give me massive funding for an awesome spear and more magic/strength drops in the future. Also, the next segment is incredibly annoying, so anything closer to it is a huge help to my sanity.
+
+A very small amount of time can be saved here with some optimized movement and menu work, totalling in about 5-10 seconds. This segment is so short, but getting good luck on the boar is critical to having a good time, so in this case it was worth it to have a shorter segment and take the save/loading time penalty.
+
+Segment 11: Seaside -> Laboratory
+Ugh. This segment. So the main thing at the beginning is to take care of some side things in Seaside and then proceed straight into the Laboratory. I need to get the first of the crates for the Cargo quest and get as many Magic Drops as I can afford (in this run, 5). Then, off to the Manor. It's easier to move around in the Manor this time since I can spear dash where I want to go.
+
+So the Laboratory. I need to strike a balance between moving through it as fast as possible, killing shades, and waiting for Emil. If I get too far ahead of Emil, it will first warn me, and then if I proceed much further I will be teleported back to the beginning of the floor. Needless to say, that ruins a run. There's no clear way to tell when I'm too far either, so I have to rely on some notional distances based on minimap cursors and a few other visual cues. Emil is a HUGE pain, because he will stop and fight every single shade you come across and won't move on until they're dead. To expedite this, I have to kill them ASAP, preferrably before he reaches them. This is sometimes easy, sometimes difficult, since he likes to get stuck running into walls and things too. It is possible to have Emil teleport to your location, but this behavior is random as best as I can tell. This dungeon would go so much quicker if I could manipulate this to occur on command, but I wasn't able to find anything. Thus I just have to proceed cautiously throughout the whole thing and try not to garner Emil's trolling attitude.
+
+Some notes about the rooms in particular:
+-First room: hit all the triggers and kill the shades so that Emil doesn't waste time on them. They spawned in reasonable positions this time.
+-Crates & Hallway: I need to collect the key in the corner and just mow through the hallway. Execution comes in handy here, but this is the last place.
+-First floor last room: I can just skip through to the exit so long as Emil is close enough.
+-Second floor room 1: Tons and tons of small shades. Killing 4 will cause another wave to spawn, so I can use that to my advantage to kill, spawn, kill, spawn etc until they run out. This room takes a lot of time, but Emil will refuse to leave until everything is dead.
+-Maze: I try to trigger spawns well ahead of Emil so I can take care of them as he treks around to get to me. I have decent luck through, except for maybe the last wave.
+-Labs 1: The shielded shades can't be targeted by Emil but will still get in his way, so I need to clear them out as best as possible. I had some good Hands that sped this up, and Emil cooperated too.
+-Labs 2: I rush straight for the key and then get out. This is usually a rough spot, as Emil tends to get stuck just far enough away that you pick up the key then get reset. 
+-Floor 3, room 1: I need to get the key and bunch up everything for easy kills. I need to kill everything here now because they will join in with the later battle and make it significantly harder to track down the right shades to kill. This one went so-so overall, could probably have been handled a little faster.
+-Playroom: you trigger 2 separate waves of shades to spawn after you get to the door, and you need to kill off all of them before a 3rd wave of Giant Shade + 2 small shielded appear. Finally, it is very important that I get a Lugesra word off of the Giant Shade; he can potentially drop 2 separate words, so it's not guaranteed. Lugesra lowers the cost of magic by 15%, which is very useful in the upcoming segments.
+
+Boss: I switch out to Beastbane since it still has the highest Magic Amp, and put Dark Lance back on as well since I will need it in this fight. I didn't remember to switch to Beastbane right away, so I could have done a small bit of damage more on that first hit. The rest of this fight went great. When it starts to get up after falling off the wall, I can immediately knock him back down with a well-timed Lance which saves 5-6 seconds. With another Magic Drop I can go through the last target point quicker, but I will need it more in later segments.
+
+Segment 12: Pentopus re-fight -> Lost Shrine roof
+I start off by applying the Words to my most-used magic (Gebil is +15% magic power, Lugesra is -15% magic cost) which allows me to one-shot each of the tentacles. The tentacle in the back can be hit in this fight, but requires proper positioning. Afterwards it's just a matter taking him out before he can spin attack again.
+
+I pick up the second piece of cargo after leaving the house, since this is the most convenient time to grab it. I use a spearjump to skip the bridge, which saves time from having to travel all the way around town to get to the boat. Unfortunately you can't spearjump straight to the boat from shore, as there is an invisible wall in the way.
+
+I get stuck on the pillars climbing up the Lost Shrine, but nothing major. I need to spawn the shades and get them over to the corner, and they need to attack me so I can trigger a triple jump glitch. The glitch itself isn't difficult, but getting the shades and Kaine/Emil to cooperate in a timely manner is very difficult. I get it in an average amount of time in this run, and make up for it with the many other tech tricks that I got first try in this attempt. Block puzzles were handled as efficiently as possible, but the spearjump + triple jump skip two full floors of block puzzles so this is a big time saver (1+ mins). There's one final spearjump on the roof which is fairly precise, but I also get that first try. I clear out the small shades somewhat slowly, but a ladder trolled me at the very end and this lost several seconds. The mailbox does not work until all the shades are defeated.
+
+With better shade luck for the triple jump I could have saved another 10 seconds, and some more optimized movement can save an additional 10 seconds. 20-30 seconds total can be reasonably saved in this segment.
+
+Segment 13: Lost Shrine Bosses -> Scrap Heap
+This is another short segment, but features some pretty significant quick kills. With magic drops and a proper number of hits I can take out the first form very quickly. The second does not require the magic drop, nor the third. For Kaine, the target point appears only when she's knocked down and Emil hovers over her. You can knock her back the very instant the battle starts, but the speed at which the target point fills depends on how much damage you've done to her. At this point, it moves very fast, but you can barely take it out if you get lucky. This requires proper magic management and Emil to cooperate. This saves a ton of time, because otherwise she can be very hard to hit and Emil has a tendancy to be in terribly inconvenient locations.
+
+Afterwards, I just book it to the Scrap Heap with one detour to pick up the last of the crates. This will let me make a significant purchase later on, but I don't need it for the first stage of the Heap. I start off the Scrap Heap quest and then save, as there are several things that can go wrong there.
+
+It's important to note that there are many different possible paths to take at this point. I selected the route that I believe had the best tradeoffs in terms of available shortcuts, level advantages, and time required to pick up the Phoenix Spear and other goodies. So the proper route here can greatly affect the overall final time. The Scrap Heap is important to do now so that it opens up Facade.
+
+This segment was very efficient; some optimized movement might be able to save another 5-10 seconds.
+
+Segment 14: Scrap Heap -> Village
+This time around, I need to collect a Memory Alloy from one of the giant robos in the Heap. There are two options to get this Alloy: one by taking a side route initially, and another by continuing through the normal path. Taking the side route is much faster at this point, as I don't have to backtrack through an autoscroller or go through a number of "locked room" fight sequences.
+
+The side route involves traversing this winding room with a bunch of pits. Avoiding the pits is harder than it sounds, but I make it through at a reasonable pace. Afterwards I need to kill a couple waves of ground and flying robos in order to spawn the Giant Robo. From there I can backtrack pretty quickly to the entrance to finish this part of the quest.
+
+All of the robos can be OHKO'd at this point with magic, and I gain a level by going through as well. The combat rooms go well enough. For the Giant Robo, I keep him in a stagger loop with Hand. Otherwise, it can do a ton of damage so it's worth it to be a little careful. The first one will always drop a Memory Alloy.
+
+It's slightly faster to drown and use the boat outside than to use the boar to get back to town (about a 4 sec difference). Talk to Popola, and then it's time to do another Bridge Skip so I save in order to get it right.
+
+15 seconds can be saved with better fights.
+
+Segment 15: Village -> Seaside -> Facade -> Forest of Myth -> Scrap Heap
+I do the Bridge Skip and take a small detour to Seaside to buy more Strength and Magic Drops (unload some of my Scrap Heap items) and pick up a cool 50k to buy a Phoenix Spear in Facade. I have to sell stuff just so that I don't have to head back across the bridge to buy more before heading out to Facade.
+
+In Facade, first thing is to buy the Phoenix Spear right away. This is by far the best weapon you can get without upgrading, and even beats out many fully upgraded weapons. It has +50% magic amp, and triples my physical attack. It makes short work of the coming bosses. There's a sequence of triggers to hit leading into the first Wolf encounter, and I try to get through the text as quickly as possible. I also spend a small bit of time to buff the weapon with +15% attack power and +15% experience. The experience isn't really necessary, but it takes only a second to set, so why not.
+
+The Wolf fight at the wedding can be painful sometimes. I got lucky in this attempt, and he stayed relatively still and I was able to obliterate him in just a couple seconds. It doesn't matter which option you select afterwards. The quickest route is to just head right back in and go into the next Wolf fight, which is a bit more unpredictable. I can get at most two hits with some quick dashes right at the beginning, but after that he's invincible and stays out of the fight until I kill a certain number of small wolves. The small wolves are very squirmy and difficult to predict, so the time can vary a lot for this part. I got somewhat lucky this time around and I was able to get through quicker than usual.
+
+The big boss himself is another story entirely. He very rarely stays in one place, and has several attacks to waste a ton of time and knock you back. Ideally, he'll go into his defensive stance and you can wail on him, but this is pretty rare. He was very cooperative this time around and did it twice, so I was able to get a great time on him and thus also a great time on the segment as a whole.
+
+The boar maneuvering may look sloppy back on the plains, but that is the best way to get out of that boat area with the boar. Just nothing else that can be done. Back in the Forest of Myth, another "text boss". This time around the answers vary randomly though, so I must pay attention for certain lines of the text in order to "beat" the boss. Again, the fast text trick is tremendously helpful here. I slow down in order to see the cues for the questions. After that, nothing more to do. Now I need to head back and grab a letter from the mailbox. It is difficult for me to see the walls when the light is in "sunset" mode, but I'm able to make it through without problems this time around. No major problems heading back up to the Scrap Heap as well.
+
+Some more optimized movements and maybe slightly better wolves fight can save 20 seconds here.
+
+Segment 16: Scrap Heap Revisited & Boss -> Aerie
+Back down into the depths. This time around I need to take the "regular" route which involves another mine cart autoscroller. So long as you're holding forward, you will move quicker regardless of what else you're doing, including guarding. Blocking the orbs doesn't waste any time. I kill some aerial drones in this section to get a level up, which helps a bit against the following enemies and Big Robos. Speardashes will now OHKO the robos so it becomes more efficient to use that to get rid of them.
+
+The locked room with the aerial drones is kind of a crap shoot. There are two waves of them, and the goal is to line up as many as possible. I get it decently enough in this run.
+
+When I go down the "boss hole", there's no way to cancel the get up animation. For the first phase of the boss, I need to juice up so I can take him out before he sets any electro puddles up. This is usually pretty simple, but sometimes he will escape the stagger lock. For the second phase, I can take him all the way out before he takes off, which leads immediately to the "Errorrrrrr..." sequence. I can block all of the falling debris simply by gaurding.
+
+After it falls down, the small shade will pop out and begin spawning more small shades. With perfect timing a single Hand can take all of the clones out, but I miss it in this run. I still am able to dispatch all of them before the main shade becomes vulnerable, and after that the boss is done.
+
+Back to town to trigger the events at the Aerie, and then out to collect the final piece. I almost get trolled by a rogue shade after boarding the boar, but barely make it away before it knocks me off. Something to note: there are certain pieces of the landscape that the boar will catch on, so I purposely try to avoid them. That's why some of my boar paths may not be perfectly efficient.
+
+Segment 17: Aerie Revisited -> Village
+This segment took many re-records since I need to be precise with my movement and get a specific Word to drop, in addition to some other small factors I don't entirely understand yet.
+
+This covers the entirety of the Aerie battle, which is the single lengthiest boss fight sequence in the game. The first trigger is at the Mayor's hut, which is way in the middle of nowhere. After that I need to get to the "commerce" area of town. I do a small skip which requires correct positioning for a spearjump to avoid a set of invisible walls, and saves a couple of seconds climbing a ladder if I get it right. As soon as I get to the commerce section, I load up on magic and strength drops, since I will need them.
+
+Afterwards, talking to the gaurd triggers the next scene. I back off so I can watch the locations of two of the NPCs and see if I can set up for quick kills, but it didn't work out this time. I can move on from this area as soon as I take out 3 enemies. Luckily the gaurds count as enemies too, so I can skip one or more of the shades by taking out the gaurds. A quick-kill on 2 or more shades is usually preferred though, but that requires them being close enough to the edge. I didn't quite get that in this run.
+
+Over by Kaine, I fight a ton of shades. Somewhere in this battle, I need to get the Gebuloth word, which amps my damage to +30% (currently +15%) and is necessary to do a quick kill on the last phase of the boss. Otherwise it's just a matter of dispatching as many shades as possible, preferrably by knocking them off the edge. If I'm on the main platform though, I could possibly knock them to the bottom section, which would ruin the run. In any case, the trigger for advancing from this section is inconsistent; most times I have to kill every shade, but a number of times the cutscene triggered when there were a number of shades still present. Ideally I would get it with a small number of shades remaining, but I wasn't able to control it. One more small spear jump to skip the ladder again, and then I just need to take out all the shades to begin the real boss fight.
+
+The initial phase takes damage up to a certain point, so I'm not concerned with powering up. It will always move in one more time, and then the dialog is my cue for when I can hit it again. I can begin moving to the next area right away, and most of the time the laser will not hit me. Sometimes I get trolled though. Luckily I can keep climbing ladders while the camera is focusing on the boss, and it resets when I get to the top. I whiff one or two of the Lances on this phase, but it doesn't hurt too much. I can spearjump to the next platform, but it doesn't save any time since the boss is triggered from dialog, so I take a safer route to get down. Once it opens up again, I have a short window where I can attack it and not have to worry about the arms blocking the core. I need to do enough damage during this time; this is why Gebuloth was necessary. I get the quick-kill.
+
+On the way back I misjudge the location of the walls and lose a little bit of time from not taking the boar all the way, but my earlier tricks more than make up for this lost time. After this I save again and finish out the segment.
+
+Some 20-25 seconds can be saved with perfect knowledge of the triggers and slightly better fights, in addition to not getting knocked off the boar.
+
+Segment 18: Village -> Lost Shrine Roof
+Another really short segment, but this one is chock-full of technical tricks. This is a combination of the bridge skip plus every single Lost Shrine skip, and getting all of them right can be really difficult.
+
+Outside of the Lost Shrine, I can occasionally be trolled by the shades on the bridge, but especially by the aerial shade. Occasionally the ones at the top of the ladder can come at me with a vengeance, but everything went smoothly this time around.
+
+The star of this segment is the trooper who tirelessly followed me right away and attacked first thing. This allowed me to get a nearly perfect triple jump, and allowed this segment to be incredibly fast. I cannot describe how difficult it is to get this to happen; Kaine and Emil will usually keep them boxed in the room pretty well, and it wastes too much time to tell them not to attack. Even if I am able to get one or two over to that corner, a lot of times they will stand there circle-strafing around me and not actually attacking, which adds more time. They will most often use an attack that has a large warm-up also, so even more time. He followed me immediately, used the attack with the shortest warm-up, and I pulled off the trick perfectly. This is something like a 1 in 100,000 chance. Bravo, sir.
+
+I nail the following spearjumps as well, although I was a little shaky on the roof skip. I also hit some pieces of the scenery and bounced around a bit, losing 4 seconds in the process, but otherwise this was an amazing segment. About 5-8 seconds can be reasonably saved in this segment.
+
+Segment 19: Shadowlord's Castle -> The End
+Lots to do. The first thing is a very small trick that allows me to get up to the platform with the birds without having to jump around them. The Devola and Popola battle has some tricks to it, but there are only certain times that you can damage them enough. It's ideal for them to stick together, but that goes out the window right away. Normally this first phase goes until certain points of the dialog, but I have done it before where a portion of the dialog is skipped. That did not occur in this run. The second phase I juice up and charge them full force. There is a certain sequence to attack them in to get optimal damage, and I pull that off pretty well here. The first and second teleports they will always be together. Overall, not a bad fight.
+
+For the ballroom, only certain groups of enemies act as triggers for the next group to spawn, and I take care of all of those groups pretty well. After all of the dancers, I only have dialog to wait through, so I make sport of the flying shades while waiting. They provide pretty good experience, but I'm nowhere close to getting additional levels from it. For the part with the shade balls, I just need to kill a certain number before I can go to Kaine. I get lucky with the boar and hit it just as it starts charging, which knocks it down and lets me obliterate it. This is one of the few parts of the game where charge attacks are useful, as each individual hit can connect on the boar and its variations. For the armored boar I just need to kill it once to trigger the cutscenes that follow.
+
+Armored Boar, rd 2: it trolls me by jumping over my speardive, which would have been a bit faster, but a clutch charge attack takes it down quick. The next sequences are all scripted, and I can't advance until all the dialog plays out. I try to space out when I kill the boar, since it can still troll me at the doorway sometimes.
+
+Devola & Popola, rd 2: Devola is first up, and I juice up to take her out. 3 Cycles is enough, but occasionally you can hit 2 cycles by spacing out the attacks well enough. Popola is simple as well, I just need to get enough hits in before the magic connects.
+
+In the following 2 rooms, I go as far into the room as possible to spawn all the shades, and then begin cleanup. With the exception of the last shade in the second room, this goes pretty well.
+
+Noir: If I do enough damage quick enough, I can skip his second phase entirely, which I'm able to pull off.
+
+Shadowlord: There's a certain sequence I try to use that will keep him staggered/on the ground, but he escapes a couple times. Overall this went pretty well since I was able to keep up damage, even if it looks a little sloppy. For the second fight, he can choose to randomly fly all over the room, so he gave me the best possible pattern. It's difficult to dodge those initial magic waves, and for whatever reason my Lances didn't finish him off, but I was able to get him the rest of the way with an air speardash and another Lance. This cost a couple seconds, but since all the rest of the patterns have been great this is still an overall great fight. For the final part where he goes into full danmaku mode, there are a couple of paths I can take to get through quickly without being hit. The last one is particularly difficult, but I make it through this time. Touching any of the balls will instantly launch me across the screen in a hard knockdown.
+
+After the boss is over, I need to go over to Yonah and enter my name after zooming through the text. Luckily, a is still the quickest option. The rest proceeds automatically, and after the credits I have a chance to save the game and record the game time, which was still active through all of the credit sequence.
+
+This was a great segment, and I was just barely able to break the 3:23 barrier by optimizing the hell out of it. Whew. Possible to save another 20 seconds with every boss fight going perfectly (so many bosses!).
+
+====================================================================
+
+And that's the run. I still feel like the earlier segments are quite sloppy, but I had some amazing play and luck in the later half of the game. There are still plenty of other things to investigate with this game, and it wouldn't surprise me if sub 3 hours becomes possible some day (I don't believe it is with what's currently known). Perfect play on each of the segments amounts to some 7-8 minutes of additional saving, along with 6 minutes lost to saving and a small bit from using DLC costumes in several segments, and there are still several minutes to make up. So future skips would allow this to potentially improve even more, but I am really proud of this run overall.
+
+Thanks for watching!
+~Omnigamer

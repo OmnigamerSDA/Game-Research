@@ -1,0 +1,41 @@
+ADDRESS:	DESC:
+7EF830		Genie Health
+7EF821		Beholder Health
+7EF97E		Left Eye Health (from your perspective)
+7EF97D		Right EYe Health
+7EF97F		Head Health
+7EF83C		LR Clam
+7EF83D		LL Clam
+7EF83E		UR Clam
+7EF83F		UL Clam
+7EF824		Fox Thing
+7EF821		Dragophant
+7EF821		Dragon
+7EF820		Ashura
+7EF83E		Raglan
+
+
+
+Boss Health
+Genie: 		32
+Beholder:	7 (always)
+Face:		16 Each
+Clams:		16 Each
+Fox:		22
+Dragophant:	48
+Dragon:		32
+Ashura:		48
+Raglan:		16 (always)
+
+
+Damage
+Punch: 1
+3rd Hit: 2
+Air Kick: 2
+Crescent: 4
+Comet: 4
+Burst: 4
+Lightning: 4
+Warrior Force: Double normal damage
+Phoenix: 8
+
