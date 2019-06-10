@@ -6,4 +6,4 @@ It's possible that not every file in here is my own creation. If somebody else's
 
 The various hitbox scripts are built for specific major revisions of BizHawk, and occasionally snes9x. As such, they may need to be modified slightly to make sure the syntax and functions match up with your emulator of choice. Most often these are the readmemory functions, but also some functions that draw to the UI may not work correctly in other versions.
 
-Instances of code and data are offered under GPLv3 license. My notes and other types of files are offered under MIT license. 
+Instances of code and data are offered under GPLv3 license.
